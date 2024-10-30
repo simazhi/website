@@ -1,0 +1,25 @@
+---
+title: 'Xu Zhang'
+date: '2024-10-20'
+categories: ['committee member', 'PhD', 'U Antwerpen', 'ongoing']
+description: '[2024-2028] A Cross-linguistic study of aspectual particles in English phrasal verbs and Chinese verb-
+particle constructions'
+execute: 
+  message: false
+  warning: false
+page-layout: article
+# image: figure_6.png
+---
+
+This project will, for the first time, provide a cross-linguistic comparison between English and Mandarin Chinese of highly grammaticalized directional particles such as ‘up’ and ‘down’ in English, and ‘shang’ (上) and ‘xia’ (下) in Mandarin, to convey aspectual meanings of completion or intensification in a parallel verb-particle construction in the two languages (e.g., finish up in English and guan shang in Mandarin). The study investigates changes
+in the (constraints on) productivity of the already grammaticalized particles (which originally expressed direction) in American English and Mandarin Chinese, with particular attention on the
+association of register with more or less innovative use.
+
+The project has three primary objectives: (i) to map the semantics and productivity (i.e., their capacity to combine with a variety of verbs) of these grammaticalized particles in American English and Mainland Mandarin Chinese from 1920 to 2020; (ii) to examine the productivity of these particles across different registers, including (for contemporary data) in web-based content, with the goal of understanding the role of register in the innovative use of verb-particle constructions in both languages; and (iii) theoretically, by looking at two unrelated languages, it particle combinations, including the question to what extent highly grammaticalized constructions in unrelated languages show parallelisms in their (post-grammaticalization) development, and whether any substantial differences can be seen as persistence effects from their earlier grammaticalization history.
+
+This study is based on a comprehensive database of verb-particle combinations, drawing from multiple corpora. For English, data is sourced from the Corpus of Historical American English (COHA), the Corpus of Contemporary American English (COCA), and Global Web-Based English (GloWbE). For Mandarin Chinese, data is collected from the Lancaster Corpus of Mandarin Chinese (LCMC), the BLCU (Beijing Language and Culture University) Chinese corpus, and the Leiden Weibo Corpus. The dataset provides a balanced representation of spoken, written, and web-based registers across a 100-year period, spanning from 1920 to 2020.
+
+<!-- [Find more about Sumin Guan here.](https://www.arts.kuleuven.be/ling/qlvl/people/pages/00158381) -->
+
+
+

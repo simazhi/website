@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Thomas Van Hoey</title>
+<link>https://thomasvanhoey.com/projects.html</link>
+<atom:link href="https://thomasvanhoey.com/projects.xml" rel="self" type="application/rss+xml"/>
+<description>This is Thomas Van Hoey&#39;s personal website.</description>
+<generator>quarto-1.5.57</generator>
+<lastBuildDate>Thu, 31 Oct 2024 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Borrowing iconic words: Loss, transfer, and reinvention of depiction</title>
+  <link>https://thomasvanhoey.com/projects/borrowing_iconic_words/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://thomasvanhoey.com/projects/borrowing_iconic_words/map.png" class="img-fluid figure-img"></p>
+<figcaption>Map of the sample in this project</figcaption>
+</figure>
+</div>
+<section id="project-description" class="level1">
+<h1>Project description</h1>
+<p>Iconicity is a fundamental aspect of language. Words are iconic when their forms reveal something about their meaning, e.g., “woof” ‘sound of a dog barking’, “zigzag” ‘running while alternating from side to side’. Iconic words can be found in any natural language. Non-iconic words can also display iconicity (e.g.&nbsp;size sound symbolism), especially when they belong to the core vocabulary—words that resist borrowing into other language families. It has been hypothesized that iconicity is negatively correlated with borrowability. Yet, this hypothesis has not been tested on iconic words.</p>
+<p>The BORROWING ICONIC WORDS project develops two measures (phonosemantic index, borrowability index) to gauge the universality of form-meaning mappings in iconic words, and how borrowable they are, in order to study the relation between iconicity and borrowability. The project first constructs a large-scale typological database (“Depicticon”) and then applies the two measures to it. BORROWING ICONIC WORDS devotes special attention to iconic lexicons to the case study of the East and Mainland Southeast Asia linguistic area.The project situates the borrowing of iconic words at the crossroads between linguistic typology, cognitive effects, and socio-cultural factors.</p>
+</section>
+<section id="members-involved" class="level1">
+<h1>Members involved</h1>
+<ul>
+<li>PI <a href="https://thomasvanhoey.com">Thomas Van Hoey</a></li>
+<li>Supervisor <a href="https://sites.google.com/site/bszmrecsanyi/">Benedikt Szmrecsanyi</a></li>
+<li>Supervisor <a href="https://www.arts.kuleuven.be/english/our-staff/zap/jeanchristopheverstraete">Jean-Christophe Verstraete</a></li>
+</ul>
+</section>
+<section id="my-role-in-the-project" class="level1">
+<h1>My role in the project</h1>
+<p>I obtained this project as a senior postdoctoral fellow of the <a href="https://fwo.be/en/">FWO</a>.</p>
+</section>
+<section id="outputs" class="level1">
+<h1>Outputs</h1>
+<p>The project is currently being carried out.</p>
+</section>
+<section id="want-to-contribute" class="level1">
+<h1>Want to contribute?</h1>
+<p>Please contact met at thomas[DOT]vanhoey[AT]kuleuven[DOT]be</p>
+</section>
+<section id="basic-info" class="level1">
+<h1>Basic info</h1>
+<div class="card">
+<p>FWO 2024</p>
+<p>Number: FWO K1AFE24N</p>
+<!-- Amount: ca. 300,000 EUR + 17,000 EUR -->
+<p>Fonds voor Wetenschappelijk Onderzoek <br>KU Leuven</p>
+</div>
+
+
+</section>
+
+ ]]></description>
+  <category>iconicity</category>
+  <category>ideophones</category>
+  <category>onomatopoeia</category>
+  <category>expressives</category>
+  <category>borrowing</category>
+  <category>typology</category>
+  <guid>https://thomasvanhoey.com/projects/borrowing_iconic_words/</guid>
+  <pubDate>Thu, 31 Oct 2024 23:00:00 GMT</pubDate>
+  <media:content url="https://thomasvanhoey.com/projects/borrowing_iconic_words/map.png" medium="image" type="image/png" height="62" width="144"/>
+</item>
+<item>
+  <title>Breaking down and rebuilding iconicity: machine learning verified by human learning</title>
+  <link>https://thomasvanhoey.com/projects/breaking_down_rebuilding_iconicity/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><img src="https://thomasvanhoey.com/projects/breaking_down_rebuilding_iconicity/map2.png" class="img-fluid"></p>
+<section id="project-description" class="level1">
+<h1>Project description</h1>
+<p><a href="https://linguistics.hku.hk/research_ling_current_grant_2024_yd1/">from the HKU linguistics website:</a></p>
+<p>An English speaker who hears the Cantonese word dang would be hard-pressed to guess the correct translation (“chair”) above chance level. Some words, however, are easy to guess, for example ideophones. Ideophones are words that depict sensory imagery and exist in every spoken language. An English speaker who hears the Japanese ideophone kira-kira is very likely to guess the correct translation (“flashing”).</p>
+<p>What are the special properties of ideophones that allow speakers to easily guess their meaning? This is still not well-understood. What we do know is that ideophones rely on iconicity to be meaningful. Iconicity is a connection between form and meaning. Since ideophones are spoken, their “form” is sound. Ideophones essentially “sound like” what they mean.</p>
+<p>What we don’t know is the answer to this question: what is it about kira-kira that sounds like “flashing” to native and non-native speakers? This question is simple yet speaks to a unifying and fundamental aspect of human cognition: how do we relate sounds to the world? By striving to answer this question, our objectives feed into language acquisition, psychology, and machine learning.</p>
+<p>The main goal of our project is to identify which sound properties cause ideophones to sound like what they mean. We do this by teaching ideophones from a multilingual database to a neural network. To do this, we train our network on pronunciation (e.g., kira-kira) and meaning (e.g., “flashing”) alone, replicating circumstances participants face during guessing tasks. Next, we pinpoint which sounds the neural network relied on to guess meanings more accurately.</p>
+<p>We then test the psychological reality of what the neural network has learned by first asking it to generate new ideophones, then using these as stimuli in two experiments: (1) a learning study, and (2) a transmission study (a game of telephone), to see how the new ideophones “survive in the wild” as they are passed from one participant to the next.</p>
+<p>Our project has two impact pathways: (1) developing an open-access database of ideophones from many languages, labeled with sound-meaning mappings identified by our neural network and verified through experimental evidence, and (2) designing an open-source brain-teaser game that helps improve one’s memory, while allowing us to continue to improve our network. For (1), we convert our neural network’s training set into a searchable website. For (2), we harness the sound-meaning mappings pin-pointed by our network to design memory tasks shown to improve memory performance.</p>
+</section>
+<section id="members-involved" class="level1">
+<h1>Members involved</h1>
+<ul>
+<li>PI <a href="https://hub.hku.hk/cris/rp/rp02160">Youngah Do</a></li>
+<li>Co-I <a href="https://thomasvanhoey.com">Thomas Van Hoey</a></li>
+<li>Co-I <a href="https://hdt.arts.hku.hk/christophe-coupe">Christophe Coupe</a></li>
+<li>Co-I <a href="https://uni-tuebingen.de/en/faculties/faculty-of-humanities/departments/modern-languages/department-of-linguistics/chairs/quantitative-linguistics/staff/harald-baayen/">Harald Baayen</a></li>
+</ul>
+</section>
+<section id="my-role-in-the-project" class="level1">
+<h1>My role in the project</h1>
+<p>I am a co-investigator of this project. My role consists of</p>
+<ul>
+<li>finding data</li>
+<li>preparing data</li>
+<li>analysis</li>
+<li>writing</li>
+</ul>
+</section>
+<section id="outputs" class="level1">
+<h1>Outputs</h1>
+<p>in preparation</p>
+<!-- ## Papers related to this project -->
+<!-- ## Papers benefiting from the research environment -->
+<!-- ## Related blog posts -->
+</section>
+<section id="basic-info" class="level1">
+<h1>Basic info</h1>
+<div class="card">
+<p>GRF 2023/2024</p>
+<!-- Amount: 846,300 HKD -->
+<p>General Research Fund (GRF), University Grants Council (UGC), Hong Kong</p>
+<p>Number: GRF 17602723</p>
+<p>The University of Hong Kong, Department of Linguistics, Language Development Lab (LDL)</p>
+</div>
+
+
+</section>
+
+ ]]></description>
+  <category>gesture</category>
+  <category>ideophones</category>
+  <category>iconicity</category>
+  <guid>https://thomasvanhoey.com/projects/breaking_down_rebuilding_iconicity/</guid>
+  <pubDate>Wed, 31 Jan 2024 23:00:00 GMT</pubDate>
+  <media:content url="https://thomasvanhoey.com/projects/breaking_down_rebuilding_iconicity/map2.png" medium="image" type="image/png" height="62" width="144"/>
+</item>
+<item>
+  <title>Relatively complex or relatively simple? Toward new ways of analyzing language variation</title>
+  <link>https://thomasvanhoey.com/projects/grammatical_alternation_complexity/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://thomasvanhoey.com/projects/grammatical_alternation_complexity/figure_5.png" class="img-fluid figure-img"></p>
+<figcaption>Different views on alternations</figcaption>
+</figure>
+</div>
+<section id="project-description" class="level1">
+<h1>Project description</h1>
+<p>Pilot research carried out in the PI’s lab in Leuven (Gardner et al.&nbsp;2021) indicates that grammatical variation (e.g., Give me one vs.&nbsp;Give one to me) does not complicate language production, as choice contexts do not attract dysfluencies (i.e., long pauses and um’s and uh’s) across a large corpus of spoken English. This is astonishing given customary conjectures in theoretical linguistics. Building on these preliminary findings, the project will establish a foundation for large-scale follow-up research. Specifically, we will extend the dataset used in Gardner et al.&nbsp;(2021) and expand the analysis to address several urgent unresolved questions. For example, do non-canonical dysfluencies (e.g., discourse markers such as like and you know) behave differently to um and uh? Are different types of choice contexts more or less prone to attracting dysfluencies? Are more restricted choices “easier’’ for speakers than freer choices? Our results will have major implications for theorizing in linguistics.</p>
+</section>
+<section id="members-involved" class="level1">
+<h1>Members involved</h1>
+<ul>
+<li>PI <a href="https://sites.google.com/site/bszmrecsanyi/">Benedikt Szmrecsanyi</a></li>
+<li>Executing <a href="https://thomasvanhoey.com">Thomas Van Hoey</a></li>
+<li>Collaborator <a href="https://www.matthuntgardner.com/">Matt H. Gardner</a></li>
+<li>Collaborator <a href="https://www.arts.kuleuven.be/ling/qlvl/people/pages/00157540">Ruiming Ma</a></li>
+</ul>
+</section>
+<section id="my-role-in-the-project" class="level1">
+<h1>My role in the project</h1>
+<p>I joined this project as a postdoctoral fellow. My role consists/ed of</p>
+<ul>
+<li>annotating data</li>
+<li>overseeing students who annotate data</li>
+<li>analysis</li>
+<li>writing</li>
+</ul>
+</section>
+<section id="outputs" class="level1">
+<h1>Outputs</h1>
+<section id="papers-related-to-this-project" class="level2">
+<h2 class="anchored" data-anchor-id="papers-related-to-this-project">Papers related to this project</h2>
+<p>under review</p>
+<!-- ## Related blog posts -->
+<!-- The post about ["Iconicity in ideophones: Guessing, memorizing, and reassessing"](https://thomasvanhoey.com/posts/2023-04-21-reassessing/) -->
+</section>
+</section>
+<section id="basic-info" class="level1">
+<h1>Basic info</h1>
+<div class="card">
+<p>BOF C1</p>
+<!-- Amount:  -->
+<p>Number: C14/22/045</p>
+<p>KU Leuven</p>
+</div>
+
+
+</section>
+
+ ]]></description>
+  <category>alternations</category>
+  <category>complexity</category>
+  <category>isomorphism</category>
+  <guid>https://thomasvanhoey.com/projects/grammatical_alternation_complexity/</guid>
+  <pubDate>Fri, 30 Sep 2022 22:00:00 GMT</pubDate>
+  <media:content url="https://thomasvanhoey.com/projects/grammatical_alternation_complexity/figure_5.png" medium="image" type="image/png" height="78" width="144"/>
+</item>
+<item>
+  <title>CHIDEOD - The Chinese Ideophone Database</title>
+  <link>https://thomasvanhoey.com/projects/chinese_ideophone_database/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://thomasvanhoey.com/projects/chinese_ideophone_database/logo.png" class="img-fluid figure-img"></p>
+<figcaption>Badge of the CHIDEOD R package</figcaption>
+</figure>
+</div>
+<section id="project-description" class="level1">
+<h1>Project description</h1>
+<p>One important aspect of my PhD research consisted of collecting Chinese ideophones (or candidates of that category) in a central place. The Chinese Ideophone Database (<strong>CHIDEOD</strong>) provided the perfect place for this.</p>
+<p>The make-up of the database is explained in this article:</p>
+<p><strong>Van Hoey, Thomas</strong> &amp; Arthur Lewis Thompson. 2020. The Chinese Ideophone Database (CHIDEOD). <em>Cahiers de Linguistique Asie Orientale</em> 49(2). 136–167. <a href="https://doi.org/10.1163/19606028-bja10006">doi: 10.1163/19606028-bja10006</a></p>
+</section>
+<section id="members-involved" class="level1">
+<h1>Members involved</h1>
+<ul>
+<li>PI <a href="https://thomasvanhoey.com">Thomas Van Hoey</a></li>
+<li>Co-author Arthur Lewis Thompson</li>
+<li>Supervisor <a href="https://chiarungluntu.blogspot.com/">Chiarung Lu 呂佳容</a></li>
+</ul>
+</section>
+<section id="other-outputs" class="level1">
+<h1>Other outputs</h1>
+<section id="dissertation" class="level2">
+<h2 class="anchored" data-anchor-id="dissertation">Dissertation</h2>
+<p>You can read about CHIDEOD’s first use case <a href="https://thomasvanhoey.com/losse_files/theses/DISSERTATION.pdf">in my dissertation</a></p>
+<p>Van Hoey, Thomas. 2020. Prototypicality and salience of Chinese ideophones: A cognitive and corpus linguistics approach 漢語擬聲(態)詞的原型與顯著特徵：以認知與語料庫語言學方法探討. Taipei: National Taiwan University. PhD dissertation.</p>
+</section>
+<section id="interactive-app" class="level2">
+<h2 class="anchored" data-anchor-id="interactive-app">Interactive app</h2>
+<p>I made <a href="https://simazhi.shinyapps.io/chideod_appversion/">an interactive app</a> in the Shiny framework for easy consultation of the database.</p>
+<p>This app also can export into multiple formats, e.g., .csv, .xlsx.</p>
+</section>
+<section id="r-package" class="level2">
+<h2 class="anchored" data-anchor-id="r-package">R package</h2>
+<p>If you want to use it directly in R, you can <a href="https://github.com/simazhi/chinese_ideophone_database">follow the instructions on the project’s GitHub page</a>.</p>
+</section>
+<section id="osf-page" class="level2">
+<h2 class="anchored" data-anchor-id="osf-page">OSF page</h2>
+<p>The data can also also be found <a href="https://osf.io/kpwgf/">on this OSF repository</a>.</p>
+</section>
+</section>
+<section id="basic-info" class="level1">
+<h1>Basic info</h1>
+<div class="card">
+<p>Funding was provided by the same funders as my PhD.</p>
+<p>National Taiwan University, Graduate Institute for Linguistics GIL</p>
+</div>
+
+
+</section>
+
+ ]]></description>
+  <category>ideophones</category>
+  <category>iconicity</category>
+  <category>Chinese</category>
+  <guid>https://thomasvanhoey.com/projects/chinese_ideophone_database/</guid>
+  <pubDate>Sun, 31 Jan 2021 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Exploring the learnability of ideophones through articulatory and manual gestures</title>
+  <link>https://thomasvanhoey.com/projects/learnability_of_ideophones/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://thomasvanhoey.com/projects/learnability_of_ideophones/figure_6.png" class="img-fluid figure-img"></p>
+<figcaption>Scores of how well ideophones are transmitted</figcaption>
+</figure>
+</div>
+<section id="project-description" class="level1">
+<h1>Project description</h1>
+<p><a href="https://linguistics.hku.hk/research_ling_current_grant_2024_yd2/">from the HKU linguistics website:</a></p>
+<p>Imitation is a core part of learning and expressing language. In order to understand certain words, we must know what makes them imitative. These ‘certain words’ are ideophones. Ideophones exist in all known spoken languages. They are known to be easily understood by non-native speakers due to their imitative nature. Studies show that if, for example, a Dutch speaker hears a Japanese ideophone, even with zero Japanese experience, they can intuit that ideophone’s meaning. This implies that ideophones tap into a universal cognitive ability that gives sound a meaning under the right communicative circumstances.</p>
+<p>The goal of our research is to investigate how ideophones express meaning in terms of a universally accessible ability for all spoken language users: articulatory movement of speech organs. To date, linguistic research has largely ignored ideophones because most meanings cannot be expressed by imitation, eg, foot, pink, mountain. Ideophones are limited to descriptive meanings like sounds, motions, visuals, touch/feel, and inner feelings, eg, plonk, zig-zag, bling-bling.</p>
+<p>Despite this, parent-child interactions are full of ideophones, so much so that ideophones have been proposed as a crucial component to language learning. Still, we do not know how ideophones are learnt, nor do we know what makes them easily learnable. What we do know is that ideophones frequently co-occur with what is also largely ignored by traditional linguists: descriptive hand gestures. Some researchers claim that ideophones are incomplete without their co-occurring hand gestures, arguing that ideophones are analogous to descriptive gestures made with the mouth instead of the hands.</p>
+<p>Given that movement is imperative for understanding hand gestures, this project hypothesizes that movement of speech organs is key to learning and understanding ideophones. No study has investigated ideophones in terms of articulatory (speech organ) movement or co-speech hand gesture. The current project seeks to close this gap by being the first to empirically incorporate movement and hand gesture as factors into two ideophone learning studies.</p>
+<p>Our first study investigates whether articulatory complexity affects how well non-native speakers learn ideophones without gestures, following a well-established ideophone learning paradigm. Our second study investigates how participants use hand gestures to teach and learn ideophones of varying articulatory complexity in an iterated learning task, a pioneering study for ideophones.</p>
+<p>Cumulatively, our project will lead to a deeper understanding of how audio-visual movement can improve language learning and instruction, allowing for impact beyond the realm of research and into the classroom.</p>
+</section>
+<section id="members-involved" class="level1">
+<h1>Members involved</h1>
+<ul>
+<li>PI <a href="https://hub.hku.hk/cris/rp/rp02160">Youngah Do</a></li>
+<li>Co-I <a href="https://markdingemanse.net/">Mark Dingemanse</a></li>
+<li>Co-I Arthur Lewis Thompson</li>
+<li>Executing <a href="https://thomasvanhoey.com">Thomas Van Hoey</a></li>
+</ul>
+</section>
+<section id="my-role-in-the-project" class="level1">
+<h1>My role in the project</h1>
+<p>I joined this project as a postdoctoral fellow. My role consisted of</p>
+<ul>
+<li>(co-)designing the experiments</li>
+<li>preparing experiments</li>
+<li>running them</li>
+<li>analyzing them</li>
+<li>co-writing the articles</li>
+</ul>
+<p>The interactions with Youngah Do, Mark Dingemanse, and Arthur Thompson were often though-provoking, and made me grow as a scholar.</p>
+<p>I found in HKU a great institution to do linguistic research at.</p>
+</section>
+<section id="outputs" class="level1">
+<h1>Outputs</h1>
+<section id="papers-related-to-this-project" class="level2">
+<h2 class="anchored" data-anchor-id="papers-related-to-this-project">Papers related to this project</h2>
+<p><strong>Van Hoey, Thomas</strong>, Arthur Lewis Thompson, Youngah Do &amp; Mark Dingemanse. 2023. Iconicity in ideophones: Guessing, memorizing, and reassessing. <em>Cognitive Science</em> e13268. 1-27. <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.13268">doi: 10.1111/cogs.13268</a></p>
+<p>Thompson, Arthur Lewis, <strong>Thomas Van Hoey</strong> &amp; Youngah Do. 2021. Articulatory features of phonemes pattern to iconic meanings: Evidence from cross-linguistic ideophones. <em>Cognitive Linguistics</em> 32(4). 563-608. * <a href="https://10.1515/cog-2020-0055">doi: 10.1515/cog-2020-0055</a></p>
+</section>
+<section id="papers-benefiting-from-the-research-environment" class="level2">
+<h2 class="anchored" data-anchor-id="papers-benefiting-from-the-research-environment">Papers benefiting from the research environment</h2>
+<p>Yu, Xiaoyu, <strong>Thomas Van Hoey</strong>, Frank Lihui Tan, Baichen Du &amp; Youngah Do. 2024. Tracking phonological regularities: Exploring the influence of learning mode and regularity locus in adult phonological learning. <em>Linguistics Vanguard</em> aop. 1-12. <a href="https://doi.org/10.1515/lingvan-2023-0050">doi: 10.1515/lingvan-2023-0050</a></p>
+<p><strong>Thomas Van Hoey</strong>, Xiaoyu Yu, Tungle Pan &amp; Youngah Do. 2024. What ratings and corpus data reveal about the vividness of Mandarin ABB words. <em>Language and Cognition</em> aop. 1-23. <a href="https://doi.org/10.1017/langcog.2024.22">doi: 10.1017/langcog.2024.22</a></p>
+<p><strong>Van Hoey, Thomas</strong>. 2023. ABB, a salient prototype of collocate-ideophone constructions in Mandarin Chinese. <em>Cognitive Linguistics</em> 34(1). 133-163. <a href="https://doi.org/10.1515/cog-2022-0031">doi: 10.1515/cog-2022-0031</a></p>
+</section>
+<section id="related-blog-posts" class="level2">
+<h2 class="anchored" data-anchor-id="related-blog-posts">Related blog posts</h2>
+<p>The post about <a href="https://thomasvanhoey.com/posts/2023-04-21-reassessing/">“Iconicity in ideophones: Guessing, memorizing, and reassessing”</a></p>
+</section>
+</section>
+<section id="basic-info" class="level1">
+<h1>Basic info</h1>
+<div class="card">
+<p>GRF 2020/2021</p>
+<!-- Amount: 700,134 HKD -->
+<p>General Research Fund (GRF), University Grants Council (UGC), Hong Kong</p>
+<p>Number: GRF 17603120</p>
+<p>The University of Hong Kong, Department of Linguistics, Language Development Lab (LDL)</p>
+</div>
+
+
+</section>
+
+ ]]></description>
+  <category>gesture</category>
+  <category>ideophones</category>
+  <category>iconicity</category>
+  <guid>https://thomasvanhoey.com/projects/learnability_of_ideophones/</guid>
+  <pubDate>Sun, 31 Jan 2021 23:00:00 GMT</pubDate>
+  <media:content url="https://thomasvanhoey.com/projects/learnability_of_ideophones/figure_6.png" medium="image" type="image/png" height="84" width="144"/>
+</item>
+<item>
+  <title>Chinese ideophones and prototypicality</title>
+  <link>https://thomasvanhoey.com/projects/prototypicality_ideophones/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><img src="https://thomasvanhoey.com/projects/prototypicality_ideophones/huihui.png" class="img-fluid"></p>
+<section id="project-description" class="level1">
+<h1>Project description</h1>
+<p>This project, which is handled in my dissertation, explores prototypicality and salience effects of the variation within the Chinese ideophonic lexicon.</p>
+<p>In my dissertation, Chinese is demonstrated to have ideophones, by unifying previously separately studied phenomena such as reduplication, binomes, and onomatopoeia. However, the “ideophonic lexicon” is not homogeneous; rather, it is prototypically structured. This is demonstrated from a synchronic and diachronic perspective, as well as across different modalities, with special attention devoted to the written modality. Thus, this dissertation aims to address the lacunae within the literature on ideophones, in which Chinese is often underrepresented, diachronic perspectives are scarce, and the ideophonic usage of writing is often neglected.</p>
+<p>My original contributions to knowledge include (1) the creation of an open-source database of Chinese ideophones and (2) four methodological perspectives that show how the variation of and within this category is structured. The Chinese Ideophone Database (version 0.9.3) collects 4948 unique onomatopoeia and ideophones (mimetics) of modern Mandarin, as well as Middle Chinese and Old Chinese. It follows a framework that can be reused and updated in future research, and is accessible in different formats (.rds, .xlsx, .csv, R package and online app interface). Based on this database and corpus evidence, the variation of the ideophonic lexicon in Chinese is studied, in four case studies, each with its own methodological lens.</p>
+<p>The first case study delineates the boundary of (Mandarin) Chinese ideophones as a category and investigates how it is structured. Using Multiple Correspondence Analysis, the interactions between morphological patterns, orthographic motivation and depiction of sensory domain were calculated. These confirm that sound-depicting ideophones (onomatopoeia) correlate mostly with single morphemes, and that the depiction of movement and sound mostly correlates with full reduplication. However, the analysis also shows how strong other correlations between different values of the parameters are. A follow-up application of Multiple Correspondence Analysis finds that these correlations are also found with corpus data. Important in both applications, however, is the fuzzy overlap between correlations, which strongly suggests that the ideophonic lexicon in Chinese has a dual prototypical core.</p>
+<p>The second case study investigates the diachronic prototype semantics of Chinese ideophones in the semantic field of light. Through manual study, the mental spaces, frames, domains and image schemas for a sample are followed. The meanings form interrelated polysemous clusters, which are dynamic throughout time, with clear prototypical cores that semantically extend over time and can be transient.</p>
+<p>The third case study studies lexical variational salience within the field of light ideophones from three perspectives by constructing a semantic vector space based on a historical corpus. These perspectives are semasiological salience, onomasiological salience, and structural salience. These three types of salience show that within the semantic field of light, Chinese ideophones are not a homogeneous block. Instead they have different features and elements that stand out, depending on one’s perspective, an observation that can be extended to other types of ideophones and the generalizations that can be made about ideophones as a category.</p>
+<p>The fourth case study continues the probing of the heterogeneity within the Chinese ideophonic lexicon, by adopting collostructional analysis to study ideophones used in Mandarin Chinese constructions. The association measures obtained through this method show to what degree individual ideophonic items are attracted or repulsed by certain constructions, and that some items also depend on these constructions to even occur. Furthermore, the well-known ABB construction is addressed and is argued to be an instance of a more schematic construction collocate-ideophone.</p>
+<p>The case studies reveal that the Chinese ideophonic lexicon is not homogeneous, and that many different elements of salience can be found, depending on the perspective and the granularity of the analysis. They constitute an important addition to previous research by nuancing certain intuitive truths about the nature of ideophones.</p>
+</section>
+<section id="members" class="level1">
+<h1>Members</h1>
+<ul>
+<li>PI <a href="https://thomasvanhoey.com">Thomas Van Hoey</a></li>
+<li>Supervisor <a href="https://chiarungluntu.blogspot.com/">Chiarung Lu 呂佳容</a></li>
+</ul>
+</section>
+<section id="my-role-in-the-project" class="level1">
+<h1>My role in the project</h1>
+<p>This was my PhD project.</p>
+</section>
+<section id="outputs" class="level1">
+<h1>Outputs</h1>
+<section id="dissertation-2020" class="level2">
+<h2 class="anchored" data-anchor-id="dissertation-2020">Dissertation (2020)</h2>
+<p><a href="https://thomasvanhoey.com/losse_files/theses/DISSERTATION.pdf">Please find my dissertation here</a></p>
+<p>Van Hoey, Thomas. 2020. Prototypicality and salience of Chinese ideophones: A cognitive and corpus linguistics approach 漢語擬聲(態)詞的原型與顯著特徵：以認知與語料庫語言學方法探討. Taipei: National Taiwan University. PhD dissertation.</p>
+</section>
+<section id="ma-thesis-2015" class="level2">
+<h2 class="anchored" data-anchor-id="ma-thesis-2015">MA thesis (2015)</h2>
+<p>My MA Linguistics thesis ran up to the studies conducted in my dissertation.</p>
+<p><a href="https://thomasvanhoey.com/losse_files/theses/MA_linguistics.pdf">Please find the MA thesis here</a></p>
+<p>Van Hoey, Thomas. 2015. Ideophones in Middle Chinese: A typological study of a Tang dynasty poetic corpus. Leuven: KU Leuven. MA thesis.</p>
+</section>
+<section id="defense" class="level2">
+<h2 class="anchored" data-anchor-id="defense">Defense</h2>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/wuBIgAro0ZQ?si=XMwVh8BKqPHU1DoY" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+</section>
+<section id="basic-info" class="level1">
+<h1>Basic info</h1>
+<div class="card">
+<p>National Taiwan University (2015-2020)</p>
+<p>Funded by - Research Fellowship for Outstanding International Doctoral Students (2015-2018) - Financial Assistance Grant for International Students (2018-2020)</p>
+<p>Total amount: 1,820,000 NTD</p>
+<p>National Taiwan University, Graduate Institute for Linguistics GIL</p>
+</div>
+
+
+</section>
+
+ ]]></description>
+  <category>ideophone</category>
+  <category>iconicity</category>
+  <category>Chinese</category>
+  <guid>https://thomasvanhoey.com/projects/prototypicality_ideophones/</guid>
+  <pubDate>Sat, 19 Sep 2015 22:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,39 @@
+---
+listing:
+  contents: posts/**/*.qmd
+  sort: "date desc"
+  type: grid
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  fields: [date, title, reading-time, image, categories]
+  feed: true
+page-layout: article
+title-block-banner: false
+---
+
+
+
+
+
+
+
+
+<!-- :::: {.columns} -->
+
+<!-- ::: {.column width="40%"} -->
+<!-- # Series -->
+
+<!-- ##### [ggplot2-series](ggplot-series.html) -->
+<!-- This series contains a great deal of tips, tricks and packages  -->
+<!-- that you can use to level up your ggplot game. -->
+<!-- ::: -->
+
+<!-- ::: {.column width="60%"} -->
+<!-- # Subscribe -->
+
+<!-- test -->
+
+<!-- ::: -->
+
+<!-- ::::  -->

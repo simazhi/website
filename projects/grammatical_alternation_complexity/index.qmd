@@ -1,0 +1,74 @@
+---
+title: 'Relatively complex or relatively simple? Toward new ways of analyzing language variation'
+date: '2022-10-01'
+categories: ['alternations', 'complexity', 'isomorphism']
+description: '[2022-2026] Does absolute grammatical complexity increase relative complexity?'
+execute: 
+  message: false
+  warning: false
+page-layout: article
+image: figure_5.png
+---
+
+
+![Different views on alternations](figure_5.png)
+
+
+
+# Project description
+
+Pilot research carried out in the PI’s lab in Leuven (Gardner et al. 2021) indicates that grammatical variation (e.g., Give me one vs. Give one to me) does not complicate language production, as choice contexts do not attract dysfluencies (i.e., long pauses and um's and uh's) across a large corpus of spoken English. This is astonishing given customary conjectures in theoretical linguistics. Building on these preliminary findings, the project will establish a foundation for large-scale follow-up research. Specifically, we will extend the dataset used in Gardner et al. (2021) and expand the analysis to address several urgent unresolved questions. For example, do non-canonical dysfluencies (e.g., discourse markers such as like and you know) behave differently to um and uh? Are different types of choice contexts more or less prone to attracting dysfluencies? Are more restricted choices “easier’’ for speakers than freer choices? Our results will have major implications for theorizing in linguistics.
+
+# Members involved
+
+* PI   [Benedikt Szmrecsanyi](https://sites.google.com/site/bszmrecsanyi/)
+* Executing [Thomas Van Hoey](https://thomasvanhoey.com)
+* Collaborator [Matt H. Gardner](https://www.matthuntgardner.com/)
+* Collaborator [Ruiming Ma](https://www.arts.kuleuven.be/ling/qlvl/people/pages/00157540)
+
+
+# My role in the project
+
+I joined this project as a postdoctoral fellow. 
+My role consists/ed of 
+
+* annotating data
+* overseeing students who annotate data
+* analysis
+* writing
+
+
+
+# Outputs
+
+## Papers related to this project
+
+under review
+
+
+<!-- ## Related blog posts -->
+
+
+<!-- The post about ["Iconicity in ideophones: Guessing, memorizing, and reassessing"](https://thomasvanhoey.com/posts/2023-04-21-reassessing/) -->
+
+# Basic info
+
+::: {.card}
+BOF C1
+
+<!-- Amount:  -->
+Number: C14/22/045 
+
+KU Leuven
+:::
+
+
+
+
+
+
+
+
+
+
+

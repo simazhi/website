@@ -1,0 +1,72 @@
+---
+title: "Teaching"
+page-layout: full
+# listing:
+#   contents: supervision/*.qmd
+#   type: default
+#   fields: [date, title]
+#   sort: 'date desc'
+---
+
+In general, I teach linguistics classes, often with a focus on quantitative methods (R), lexicology / lexical semantics, or typology.
+But always with a passion to help the students acquire the necessary knowledge that can act as a catalyst to further their skills in the particular subject.
+
+I strongly believe in fostering the curiosity of students such that they become self-propelled.
+It is a joy to watch students advance their mastery of techniques that were previously foreign and unknown.
+At the same time, I am convinced that all knowledge reinforces each other.
+That means that before students can be sent on their own way, they need to be presented with materials that need to be learned and practiced first ("deliberate practice", see [Bronkorst et al. 2011](https://www.sciencedirect.com/science/article/pii/S0742051X11000667)^[Bronkhorst, Larike H., Paulien C. Meijer, Bob Koster & Jan D. Vermunt. 2011. Fostering meaning-oriented learning and deliberate practice in teacher education. Teaching and Teacher Education 27(7). 1120–1130. https://doi.org/10.1016/j.tate.2011.05.008.]).
+It also entails that I strongly believe in honest (self-)assessments of students' abilities at the start of the learning period and at the end.
+In other words, the observed development is in my opinion a great proxy for the efficacy of teaching and learning.
+
+During my teaching, I also pay particular attention to the wealth of diversity we find in language.
+For example, in the Intro to linguistics class I expose students to sounds (phonetics, phonology) and ways of expressing things (morphology, syntax) in a large variety of languages across the world.
+One aim of this class is to complement the more traditional curriculum of language-particular linguistics they are studying later on, i.e., typically [WEIRD](https://en.wikipedia.org/wiki/The_WEIRDest_People_in_the_World) languages. 
+A second example constitutes the class of Language variants and language varieties. 
+The aim of this course is to specifically pay attention to variational phenomena in language, with a strong focus on inter-language variability and inter-speaker variability (see [van Hout & Muysken 2016](https://library.oapen.org/bitstream/handle/20.500.12657/27974/1002025.pdf?sequence=1#page=248)^[Van Hout, Roeland & Pieter Muysken. 2016. Taming chaos: Chance and variability in the language sciences. In Klaas Landsman & Ellen Van Wolde (eds.), The Challenge of Chance (The Frontiers Collection), 249–266. Cham: Springer International Publishing. https://doi.org/10.1007/978-3-319-26300-7_14.]).
+
+I am a calm and competent teacher that takes learning seriously but does so in a humorous way.
+I find that the occasional joke aids in students' understanding.
+After all, observing students make connections between what were once separate and distant aspects of a topic is one of the highlights of a teaching event.
+And that is what propels *me* in my teaching career.
+
+
+# Linguistics classes
+
+Year        |   Course      | Institution
+------------|---------------|------------
+2024-2025 [BA1]   | Algemene taalwetenschap 1 (Intro to linguistics 101)  | KU Leuven
+2023-2024 [MA]  | Language variants and language varieties | KU Leuven
+2023-2024 [MA]  | Lexicology and morphology | KU Leuven
+2023-2024 [MA]  | Introduction to Cognitive Linguistics | HKU
+2022-2023 [MA]  | Introduction to Cognitive Linguistics | HKU
+
+
+# Coding (R / rstats)
+
+Year        |   Course      | Institution
+------------|---------------|------------
+2024  | Exploratory data analysis: From start to report  | LOT summer school
+2021  | R bootcamp  | NTU
+
+
+# English
+
+Year        |   Course      | Institution
+------------|---------------|------------
+2019-2020 [BA2]  | English Conversation | Tatung University
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

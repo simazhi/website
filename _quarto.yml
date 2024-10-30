@@ -1,0 +1,74 @@
+project:
+  type: website
+
+website:
+  title: "Thomas Van Hoey" 
+  site-url: https://thomasvanhoey.com
+  description: "This is Thomas Van Hoey's personal website."
+  navbar:
+    right:
+      - text: Research projects
+        href: projects.qmd
+   #     menu: 
+   #       - text: (2024-2027) Borrowing iconic words 
+   #         href: projects/borrowing_iconic_words/index.html
+   #       - text: (2024-2025) Breaking down and rebuilding iconicity
+   #         href: projects/breaking_down_rebuilding_iconicity/index.html     
+   #       - text: (2023-2024) Grammatical alternation and relative complexity 
+   #         href: projects/grammatical_alternation_complexity/index.html
+   #       - text: (2021-2022) Transmitting ideophones 
+   #         href: STILL NEED TO ADD
+   #       - text: (2017-2020) Chinese Ideophone Database 
+   #         href: STILL NEED TO ADD
+   #       - text: (2015-2020) Prototypicality of ideophones 
+   #         href: STILL NEED TO ADD
+
+      - text: Teaching
+        href: teaching.qmd
+      - text: Supervision
+        href: supervision.qmd
+      - text: Service  #reviewing, editing
+        href: service.qmd
+      - text: Blog
+        href: blog.qmd
+      - text: Archive
+        href: archive.qmd
+      # - icon: github
+      #   href: https://github.com/simazhi
+      # - icon: twitter
+      #   href: https://twitter.com/simazhi
+      #- text: short CV
+      #  href: STILL NEED TO ADD
+
+      - text: full CV
+        href: cv/cv_thomas.pdf 
+      # - icon: youtube
+      #   href: https://www.youtube.com/user/Alfrodo123
+#########################
+# You can ignore this part in the first step
+      - icon: rss
+        href: blog.xml
+      # - text: Publications
+      #   menu:
+      #     - text: All of them
+      #       href: publications.qmd
+          # - text: By figure
+          #   href: https://yards.albert-rapp.de/
+
+
+
+  # google-analytics: <Insert your ID here>
+  # cookie-consent: true
+  # twitter-card: 
+  #   image: thumbnail_blog.png
+  #   card-style: summary_large_image
+  #   creator: "@"
+
+
+######################### 
+
+format:
+  html:
+    theme: 
+    - sandstone
+    - theme.scss

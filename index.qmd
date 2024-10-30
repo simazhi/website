@@ -1,0 +1,59 @@
+---
+page-layout: full
+---
+
+:::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+
+![](avatar.jpg)
+
+
+<div style="font-size:2em;">
+
+Contact
+
+[<i class="bi bi-twitter"></i>](https://twitter.com/Simazhi) 
+[<i class="bi bi-github"></i>](https://github.com/simazhi)
+[{{< ai google-scholar >}}](https://scholar.google.com/citations?user=lh7WeP8AAAAJ&hl=en)
+[<i class="bi bi-envelope"></i>](mailto:thomas_van_hoey@outlook.com)
+[{{< ai orcid >}}](https://orcid.org/0000-0002-5226-9752)
+
+</div>
+
+![](FWO.png)
+
+
+![](KUL.png)
+
+:::
+
+::: {.g-col-12 .g-col-md-6}
+
+
+Hi, my name is **Thomas Van Hoey** 
+<br>\['to:mas van 'huy\] 
+<br>Alternatively, you may find me by my Chinese name — **司馬智** 
+<br>(*Hanyu pinyin*: Sīmǎ Zhì).
+
+I am a senior postdoctoral fellow affiliated with the [Research Foundation of Flanders (FWO, Fonds voor Wetenschappelijk Onderzoek)](https://fwo.be/en) and hosted by the [Quantitative Lexicology and Variational Linguistics (QLVL) research group](https://www.arts.kuleuven.be/ling/qlvl) in the Department of Linguistics at KU Leuven.
+My current project ["Borrowing iconic words"](/projects/borrowing_iconic_words) investigates the purported negative relationship between borrowability and iconicity, in a wide number of languages across the world.
+
+Previously, I worked together with [Benedikt Szmrecsanyi](https://sites.google.com/site/bszmrecsanyi/), also at the same department. [The project](/projects/grammatical_alternation_complexity) provided an empirical verification with regard to the idea that increased absolute complexity in language is positively correlated with increased relative complexity. 
+Against typical foundational notions in the field, we found no evidence of this is in a spoken corpus.
+
+Before that, I was a post-doctoral fellow at the University of Hong Kong, in the [Language and Development Lab](https://linguistics.hku.hk/ldlhku/), led by [Youngah Do](http://hub.hku.hk/cris/rp/rp02160). Our main project, together with [Mark Dingemanse](https://markdingemanse.net/) and Arthur Lewis Thompson, focused on the learnability of ideophones from a cross-linguistic perspective while focusing on the artiuculatory and gesticulatory gestures of the ideophonic items.
+
+That project was related to my previous qualifications.
+By training, I am a [sinologist](https://en.wikipedia.org/wiki/Sinology) and a [linguist](https://en.wikipedia.org/wiki/Linguistics), with a PhD in Linguistics (obtained at the [Graduate Institute of Linguistics of National Taiwan University](https://linguistics.ntu.edu.tw)).
+My MA degrees in Sinology and Linguistics were obtained at the KU Leuven.
+
+In that work, I have focused on understanding how people construe meaning through ideophones and iconicity, while balancing cognitive and cultural factors.
+Consequently, my PhD dissertation (2020), ["Prototypicality and salience of Chinese ideophones: A cognitive and corpus linguistics approach"](https://www.thomasvanhoey.com/losse_files/theses/DISSERTATION.pdf), supervised by [Lu Chiarung](http://chiarung.blog.ntu.edu.tw), investigates the Chinese ideophonic lexicon through four different methodological lenses: multiple correspondence analysis, diachronic prototype semantics, semantic vector spaces, and collostructional analysis. A prototypical structuring of the ideophonic lexicon is found throughout the data, which is collected from the corpus as well as the [Chinese Ideophone Database (CHIDEOD)](/projects/chinese_ideophone_database). 
+CHIDEOD is freely accessible online in multiple formats, and can be used as a model for the cross-linguistic database that is to be constructed in the first stage of the project.
+
+**Click here for my [academic cv](/cv/cv_thomas.pdf).**
+
+:::
+
+::::

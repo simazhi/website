@@ -1,0 +1,92 @@
+---
+title: "Service"
+page-layout: full
+# listing:
+#   contents: supervision/*.qmd
+#   type: default
+#   fields: [date, title]
+#   sort: 'date desc'
+---
+
+I believe service to the academic community is a *must*.
+Only when we all do our share, we will get somewhere.
+
+
+# Reviewing
+
+I am a quite broad reviewer.
+Usually, I get invited to review on articles that have to do with:
+
+* Chinese
+* iconicity, onomatopoeia, ideophones, sound symbolism
+* rating studies (sensory experience SER etc.)
+* (iconic) gesture
+* lexical borrowing
+* motion events (Talmyan motion typology)
+* variational phenomena
+* lexical expressions related to the weather (meteorological)
+
+## Reviewing for journals
+
+* *Canadian Journal of Linguistics / Revue canadienne de linguistique*
+* *Cognitive Science*
+* *Cognitive Semantics*
+* *Cognitive Linguistics*
+* *Corpus Linguistics and Linguistic Theory*
+* *East Asian Journal of Popular Culture* 
+* *Folia Linguistica*
+* *Frontiers*
+* *Glossa*
+* *Journal of Experimental Psychology:  Learning, Memory, and Cognition*
+* *Journal of Experimental Psychology:  Human Perception and Performance*
+* *Handbook of Cognitive Semantics*
+* *Language and Cognition*
+* *Language and Speech*
+* *Language Learning*
+* *Language Sciences*
+* *Linguistics Vanguard*
+* *Mapping China Journal*
+* *PLoS*
+* *Quarterly Journal of Experimental Psychology*
+* *Review of Cognitive Linguistics*
+* *Studies in Language*
+* *Typology at the Crossroads*
+
+## Reviewing for conferences
+
+* 2025: SLE 58 (Societas Linguistica Europaea) [committee member]
+* 2025: IcoSem (Iconicity Seminar) 
+* 2024: 1st Biennial of Czech Linguistics 
+* 2024: CLDC 11 (Conference on Language, Discourse, and Cognition) 
+* 2024: SLE 57 (Societas Linguistica Europaea) 
+* 2023: SLE 56 (Societas Linguistica Europaea) 
+
+
+## Institutional responsibilities and committees
+
+### At KU Leuven
+
+* 2024-ongoing: Member of the Faculty Research Council (FCO)
+* 2023-ongoing: Member of the Faculty Council for Internationalization (FCIB)
+* 2023-ongoing: Member of the general Faculty Council (Faculteitsraad)
+* 2023-ongoing: Convener of the QLVL Colloquium departmental talks
+
+### At HKU
+
+* 2021-2022: Convener of the VLT departmental talks
+
+### At NTU
+
+* 2018: student organizer of the ICPEAL 17 - CLDC 9 joint conference
+
+### Alumni
+
+* Sinalumni (alumni for Chinese studies)
+<br>2015-ongoing: membership database coordination
+<br>2024-ongoing: president
+
+### As a student at KU Leuven
+
+* various roles in [Eoos](https://eoos.be/), the student organization for Language and Area studies [president, education representative etc.] 
+
+

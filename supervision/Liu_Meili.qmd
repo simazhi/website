@@ -1,0 +1,18 @@
+---
+title: 'Meili Liu'
+date: '2024-04-05'
+categories: ['committee member', 'PhD', 'KU Leuven', 'ongoing']
+description: '[2023-2027] The Mandarin Chinese ba-construction: Diachronic, synchronic and constructional perspectives'
+execute: 
+  message: false
+  warning: false
+page-layout: article
+# image: figure_6.png
+---
+
+The proposed project provides a synchronic and diachronic study of the ba-construction in Mandarin Chinese. In essence, it is an SOV construction in which the marker ba precedes the object, which in turn is followed by the verb expressing the action affecting the object. Its structure can be represented as “subject + ba + object + verb (+ X)”. The construction is traditionally said to convey the notion of ‘disposal’, whereby ba functions as a disposal marker (or object marker). Against the backdrop of previous literature, the present project, which is based on empirical (corpus-based) qualitative and quantitative analyses, intends to provide a more comprehensive account of the Mandarin Chinese ba-construction. It encompasses three dimensions of study—a synchronic study, a diachronic study and a variationist study. Specifically, I will first design the constructional network to represent the taxonomy and hierarchy of the Mandarin Chinese ba-construction at the synchronic level, and then investigate its diachronic development, especially the change of nodes and links (both taxonomic and vertical) in the constructional network of ba-constructions, such as node creation or loss, node-external reconfiguration of the network and in/decrease in productivity and schematicity within the theoretical frameworks of grammaticalization and diachronic construction grammar. Furthermore, the Mandarin Chinese ba-construction can actually be seen as a kind of differential object marking (DOM), and hence special attention will be paid to the motivation of the rise of the Mandarin DOM, compared to the findings proffered in the literature of cross-linguistic DOM studies. Finally, the variationist study intends to investigate the factors that condition the variation between the ba-construction and the jiang-construction, and between the SOV construction (including a disposal marker such as ba) and the corresponding SVO structure without the disposal marker. This project will shed new light on the vexed issue of the origin of the ba-construction and the motivation of the rise of this Mandarin DOM. Moreover, since Chinese, as an analytic language and without inflectional morphology, is quite different from Indo-European languages, the project will serve as a useful case to check the applicability of the grammaticalization theory and the (diachronic) construction grammar. It may provide new insight into both theories. Finally, the emergence of the disposal construction is regarded as one of the five major changes in the history of Chinese (Wang, 1958). This project may thus advance our understanding of the evolution of the disposal construction in particular and the formation of the Contemporary Chinese language system in general.
+
+<!-- [Find more about Sumin Guan here.](https://www.arts.kuleuven.be/ling/qlvl/people/pages/00158381) -->
+
+
+

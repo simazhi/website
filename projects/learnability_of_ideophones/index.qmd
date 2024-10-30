@@ -1,0 +1,103 @@
+---
+title: 'Exploring the learnability of ideophones through articulatory and manual gestures'
+date: '2021-02-01'
+categories: ['gesture', 'ideophones', 'iconicity']
+description: '[2021-2022] How well are ideophones learned if we look at articulatory and gesticulatory gestures?'
+execute: 
+  message: false
+  warning: false
+page-layout: article
+image: figure_6.png
+---
+
+
+![Scores of how well ideophones are transmitted](figure_6.png)
+
+
+
+# Project description
+
+[from the HKU linguistics website:](https://linguistics.hku.hk/research_ling_current_grant_2024_yd2/)
+
+Imitation is a core part of learning and expressing language. In order to understand certain words, we must know what makes them imitative. These ‘certain words’ are ideophones. Ideophones exist in all known spoken languages. They are known to be easily understood by non-native speakers due to their imitative nature. Studies show that if, for example, a Dutch speaker hears a Japanese ideophone, even with zero Japanese experience, they can intuit that ideophone’s meaning. This implies that ideophones tap into a universal cognitive ability that gives sound a meaning under the right communicative circumstances.
+
+The goal of our research is to investigate how ideophones express meaning in terms of a universally accessible ability for all spoken language users: articulatory movement of speech organs. To date, linguistic research has largely ignored ideophones because most meanings cannot be expressed by imitation, eg, foot, pink, mountain. Ideophones are limited to descriptive meanings like sounds, motions, visuals, touch/feel, and inner feelings, eg, plonk, zig-zag, bling-bling.
+
+Despite this, parent-child interactions are full of ideophones, so much so that ideophones have been proposed as a crucial component to language learning. Still, we do not know how ideophones are learnt, nor do we know what makes them easily learnable. What we do know is that ideophones frequently co-occur with what is also largely ignored by traditional linguists: descriptive hand gestures. Some researchers claim that ideophones are incomplete without their co-occurring hand gestures, arguing that ideophones are analogous to descriptive gestures made with the mouth instead of the hands.
+
+Given that movement is imperative for understanding hand gestures, this project hypothesizes that movement of speech organs is key to learning and understanding ideophones. No study has investigated ideophones in terms of articulatory (speech organ) movement or co-speech hand gesture. The current project seeks to close this gap by being the first to empirically incorporate movement and hand gesture as factors into two ideophone learning studies.
+
+Our first study investigates whether articulatory complexity affects how well non-native speakers learn ideophones without gestures, following a well-established ideophone learning paradigm. Our second study investigates how participants use hand gestures to teach and learn ideophones of varying articulatory complexity in an iterated learning task, a pioneering study for ideophones.
+
+Cumulatively, our project will lead to a deeper understanding of how audio-visual movement can improve language learning and instruction, allowing for impact beyond the realm of research and into the classroom.
+
+# Members involved
+
+* PI   [Youngah Do](https://hub.hku.hk/cris/rp/rp02160)
+* Co-I [Mark Dingemanse](https://markdingemanse.net/)
+* Co-I  Arthur Lewis Thompson
+* Executing [Thomas Van Hoey](https://thomasvanhoey.com)
+
+
+# My role in the project
+
+I joined this project as a postdoctoral fellow. 
+My role consisted of 
+
+* (co-)designing the experiments
+* preparing experiments
+* running them
+* analyzing them
+* co-writing the articles
+
+The interactions with Youngah Do, Mark Dingemanse, and Arthur Thompson were often though-provoking, and made me grow as a scholar.
+
+I found in HKU a great institution to do linguistic research at.
+
+
+# Outputs
+
+## Papers related to this project
+
+**Van Hoey, Thomas**, Arthur Lewis Thompson,  Youngah Do & Mark Dingemanse. 2023. Iconicity in ideophones: Guessing, memorizing, and reassessing. *Cognitive Science* e13268. 1-27. [doi: 10.1111/cogs.13268](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.13268)
+
+Thompson, Arthur Lewis, **Thomas Van Hoey** & Youngah Do. 2021. Articulatory features of phonemes pattern to iconic meanings: Evidence from cross-linguistic ideophones. *Cognitive Linguistics* 32(4). 563-608. \* [doi: 10.1515/cog-2020-0055](https://10.1515/cog-2020-0055)
+
+
+## Papers benefiting from the research environment
+
+Yu, Xiaoyu, **Thomas Van Hoey**, Frank Lihui Tan, Baichen Du & Youngah Do. 2024. Tracking phonological regularities: Exploring the influence of learning mode and regularity locus in adult phonological learning.  *Linguistics Vanguard* aop. 1-12. [doi: 10.1515/lingvan-2023-0050](https://doi.org/10.1515/lingvan-2023-0050)
+
+**Thomas Van Hoey**, Xiaoyu Yu, Tungle Pan & Youngah Do. 2024. What ratings and corpus data reveal about the vividness of Mandarin ABB words. *Language and Cognition* aop. 1-23. [doi: 10.1017/langcog.2024.22](https://doi.org/10.1017/langcog.2024.22)
+
+**Van Hoey, Thomas**. 2023. ABB, a salient prototype of collocate-ideophone constructions in Mandarin Chinese. *Cognitive Linguistics* 34(1). 133-163. [doi: 10.1515/cog-2022-0031](https://doi.org/10.1515/cog-2022-0031) 
+
+## Related blog posts
+
+
+The post about ["Iconicity in ideophones: Guessing, memorizing, and reassessing"](https://thomasvanhoey.com/posts/2023-04-21-reassessing/)
+
+# Basic info
+
+::: {.card}
+GRF 2020/2021
+
+<!-- Amount: 700,134 HKD -->
+
+General Research Fund (GRF), University Grants Council (UGC), Hong Kong
+
+Number: GRF 17603120
+
+The University of Hong Kong, Department of Linguistics, Language Development Lab (LDL)
+:::
+
+
+
+
+
+
+
+
+
+
+

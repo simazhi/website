@@ -1,0 +1,25 @@
+---
+teaching: "Supervision"
+listing:
+  contents: supervision/*.qmd
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  fields: [date, title, description, categories, image]
+  feed: true
+page-layout: full
+title-block-banner: false
+---
+
+Usually, I am invited to be involved in PhD projects that have to do with my expertise on Chinese and/or variation phenomena.
+<!-- , and to a minor degree iconicity. -->
+Apart from the PhD projects mentioned below, I have also served as supervisor or lector of a number of MA theses at the institutions I have worked at after obtaining my doctoral degree.
+
+In any case, here are the PhD projects in which I have been lucky to be involved in.
+
+
+
+
+

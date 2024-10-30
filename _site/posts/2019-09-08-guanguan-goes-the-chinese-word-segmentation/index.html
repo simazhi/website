@@ -1,0 +1,977 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.5.57">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Thomas Van Hoey">
+<meta name="dcterms.date" content="2019-09-08">
+
+<title>Guanguan goes the Chinese Word Segmentation (I) – Thomas Van Hoey</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="../../index.html">
+    <span class="navbar-title">Thomas Van Hoey</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-researching" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Researching</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-researching">    
+        <li>
+    <a class="dropdown-item" href="../../STILL NEED TO ADD">
+ <span class="dropdown-text">Borrowing iconic words (2024-2027)</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../STILL NEED TO ADD">
+ <span class="dropdown-text">Grammatical alternation and relative complexity (2023-2024)</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../STILL NEED TO ADD">
+ <span class="dropdown-text">Transmitting ideophones (2021-2022)</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../STILL NEED TO ADD">
+ <span class="dropdown-text">Chinese Ideophone Database (2017-2020)</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../STILL NEED TO ADD">
+ <span class="dropdown-text">Prototypicality of ideophones (2015-2020)</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="../../STILL NEED TO ADD"> 
+<span class="menu-text">Teaching</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../STILL NEED TO ADD"> 
+<span class="menu-text">Supervising</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../STILL NEED TO ADD"> 
+<span class="menu-text">Reviewing</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../blog.html"> 
+<span class="menu-text">Blogging</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../archive.html"> 
+<span class="menu-text">Archiving</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../STILL NEED TO ADD"> 
+<span class="menu-text">short CV</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="https://www.thomasvanhoey.com/cv/cv_thomas.pdf"> 
+<span class="menu-text">full CV</span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="../../blog.xml"> <i class="bi bi-rss" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-page-left">
+      <h1 class="title">Guanguan goes the Chinese Word Segmentation (I)</h1>
+                                <div class="quarto-categories">
+                <div class="quarto-category">coding</div>
+                <div class="quarto-category">R</div>
+                <div class="quarto-category">rstats</div>
+                <div class="quarto-category">python</div>
+                <div class="quarto-category">classics</div>
+              </div>
+                  </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta column-page-left">
+
+      <div>
+      <div class="quarto-title-meta-heading">Author</div>
+      <div class="quarto-title-meta-contents">
+               <p>Thomas Van Hoey </p>
+            </div>
+    </div>
+      
+      <div>
+      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">September 8, 2019</p>
+      </div>
+    </div>
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#tl-dr" id="toc-tl-dr" class="nav-link active" data-scroll-target="#tl-dr">tl; dr</a></li>
+  <li><a href="#intro" id="toc-intro" class="nav-link" data-scroll-target="#intro">Intro</a></li>
+  <li><a href="#the-issue" id="toc-the-issue" class="nav-link" data-scroll-target="#the-issue">The issue</a></li>
+  <li><a href="#the-first-ideophone" id="toc-the-first-ideophone" class="nav-link" data-scroll-target="#the-first-ideophone">The first ideophone</a></li>
+  <li><a href="#the-other-ideophone" id="toc-the-other-ideophone" class="nav-link" data-scroll-target="#the-other-ideophone">The other ideophone</a></li>
+  <li><a href="#the-end" id="toc-the-end" class="nav-link" data-scroll-target="#the-end">The end?</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
+
+
+
+
+
+<p><img src="preview-image.jpg" class="img-fluid"></p>
+<section id="tl-dr" class="level1">
+<h1>tl; dr</h1>
+<p>This double blog is first about the opening line of the <em>Book of Odes</em>, and later about how to deal with Chinese word segmentation, and my current implementation of it. So if you’re only <a href="../guanguan-goes-the-chinese-word-segmentation-2">interested in the computational part, look at the next one</a>. If, on the other hand, you want to know more about my views on the translation of <em>guān guān</em> etc., <a href="../guanguan-goes-the-chinese-word-segmentation">look at the first part</a>.</p>
+</section>
+<section id="intro" class="level1">
+<h1>Intro</h1>
+<p>The other day I was browsing through some academic journals, and I came across this article by <a href="https://en.wikipedia.org/wiki/Geoffrey_Sampson">Geoffrey Sampson</a>, who I know mostly from (convincingly) attacking the Language Instinct hypothesis in linguistics. That led me to his website ( <a href="https://www.grsampson.net/REmpNat.html">see here for the Language Instinct thing</a> ), where I then found out has written a book that translates 58 poems from the <a href="https://en.wikipedia.org/wiki/Classic_of_Poetry">Shījīng</a> 詩經, the <em>Book of Odes</em> or <em>Book of Songs</em> as it’s most commonly known in English. Sampson uses Baxter’s (1992) reconstruction of Old Chinese on the left-hand side and translates poems on the right-hand side, <a href="https://www.grsampson.net/BLoveSEC.html">see here</a>. This book was also reviewed by the <a href="https://en.wikipedia.org/wiki/Edward_L._Shaughnessy">Edward Shaughnessy</a>, an expert on very old Chinese (Shaughnessy, Edward. 2008. <em>Modern Philology</em> (106). 197-2000), where he argued that it’s a nice translation, but then critiques some of the choices made.</p>
+</section>
+<section id="the-issue" class="level1">
+<h1>The issue</h1>
+<p>And this is where I address the topic of this blog post. The criticism is about the very first stanza of the very first ode of the <em>Shījīng</em>, called <em>Guān jū</em> 關雎. I’ll first give this poem in full, with a translation by <a href="https://en.wikipedia.org/wiki/James_Legge">James Legge</a> (dating from 1871), based on the <a href="https://ctext.org/book-of-poetry/guan-ju">ctext</a> and the book (<em>The She King</em>) iself.</p>
+<blockquote class="blockquote">
+<p>關關雎鳩、在河之洲。<br>
+窈窕淑女、君子好逑。</p>
+</blockquote>
+<blockquote class="blockquote">
+<p><em>Kwan-kwan</em> go the ospreys,<br>
+On the islet in the river.<br>
+The modest, retiring, virtuous, young lady: —<br>
+For our prince a good mate she.</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>參差荇菜、左右流之。<br>
+窈窕淑女、寤寐求之。<br>
+求之不得、寤寐思服。<br>
+悠哉悠哉、輾轉反側。</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>Here long, there short, is the duckweed,<br>
+To the left, to the right, borne about by the current.<br>
+The modest, retiring, virtuous, young lady: —<br>
+Waking and sleeping, he sought her.<br>
+He sought her and found her not,<br>
+And waking and sleeping he thought about her.<br>
+Long he thought; oh! long and anxiously;<br>
+On his side, on his back, he turned, and back again.</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>參差荇菜、左右采之。<br>
+窈窕淑女、琴瑟友之。<br>
+參差荇菜、左右芼之。<br>
+窈窕淑女、鍾鼓樂之。</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>Here long, there short, is the duckweed;<br>
+On the left, on the right, we gather it.<br>
+The modest, retiring, virtuous, young lady: —<br>
+With lutes, small and large, let us give her friendly welcome.<br>
+Here long, there short, is the duckweed;<br>
+On the left, on the right, we cook and present it.<br>
+The modest, retiring, virtuous, young lady: —<br>
+With bells and drums let us show our delight in her.</p>
+</blockquote>
+<p>So as I said, Sampson’s (2006) version gives the first line as follows:</p>
+<blockquote class="blockquote">
+<p>Krón, krón, tsa-kou<br>
+Dzúh gáy tu tou<br>
+Íwh-líwh diwk nrah<br>
+Koun-tzuh hóuh grou.</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>Krón, krón calls the fish-hawk on an islet in the river.<br>
+A girl who is lovely and good<br>
+Is the fit match for a princely man.</p>
+</blockquote>
+<p>Let’s first see how this compares to the other translations Shaughnessy discusses, for example <a href="https://en.wikipedia.org/wiki/Arthur_Waley">Arthur Waley</a> (1937 / 1987:81):</p>
+<blockquote class="blockquote">
+<p>‘Fair, fair,’ cry the ospreys<br>
+On the island in the river.<br>
+Lovely is this noble lady,<br>
+Fit bride for our lord.</p>
+</blockquote>
+<p>Or <a href="https://en.wikipedia.org/wiki/Bernhard_Karlgren">Bernhard Karlgren</a> (1950:2):</p>
+<blockquote class="blockquote">
+<p><em>Kwan-kwan</em> (cries) the ts’ü-kiu bird, on the islet of the river;<br>
+the beautiful and good girl, she is a good mate for the lord.</p>
+</blockquote>
+<p>As for the quality of translation, I agree with Shaughnessy that Sampson’s is not necessarily better than Legge, Waley or Karlgren. My personal preference in this case still goes to the one by Legge (1871!).</p>
+</section>
+<section id="the-first-ideophone" class="level1">
+<h1>The first ideophone</h1>
+<p>But what is the most interesting, of course, is the SOUND ideophone (onomatopoeia) all the way in the beginning of the poem. There seem to be a few choices possible: 1. either you keep the sound of the current Mandarin reading, i.e.&nbsp;<em>guānguān</em> / <em>kwan-kwan</em>; 2. or you translate with a possible English equivalent, i.e.&nbsp;<em>fair fair</em>; 3. or you use the reconstructed pronunciation, to evoque what it might have sounded like (phonologically) in ancient times, i.e.&nbsp;<em>kron kron</em>.</p>
+<p>So Shaughnessy at first seems to somewhat applaud the usage of <em>kron kron</em>:</p>
+<blockquote class="blockquote">
+<p>In principle, I believe that being able to “hear” the original is important to an appreciation of poetry, and so I think that the addition of these phonetic reconstructions is to be welcomed (although I am not at all sure that for readers who do not know Chinese “<em>Krón, krón, tsa-kou</em>” Sampson’s reconstruction, is much to be preferred over “<em>Guan guan ju jiu</em>” the standard Romanization of the modern Chinese pronunciation).</p>
+</blockquote>
+<p>But later on he critiques this first line as well:</p>
+<blockquote class="blockquote">
+<p>“<em>Krón, krón</em>” is supposed to be onomatopoeia for the sound that the fish-hawk makes as he calls to his mate. But here as elsewhere in the <em>Shi jing</em>, when animals, and especially birds, cry out, they do so in Chinese. In any event, their cries are necessarily rendered in Chinese characters, and the characters were obviously chosen not only for their sound but also for their meaning.</p>
+</blockquote>
+<p>This is followed by Shaughnessy inspecting Sampson’s glossary, where a singular <em>krón</em> is glossed as a crossbeam in a gate, and then extended to include meanings as diverse as ‘pass (through mountains)’, ‘close’, ‘join, be related’. And onomasiologically its form is similar to another word <em>guan</em>, reconstructed as <em>kons</em> ‘to pass through’, but extended to ‘penetrate’ (yes in the sexual way). So Shaughnessy argues that there is some penetrating punning going on:</p>
+<blockquote class="blockquote">
+<p>It seems to me that the fish-hawk is literally seeking “join” with his mate, and any translation that does not reflect that sense leaves the reader at an immediate loss.</p>
+</blockquote>
+<p>While the rest of the review makes some good comments about the themes of lust (no caution) in the <em>Shījīng</em>, this rubbed me a little in the wrong way. But let’s now turn to Sampson’s <a href="https://www.grsampson.net/CShau.html">reply</a>.</p>
+<p>The biggest point Sampson makes is that Chinese studies should do more popularizing their findings, and that can be said of many disciplines. Books like his <em>Love songs in Early China</em> do contribute to that goal.</p>
+<p>Then, about the first stanza where Shaughnessy critized Sampson’s <em>krón (krón)</em> as involving a double entendre, Sampson dryly remarks: “Perhaps”. And this is an apt response.</p>
+<p>It baffles me as well how you can relate onomatopoeia / SOUND ideophones, yes composed of characters, to just a reduplication of a homophone in this case. As if translating 關關 with ‘beam-beam’, or ‘join-join’ (Sampson), or ‘pass-pass’ makes sense. Shaughnessy’s point makes as much sense as in the hypothetical situation where we would have <em>boe, daar is de koe</em> “moo, there is the cow” in Dutch with an English translation. But <em>boe</em> not only is the sound of a cow in Dutch, it is also what you use to scare someone, cf.&nbsp;English <em>boo</em>. So should that extension into the semantic domain of FEAR be brought into the translation? Perhaps. Or, second similar example: <em>tok tok tok — vier kippen op een rij</em> “cluck cluck (cluck) — four chickens arranged in a row”. Should we be translating <em>tok tok tok</em> as ‘cluck’, or knowing full well that the sequence <em>tok tok tok</em> is also used for ‘knocking sound (on a door)’, as “knock-knock go the four chickens”? Perhaps not.</p>
+<p>These silly examples are just thrown in here to show that, as Sampson argues, it is “irrelevant” to go looking up his <em>krón</em> when dealing with <em>krón krón</em>. The second retort is about the formally similar <em>kons</em>. Shaughnessy doesn’t give any characters (or tones) in his review, but this is what Sampson finds:</p>
+<blockquote class="blockquote">
+<p>Having argued that 關, <em>krón</em>, should be read partly for its sense, Shaughnessy then claims to discern yet another layer of meaning: he says that this word is “similar in pronunciation” to 貫, whose primary meaning is “to pass through” but which has “the extended sense of sexual penetration”. So perhaps the translation should be not ” ‘Join, join’ …” but rather ” ‘Screw, screw’ calls the fish-hawk”.</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>I find it surprising that the words 關 and 貫 were similar enough to be confusable in the Old Chinese period. (They are pronounced similarly in modern Mandarin – kuan1 [<em>guān</em>] versus kuan4 [<em>guàn</em>], a difference of tone only; but 貫 is normally taken to have ended in -<em>s</em> in Old Chinese: Shaughnessy gives it the pronunciation <em>kons</em>, and I would write <em>kóns</em>.) <strong>However, in private correspondence Shaughnessy has shown me good evidence that the words were treated as to some extent interchangeable. Nevertheless, I remain sceptical about whether the meaning, rather than the pronunciation, of either word was relevant to hearers’ appreciation of the poem. Rendering a crowing sound into human speech by using a word pronounced <em>krón</em> seems very natural.</strong> Translating the first word of the Book of Odes into English with a term referring to sexual penetration would not only read bizarrely but be philologically gratuitous. (It might have helped with sales, perhaps.)</p>
+</blockquote>
+<p>This also piqued my interest. While it may be true that these words were somewhat interchangeable, in single syllables, it is still a bit harder to argue that the same goes for the reduplicated form, especially if we’re dealing with SOUND ideophones, who usually display IMAGIC ICONICITY (cf.&nbsp;all the literature on ideophones ever in the last ten years or so, but also e.g.&nbsp;Dingemanse 2012; Thompson 2019).</p>
+<p>But let’s follow the argument okay, and compare with some advances in the reconstruction of Old Chinese phonology. The table below shows the Mandarin, Middle Chinese (Baxter 1992) and Old Chinese (Baxter &amp; Sagart 2014; B&amp;S) as <a href="http://ocbaxtersagart.lsait.lsa.umich.edu">it is found on their website</a>, unless otherwise indicated.</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 17%">
+<col style="width: 17%">
+<col style="width: 28%">
+<col style="width: 23%">
+<col style="width: 12%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>character</th>
+<th>Mandarin</th>
+<th>Middle Chinese</th>
+<th>Old Chinese</th>
+<th>source</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>關(关)</td>
+<td>guān</td>
+<td>kwaen</td>
+<td>[k]ˤro[n]</td>
+<td>B&amp;S (2014)</td>
+</tr>
+<tr class="even">
+<td>關</td>
+<td>kwan1</td>
+<td></td>
+<td>krón</td>
+<td>Sampson (2006; 2009)</td>
+</tr>
+<tr class="odd">
+<td>guan</td>
+<td></td>
+<td>kron</td>
+<td>Shaughnessy (2008)</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>guan</td>
+<td></td>
+<td>kons</td>
+<td>Shaughnessy (2008)</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>貫</td>
+<td>kwan4</td>
+<td></td>
+<td>kóns</td>
+<td>Sampson (2009)</td>
+</tr>
+<tr class="even">
+<td>貫</td>
+<td>guàn</td>
+<td>kwan</td>
+<td>[k]ˤo[n]-s</td>
+<td>B&amp;S (2014)</td>
+</tr>
+<tr class="odd">
+<td>管</td>
+<td>guǎn</td>
+<td>kwanX</td>
+<td>[k]ˤo[n]ʔ</td>
+<td>B&amp;S (2014)</td>
+</tr>
+<tr class="even">
+<td>口管</td>
+<td>guān (?)</td>
+<td>kwan (?)</td>
+<td>[k]ˤo[n] (?)</td>
+<td>?</td>
+</tr>
+</tbody>
+</table>
+<p>I tried ordering them according to the train of thought in this debate: so first you have the current B&amp;S transcription, basically <em>kˤron</em>, then Sampson’s <em>krón</em>, followed by Shaughnessy’s <em>krón</em> and possible formal variant <em>kons</em>, followed by Sampson’s answer that that would be <em>kóns</em> in his system. Next I give the B&amp;S version of that <em>kons/kóns</em>, and the last two are suggestions I found in Legge (1871): that 關 is sometimes read as 管 or MOUTH(口)-管, ‘flute’. Personally, those last ones seem the most convincing for alternative characters of 關關: 管管 or (口管口管) ‘flute flute’, as in a sharp sound or so.</p>
+<p>Now what does the biggest dictionary of Chinese I have access to say about 關關? The <em>Hànyǔ dà cídiǎn</em> 漢語大詞典 says:</p>
+<blockquote class="blockquote">
+<p>1.鳥類雌雄相和的鳴聲。 後亦泛指鳥鳴聲。<br>
+Mating call of male and female birds.<br>
+《詩‧周南‧關雎》： “關關雎鳩， 在河之洲。”<br>
+毛 傳： “關關， 和聲也。”<br>
+南朝 宋 鮑照 《代悲哉行》： “翩翩翔禽羅， 關關鳴鳥列。”<br>
+清 陸以湉 《冷廬雜識‧道情》： “只聽得流水潺潺， 鳥語關關。”<br>
+2.和諧安適貌。<br>
+Harmonious.<br>
+唐 錢起 《暇日覽舊詩因以題詠》： “逍遙心地得關關， 偶被功名涴我閒。”<br>
+3.車行聲。<br>
+Sound of carts passing.<br>
+明 何景明 《憶昔行》： “明星迢迢車關關， 遙向 楚 水辭 燕 山。”</p>
+</blockquote>
+<p>So, no ‘beams’ in sight – maybe with some stretching you could argue for ‘passing through (of carts)’ and then that sound, but still mostly just the call of these mysterious birds. Yes, you read that correctly, we don’t actually really know what the bird is (or maybe now we do?, baidu and wikipedia do lead me to pictures), but the most common translation of <em>jūjiū</em> &lt; tshjo kjuw &lt; [tsʱ]a [k](r)u 雎鳩 is ‘osprey’ or ‘fish-hawk’. Perhaps they are indeed a symbol of sex, because they eat fish, and fish are sexual symbols (Shaughnessy 2008). Sampson (2009) notes that he just chose ‘fish-hawk’ because the osprey (apparently <em>Pandion haliaetus</em>) makes a very shrill sound, not very love-inspiring. Perhaps this was also a case of the literature critic – Shaugnessy – reading too much into a pragmatic translation choice.</p>
+<p>So for me in general, it seems Sampson is the winner in this debate, it’s better to use <em>krón krón</em> (or maybe now <em>kˤron kˤron</em> if you want to be a Peter precise) than Mandarin <em>guānguān</em> or whatever translationese.</p>
+<p>But he’s not entirely without faults either. A grave example is when Shaughnessy discusses the merits of using the reconstructed Old Chinese (cf.&nbsp;above):</p>
+<blockquote class="blockquote">
+<p>[…] (although I am not at all sure that for readers who do not know Chinese “<em>Krón, krón, tsa-kou</em>” Sampson’s reconstruction, is much to be preferred over “<em>Guan guan ju jiu</em>” the standard Romanization of the modern Chinese pronunciation).</p>
+</blockquote>
+<p>To which Sampson responds:</p>
+<blockquote class="blockquote">
+<p>If the line were considered in isolation like that, there would be little or no reason to prefer one pronunciation over the other; it takes two to tango, and <strong>it certainly takes two lines of poetry to rhyme</strong>. But the fact that the Book of Odes represents the first known use of rhyme anywhere in world literature is one of the fascinating things about it. So it would not be much use to an English-speaking reader to spell out the poems in a modern version of Chinese, in which the rhymes have been destroyed by three millennia of sound-change. <strong>(In Old Chinese, tsa-kou, fish-hawk, in the first line rhymed with tou, islet, in the second line, but in modern Mandarin chü-chiu scarcely rhymes with chou.</strong> In other cases the original rhymes, assonances, and so forth have been even more thoroughly wrecked in the modern language.)</p>
+</blockquote>
+<p>I’ve highlighted two parts: Sampson is right of course, the <em>Shījīng</em> is one of the prime examples of rhyme and has actually been super useful in reconstruction Old Chinese, see for instance this exciting research by List (<a href="https://link.springer.com/article/10.1186%2Fs40655-017-0021-8">2017</a>; <a href="https://pure.mpg.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_3149513">2019</a>). On the other hand, he remarks that “chü-chiu scarcely rhymes with chou”, which is a very strange remark to make, as <em>jūjiū</em> [tɕy˥ tɕjoʊ˥] of course rhymes with <em>zhōu</em> [ʈʂoʊ˥], there is not a hint of <em>scarcely</em> in sight.</p>
+</section>
+<section id="the-other-ideophone" class="level1">
+<h1>The other ideophone</h1>
+<p>You thought this was <em>soro soro</em> (Jap. ソロソロ ‘any time now’) winding down, but no, not yet.</p>
+<p>I want to draw attention to the second line of the first stanza as well, and compare again the different translations.</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Line</th>
+<th>Translator</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>窈窕淑女</td>
+<td></td>
+</tr>
+<tr class="even">
+<td><em>yáotiáo shūnǚ</em></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>The <strong>modest, retiring, virtuous</strong>, young lady: —</td>
+<td>Legge (1871)</td>
+</tr>
+<tr class="even">
+<td><strong>Lovely</strong> is this noble lady,</td>
+<td>Waley (1937)</td>
+</tr>
+<tr class="odd">
+<td>the <strong>beautiful and good</strong> girl,</td>
+<td>Karlgren (1950)</td>
+</tr>
+<tr class="even">
+<td>A girl who is <strong>lovely and good</strong></td>
+<td>Sampson (2006)</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>君子好逑</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><em>jūnzi hǎo qiú</em></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>For our prince a good mate she.</td>
+<td>Legge (1871)</td>
+</tr>
+<tr class="odd">
+<td>Fit bride for our lord.</td>
+<td>Waley (1937)</td>
+</tr>
+<tr class="even">
+<td>she is a good mate for the lord.</td>
+<td>Karlgren (1950)</td>
+</tr>
+<tr class="odd">
+<td>Is the fit match for a princely man.</td>
+<td>Sampson (2006)</td>
+</tr>
+</tbody>
+</table>
+<p>Of course, I argue that this <em>yáotiáo</em> 窈窕 is also an ideophone, more precisely one that expresses EVALUATION based on VISION: the lady (<em>shūnǚ</em> 淑女) is evaluated as lovely, beautiful, good, befitting the lord or gentlemen (<em>jūnzi</em> 君子). Or, as it’s found in the Chinese Ideophone Database <a href="https://simazhi.shinyapps.io/Chineseideophone/">CHIDEOD</a>:</p>
+<blockquote class="blockquote">
+<p>of women, coy and comely, reticent and withdrawn, winsome but withdrawn, delicate and demure; but some indication that the term can instead imply seductive sensuality; covert depths, hidden recesses; quiet(ly) and private(ly) (Kroll 2015)</p>
+</blockquote>
+<p><em>Yáotiáo</em> thus conforms to the crosslinguistic concept of an ideophone: it is marked (partial reduplication), a word (“listable in a lexicon”), that depicts (“not just describes”) a sensory image (“beautiful, lovely woman”) and belongs to an open lexical class, cf.&nbsp;Dingemanse (2012; 2019).</p>
+<p>But do the translations above also conform what this ideophone depicts? Without taking into account factors like adhering to a metrical scheme (eight syllables or something similar), my preference without doubt goes to Legge’s translation, because he captures the antithetical forces of “wanting to depict but being only able to describe” the best: English doesn’t have any ideophones (as far as I’m aware) to depict the kind of women that befits this lord.</p>
+<p>But perhaps you won’t agree. Let me know.</p>
+</section>
+<section id="the-end" class="level1">
+<h1>The end?</h1>
+<p>Anyway, let me just end with the best mix-and-match of this stanza, or how I would do it, given a somewhat academic audience and enough space, i.e.&nbsp;here on my blog.</p>
+<p>First I would give Baxter &amp; Sagart’s reconstruction:</p>
+<blockquote class="blockquote">
+<p>[k]ˤro[n] [k]ˤro[n] [tsʱ]a [k](r)u<br>
+[dz]ˤəʕ [C.g]ˤaj tə tu<br>
+ʔˤ[e]wʔ lˤ[e]wʔ s-tiwk nraʔ<br>
+C.qur tsəʔ qʱˤuʔ g(r)u</p>
+</blockquote>
+<p>Then I would give the Middle Chinese reconstruction, instead of Baxter (1992), I would opt for the IPA version (I converted with <a href="https://pypi.org/project/sinopy/">Sinopy</a>):</p>
+<blockquote class="blockquote">
+<p>kwæn kwæn ʦʰjo kjuw¹<br>
+ʣoj² ɣa ʨi ʨuw¹<br>
+ʔew² dew² ɕuwk ɳjo³<br>
+kjun ʦi² xaw³ gjuw¹</p>
+</blockquote>
+<p>Last I would provide the Mandarin pronunciation:</p>
+<blockquote class="blockquote">
+<p>guānguān jūjiū<br>
+zài hé zhī zhōu<br>
+yǎotiǎo shūnǚ<br>
+jūnzi hǎo qiú</p>
+</blockquote>
+<p>This way you can kind of see how sounds change, as well as the way people perceive the “sounds of the <em>Shījīng</em>. Of course, we would need characters as well:</p>
+<blockquote class="blockquote">
+<p>關關雎鳩，<br>
+在河之洲。<br>
+窈窕淑女，<br>
+君子好逑。</p>
+</blockquote>
+<p>And I would end with a translation:</p>
+<blockquote class="blockquote">
+<p><em>Krōn, krōn</em> the físh-hawks cáll,<br>
+ón the íslet ín the ríver.<br>
+délicáte, demúre, young lády,<br>
+fór the lórd a góód mate shé.</p>
+</blockquote>
+<p>Of course I borrowed from previous translations, but I also tried to mark the prosody so there’s four stressed syllables in the metre of each line. This, I think, is a more effective way of trying to marry the original four beat Chinese to English (where pentameter is the most frequent verse form).</p>
+<p><strong>Didn’t like the translation?</strong> <strong>Make me a better one!</strong></p>
+<p>I hope to see you back for the next update where we attack the problem of this verse and Chinese word segmentation.</p>
+<p>P.s. I have been quite lazy with my references, but if you want a specific reference, feel free to ask.</p>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const onCopySuccess = function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
+  });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/thomasvanhoey\.com");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+
+</body></html>

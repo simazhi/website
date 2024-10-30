@@ -1,0 +1,19 @@
+---
+title: 'Fen Huang'
+date: '2024-08-01'
+categories: ['committee member', 'PhD', 'KU Leuven', 'ongoing']
+description: '[2024-2027] Does grammatical optionality interfere with language production and comprehension? An experimental study'
+execute: 
+  message: false
+  warning: false
+page-layout: article
+# image: figure_6.png
+---
+
+The intersection between language variation and language complexity is empirically under-researched but hugely important for linguistic theorizing. A pilot investigation in the spirit of the so-called “single meaning” approach -- see Gardner et al. (2021), employing spoken English data with corpus linguistic methodology, indicates that grammatical variation (e.g., Give me one vs. Give one to me) does not complicate language production, as choice contexts do not attract dysfluencies (i.e., long pauses and um's and uh's). The conclusion diverges greatly from traditional theorizing about grammatical variation and optionality, which is often perceived as suboptimal and complex by linguists. Enlightened by Gardner et al. (2021), the current study aims to conduct more specific and in-depth research by adopting psychological experiments to explore the correlations between linguistic variation and language comprehension/production complexity. This project will extend discoveries by Gardner et al. (2021) and provide empirical data support for comprehending linguistic variation as an omnipresent occurrence in human languages.
+
+<!-- [Find more about Fen Huang here.](https://www.arts.kuleuven.be/ling/qlvl/people/pages/00157540) -->
+<!-- needs to checked -->
+
+
+

@@ -1,0 +1,19 @@
+---
+title: 'Yi Li'
+date: '2023-05-01'
+categories: ['committee member', 'PhD', 'defended', 'KU Leuven']
+description: '[2019-2023] A probabilistic grammar analysis of the theme-recipient alternation in Mandarin, and of its sensitivity to lectal factors'
+execute: 
+  message: false
+  warning: false
+page-layout: article
+# image: figure_6.png
+---
+
+Situated in the field of variationist sociolinguistics and research on the probabilistic grammars that regulate variation, this study aims to provide a comprehensive analysis of the language-internal and language-external factors that influence the probabilistic grammars of varieties of Mandarin. More specifically, we are set to examine how the dative alternation in Mandarin is conditioned by various constraints that are syntactic (e.g. constituent weight, NP expression type), social (e.g. regional varieties), stylistic (e.g. spoken vs written) and diachronic (i.e. past vs present). To achieve such objective, the study will follow the paradigm of probabilistic grammar, which is based on the ground that factors influencing speakers’ choice of interchangeable linguistic variants are multifaceted and non-deterministic (cf. Bresnan, 2007; Barnaisch et al., 2014; Theijssen et al., 2013). Meanwhile, we are to adopt a usage-based, empirical method to approach this issue, utilizing large-scale authentic corpora and statistical regression modelling to illustrate the directions and magnitudes of multiple variables governing the Mandarin dative alternation.
+
+<!-- [Find more about Fen Huang here.](https://www.arts.kuleuven.be/ling/qlvl/people/pages/00157540) -->
+<!-- link needs to checked -->
+
+
+

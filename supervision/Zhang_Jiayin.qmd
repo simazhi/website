@@ -1,0 +1,23 @@
+---
+title: 'Jiayin Zhang'
+date: '2023-09-01'
+categories: ['committee member', 'PhD', 'KU Leuven', 'ongoing']
+description: '[2023-2027] A dynamic perspective on the relationship between motivation and identity negotiation in heritage language contexts: The case of Chinese Heritage Learners in Belgium'
+execute: 
+  message: false
+  warning: false
+page-layout: article
+# image: figure_6.png
+---
+
+Thanks to globalization, the presence of Chinese-speaking people in Belgium is growing, and so are Heritage Learners (HL) among them. Due to the influence of the linguistic environment, local languages such as Dutch and French become the first language of Belgian Chinese descendants, while Chinese becomes their Heritage Language (HL).
+
+In the field of HL studies, both identity and motivation are prominent themes (Leeman, 2015; Li & Duff, 2014), and learners’ identity and motivation are closely intertwined (He, 2010; Li & Duff, 2014). However, the majority of research has focused on their static and attribute-like nature, and only a few scholars have paid attention to the dynamic changes and interaction between motivation and identity (Choi, 2018). Since most Belgian Chinese descendants have "bicultural identities" and are "bi(multi)lingual", their dynamic identity trajectories in the process of learning Chinese is worth investigating.
+
+Therefore, this research project will adopt the theoretical framework of the L2 motivational self-system (L2MSS) and Identity Negotiation Going (INT), and research tools such as semi-structured interviews, quantitative analysis and questionnaires in order to conduct a longitudinal study on the interaction between identity and motivation of Chinese descendants studying Chinese in Belgian Chinese language schools. The project is innovative in that it establishes the context for Chinese HL research in a non-English speaking context, examines the dynamic interaction between identity and motivation, and examines the Chinese HL learning of Belgian Chinese immigrant descendants from the perspectives of culture, psychology, and personal experience. The research attempts to improve academic support for this group and produce helpful recommendations for Chinese HL teaching.
+
+<!-- [Find more about Fen Huang here.](https://www.arts.kuleuven.be/ling/qlvl/people/pages/00157540) -->
+<!-- link needs to checked -->
+
+
+

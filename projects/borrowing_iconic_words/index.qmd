@@ -1,0 +1,72 @@
+---
+title: 'Borrowing iconic words: Loss, transfer, and reinvention of depiction'
+date: '2024-11-01'
+categories: ['iconicity', 'ideophones', 'onomatopoeia', 'expressives', 'borrowing', 'typology']
+description: '[2024-2027] Is borrowability negatively correlated with iconicity?'
+execute: 
+  message: false
+  warning: false
+page-layout: article
+image: map.png
+---
+
+
+![Map of the sample in this project](map.png)
+
+
+
+
+
+# Project description
+
+Iconicity is a fundamental aspect of language. Words are iconic when their forms reveal something about their meaning, e.g., “woof” ‘sound of a dog barking’, “zigzag” ‘running while alternating from side to side’. Iconic words can be found in any natural language. Non-iconic words can also display iconicity (e.g. size sound symbolism), especially when they belong to the core vocabulary—words that resist borrowing into other language families. It has been hypothesized that iconicity is negatively correlated with borrowability. Yet, this hypothesis has not been tested on iconic words.
+
+The BORROWING ICONIC WORDS project develops two measures (phonosemantic index,
+borrowability index) to gauge the universality of form-meaning mappings in iconic words, and how
+borrowable they are, in order to study the relation between iconicity and borrowability. The project first constructs a large-scale typological database (“Depicticon”) and then applies the two measures to it. BORROWING ICONIC WORDS devotes special attention to iconic lexicons to the case study of the East and Mainland Southeast Asia linguistic area.The project situates the borrowing of iconic words at the crossroads between linguistic typology, cognitive effects, and socio-cultural factors.
+
+# Members involved
+
+* PI [Thomas Van Hoey](https://thomasvanhoey.com)
+* Supervisor   [Benedikt Szmrecsanyi](https://sites.google.com/site/bszmrecsanyi/)
+* Supervisor [Jean-Christophe Verstraete](https://www.arts.kuleuven.be/english/our-staff/zap/jeanchristopheverstraete)
+
+
+# My role in the project
+
+I obtained this project as a senior postdoctoral fellow of the [FWO](https://fwo.be/en/).
+
+# Outputs
+
+The project is currently being carried out.
+
+# Want to contribute?
+
+Please contact met at thomas[DOT]vanhoey[AT]kuleuven[DOT]be
+
+
+
+
+# Basic info
+
+::: {.card}
+FWO 2024
+
+Number: FWO K1AFE24N
+
+<!-- Amount: ca. 300,000 EUR + 17,000 EUR -->
+
+Fonds voor Wetenschappelijk Onderzoek
+<br>KU Leuven
+:::
+
+
+
+
+
+
+
+
+
+
+

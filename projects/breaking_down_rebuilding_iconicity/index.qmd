@@ -1,0 +1,92 @@
+---
+title: 'Breaking down and rebuilding iconicity: machine learning verified by human learning'
+date: '2024-02-01'
+categories: ['gesture', 'ideophones', 'iconicity']
+description: '[2024-2025] What are the special properties of ideophones that allow speakers to easily guess their meaning?'
+execute: 
+  message: false
+  warning: false
+page-layout: article
+image: map2.png
+---
+
+
+![](map2.png)
+
+
+
+# Project description
+
+[from the HKU linguistics website:](https://linguistics.hku.hk/research_ling_current_grant_2024_yd1/)
+
+An English speaker who hears the Cantonese word dang would be hard-pressed to guess the correct translation (“chair”) above chance level. Some words, however, are easy to guess, for example ideophones. Ideophones are words that depict sensory imagery and exist in every spoken language. An English speaker who hears the Japanese ideophone kira-kira is very likely to guess the correct translation (“flashing”).
+
+What are the special properties of ideophones that allow speakers to easily guess their meaning? This is still not well-understood. What we do know is that ideophones rely on iconicity to be meaningful. Iconicity is a connection between form and meaning. Since ideophones are spoken, their “form” is sound. Ideophones essentially “sound like” what they mean.
+
+What we don’t know is the answer to this question: what is it about kira-kira that sounds like “flashing” to native and non-native speakers? This question is simple yet speaks to a unifying and fundamental aspect of human cognition: how do we relate sounds to the world? By striving to answer this question, our objectives feed into language acquisition, psychology, and machine learning.
+
+The main goal of our project is to identify which sound properties cause ideophones to sound like what they mean. We do this by teaching ideophones from a multilingual database to a neural network. To do this, we train our network on pronunciation (e.g., kira-kira) and meaning (e.g., “flashing”) alone, replicating circumstances participants face during guessing tasks. Next, we pinpoint which sounds the neural network relied on to guess meanings more accurately.
+
+We then test the psychological reality of what the neural network has learned by first asking it to generate new ideophones, then using these as stimuli in two experiments: (1) a learning study, and (2) a transmission study (a game of telephone), to see how the new ideophones “survive in the wild” as they are passed from one participant to the next.
+
+Our project has two impact pathways: (1) developing an open-access database of ideophones from many languages, labeled with sound-meaning mappings identified by our neural network and verified through experimental evidence, and (2) designing an open-source brain-teaser game that helps improve one’s memory, while allowing us to continue to improve our network. For (1), we convert our neural network’s training set into a searchable website. For (2), we harness the sound-meaning mappings pin-pointed by our network to design memory tasks shown to improve memory performance.
+
+
+# Members involved
+
+* PI   [Youngah Do](https://hub.hku.hk/cris/rp/rp02160)
+* Co-I [Thomas Van Hoey](https://thomasvanhoey.com)
+* Co-I [Christophe Coupe](https://hdt.arts.hku.hk/christophe-coupe)
+* Co-I [Harald Baayen](https://uni-tuebingen.de/en/faculties/faculty-of-humanities/departments/modern-languages/department-of-linguistics/chairs/quantitative-linguistics/staff/harald-baayen/)
+
+
+# My role in the project
+
+I am a co-investigator of this project.
+My role consists of 
+
+* finding data
+* preparing data
+* analysis
+* writing 
+
+
+# Outputs
+
+in preparation
+
+
+<!-- ## Papers related to this project -->
+
+
+<!-- ## Papers benefiting from the research environment -->
+
+
+<!-- ## Related blog posts -->
+
+
+
+# Basic info
+
+::: {.card}
+GRF 2023/2024
+
+<!-- Amount: 846,300 HKD -->
+
+General Research Fund (GRF), University Grants Council (UGC), Hong Kong
+
+Number: GRF 17602723
+
+The University of Hong Kong, Department of Linguistics, Language Development Lab (LDL)
+:::
+
+
+
+
+
+
+
+
+
+
+

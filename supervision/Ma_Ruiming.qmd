@@ -1,0 +1,18 @@
+---
+title: 'Ruiming Ma'
+date: '2024-02-01'
+categories: ['co-supervisor', 'PhD', 'KU Leuven', 'ongoing']
+description: '[2024-2027] Does grammatical optionality complicate speech production and comprehension? The case of Mandarin Chinese'
+execute: 
+  message: false
+  warning: false
+page-layout: article
+# image: figure_6.png
+---
+
+Ruiming’s PhD project aims to answer the question: Does grammatical optionality (e.g., the witch’s wand vs. the wand of the witch) complicate speech production and comprehension? Using a Mandarin Chinese corpus, she attempts to identify the impact of grammatical optionality on dysfluencies in speech production; on the other hand, she will carry out a psycholinguistic experiment to measure the correlation between grammatical optionality and speech comprehension.
+
+[Find more about Ruiming Ma here.](https://www.arts.kuleuven.be/ling/qlvl/people/pages/00157540)
+
+
+

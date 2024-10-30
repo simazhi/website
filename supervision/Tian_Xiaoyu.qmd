@@ -1,0 +1,19 @@
+---
+title: 'Xiaoyu Tian'
+date: '2024-05-01'
+categories: ['committee member', 'PhD', 'defended', 'KU Leuven']
+description: '[2020-2024] Variation in Chinese analytic causative constructions across time and varieties'
+execute: 
+  message: false
+  warning: false
+page-layout: article
+# image: figure_6.png
+---
+
+Cognitive Sociolinguistics, an enterprise that integrates Cognitive Linguistics and Sociolinguistics, aims to take account of formal, conceptual and lectal dimensions for a more realistic model of language variation. In line with recent development in Cognitive Sociolinguistics, this project aims to provide a multidimensional investigation of Chinese analytic causative constructions from both synchronic and diachronic perspectives. This project is comprised of three work packages. Work package I investigates language-internal (syntactic, semantics) and language-external (variety, genre) factors affecting the alternation of the most frequently used causative markers, i.e. shi, ling, rang and jiao from a synchronic perspective. Work package II provides a diachronic analysis of Chinese analytic causative constructions. Work package III gathers converging evidence from psychological experiments to verify whether the predictions of corpus based statistical models can reflect human speakers’ preference. Given the fact that analytic causative constructions are less well studied than morphological and lexical causatives in general, this project will not only serve as an important reference for studies on Chinese causatives, but also will contribute to the discussion on analytic causative constructions from a cross-linguistic perspective.
+
+<!-- [Find more about Fen Huang here.](https://www.arts.kuleuven.be/ling/qlvl/people/pages/00157540) -->
+<!-- link needs to checked -->
+
+
+

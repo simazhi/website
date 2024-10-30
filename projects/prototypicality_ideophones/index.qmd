@@ -1,0 +1,88 @@
+---
+title: 'Chinese ideophones and prototypicality'
+date: '2015-09-20'
+categories: ['ideophone', 'iconicity', 'Chinese']
+description: '[2015-2020] Do ideophones exist in Chinese? Are they prototypically structured?'
+execute: 
+  message: false
+  warning: false
+page-layout: article
+---
+
+
+
+![](huihui.png)
+
+# Project description
+
+This project, which is handled in my dissertation, explores prototypicality and salience effects of the variation within the Chinese ideophonic lexicon.
+
+In my dissertation, Chinese is demonstrated to have ideophones, by unifying previously separately studied phenomena such as reduplication, binomes, and onomatopoeia. However, the “ideophonic lexicon” is not homogeneous; rather, it is prototypically structured. This is demonstrated from a synchronic and diachronic perspective, as well as across different modalities, with special attention devoted to the written modality. Thus, this dissertation aims to address the lacunae within the literature on ideophones, in which Chinese is often underrepresented, diachronic perspectives are scarce, and the ideophonic usage of writing is often neglected.
+
+My original contributions to knowledge include (1) the creation of an open-source database of Chinese ideophones and (2) four methodological perspectives that show how the variation of and within this category is structured. The Chinese Ideophone Database (version 0.9.3) collects 4948 unique onomatopoeia and ideophones (mimetics) of modern Mandarin, as well as Middle Chinese and Old Chinese. It follows a framework that can be reused and updated in future research, and is accessible in different formats (.rds, .xlsx, .csv, R package and online app interface). Based on this database and corpus evidence, the variation of the ideophonic lexicon in Chinese is studied, in four case studies, each with its own methodological lens.
+
+The first case study delineates the boundary of (Mandarin) Chinese ideophones as a category and investigates how it is structured. Using Multiple Correspondence Analysis, the interactions between morphological patterns, orthographic motivation and depiction of sensory domain were calculated. These confirm that sound-depicting ideophones (onomatopoeia) correlate mostly with single morphemes, and that the depiction of movement and sound mostly correlates with full reduplication. However, the analysis also shows how strong other correlations between different values of the parameters are. A follow-up application of Multiple Correspondence Analysis finds that these correlations are also found with corpus data. Important in both applications, however, is the fuzzy overlap between correlations, which strongly suggests that the ideophonic lexicon in Chinese has a dual prototypical core.
+
+The second case study investigates the diachronic prototype semantics of Chinese ideophones in the semantic field of light. Through manual study, the mental spaces, frames, domains and image schemas for a sample are followed. The meanings form interrelated polysemous clusters, which are dynamic throughout time, with clear prototypical cores that semantically extend over time and can be transient.
+
+The third case study studies lexical variational salience within the field of light ideophones from three perspectives by constructing a semantic vector space based on a historical corpus. These perspectives are semasiological salience, onomasiological salience, and structural salience. These three types of salience show that within the semantic field of light, Chinese ideophones are not a homogeneous block. Instead they have different features and elements that stand out, depending on one’s perspective, an observation that can be extended to other types of ideophones and the generalizations that can be made about ideophones as a category.
+
+The fourth case study continues the probing of the heterogeneity within the Chinese ideophonic lexicon, by adopting collostructional analysis to study ideophones used in Mandarin Chinese constructions. The association measures obtained through this method show to what degree individual ideophonic items are attracted or repulsed by certain constructions, and that some items also depend on these constructions to even occur. Furthermore, the well-known ABB construction is addressed and is argued to be an instance of a more schematic construction collocate-ideophone.
+
+The case studies reveal that the Chinese ideophonic lexicon is not homogeneous, and that many different elements of salience can be found, depending on the perspective and the granularity of the analysis. They constitute an important addition to previous research by nuancing certain intuitive truths about the nature of ideophones.
+
+# Members
+
+* PI [Thomas Van Hoey](https://thomasvanhoey.com)
+* Supervisor [Chiarung Lu 呂佳容](https://chiarungluntu.blogspot.com/)
+
+
+
+# My role in the project
+
+This was my PhD project.
+
+# Outputs
+
+## Dissertation (2020)
+
+[Please find my dissertation here](https://thomasvanhoey.com/losse_files/theses/DISSERTATION.pdf)
+
+Van Hoey, Thomas. 2020.
+Prototypicality and salience of Chinese ideophones: A cognitive and corpus linguistics approach
+漢語擬聲(態)詞的原型與顯著特徵：以認知與語料庫語言學方法探討.
+Taipei: National Taiwan University. PhD dissertation.
+
+
+
+
+## MA thesis (2015)
+
+My MA Linguistics thesis ran up to the studies conducted in my dissertation.
+
+[Please find the MA thesis here](https://thomasvanhoey.com/losse_files/theses/MA_linguistics.pdf)
+
+Van Hoey, Thomas. 2015.
+Ideophones in Middle Chinese: A typological study of a Tang dynasty poetic corpus.
+Leuven: KU Leuven. MA thesis.
+
+## Defense 
+
+{{< video https://youtu.be/wuBIgAro0ZQ?si=XMwVh8BKqPHU1DoY >}}
+
+# Basic info
+
+::: {.card}
+National Taiwan University (2015-2020)
+
+Funded by
+- Research Fellowship for Outstanding International Doctoral Students (2015-2018)
+- Financial Assistance Grant for International Students (2018-2020)
+
+Total amount: 1,820,000 NTD
+
+National Taiwan University, Graduate Institute for Linguistics GIL
+:::
+
+
+

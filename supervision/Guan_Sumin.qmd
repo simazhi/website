@@ -1,0 +1,19 @@
+---
+title: 'Sumin Guan'
+date: '2023-08-01'
+categories: ['committee member', 'PhD', 'KU Leuven', 'ongoing']
+description: '[2023-2027] A multifactorial analysis of Chinese analytic passive constructions'
+execute: 
+  message: false
+  warning: false
+page-layout: article
+# image: figure_6.png
+---
+
+Applying the framework of Probabilistic Grammar and variationist sociolinguistics, this project will probe the alternation between competing Chinese passive constructions marked by bei/rang/jiao/gei/zao. Taking into consideration both language-internal and language-external constraints, I will rely on corpus data, psycholinguistic experimentation and multifactorial analysis techniques to explore how probabilistic grammars constrain variant choice, and the extent to which the conditioning of variation differs across varieties of Mandarin Chinese.
+
+
+[Find more about Sumin Guan here.](https://www.arts.kuleuven.be/ling/qlvl/people/pages/00158381)
+
+
+

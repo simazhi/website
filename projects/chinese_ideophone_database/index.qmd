@@ -1,0 +1,74 @@
+---
+title: 'CHIDEOD - The Chinese Ideophone Database'
+date: '2021-02-01'
+categories: ['ideophones', 'iconicity', 'Chinese']
+description: '[2017-2020] What does the inventory of the Chinese ideophonic lexicon look like?'
+execute: 
+  message: false
+  warning: false
+page-layout: article
+---
+
+
+![Badge of the CHIDEOD R package](logo.png)
+
+
+
+# Project description
+
+One important aspect of my PhD research consisted of collecting Chinese ideophones (or candidates of that category) in a central place.
+The Chinese Ideophone Database (**CHIDEOD**) provided the perfect place for this.
+
+The make-up of the database is explained in this article:
+
+**Van Hoey, Thomas** & Arthur Lewis Thompson. 2020. The Chinese Ideophone Database (CHIDEOD). *Cahiers de Linguistique Asie Orientale* 49(2). 136–167. [doi: 10.1163/19606028-bja10006](https://doi.org/10.1163/19606028-bja10006)
+
+# Members involved
+
+* PI [Thomas Van Hoey](https://thomasvanhoey.com)
+* Co-author  Arthur Lewis Thompson
+* Supervisor [Chiarung Lu 呂佳容](https://chiarungluntu.blogspot.com/)
+
+
+# Other outputs
+
+## Dissertation
+
+You can read about CHIDEOD's first use case [in my dissertation](https://thomasvanhoey.com/losse_files/theses/DISSERTATION.pdf)
+
+Van Hoey, Thomas. 2020.
+Prototypicality and salience of Chinese ideophones: A cognitive and corpus linguistics approach
+漢語擬聲(態)詞的原型與顯著特徵：以認知與語料庫語言學方法探討.
+Taipei: National Taiwan University. PhD dissertation.
+
+## Interactive app
+
+I made [an interactive app](https://simazhi.shinyapps.io/chideod_appversion/) in the Shiny framework for easy consultation of the database.
+
+This app also can export into multiple formats, e.g., .csv, .xlsx.
+
+## R package
+
+If you want to use it directly in R, you can [follow the instructions on the project's GitHub page](https://github.com/simazhi/chinese_ideophone_database).
+
+## OSF page
+
+The data can also also be found [on this OSF repository](https://osf.io/kpwgf/).
+
+# Basic info
+
+::: {.card}
+Funding was provided by the same funders as my PhD.
+
+National Taiwan University, Graduate Institute for Linguistics GIL
+
+:::
+
+
+
+
+
+
+
+
+
