@@ -1,0 +1,120 @@
+---
+title: "new project who dis"
+description: "Today my FWO senior postdoctoral fellowship starts. Time for a new site and an update."
+date: "2024-11-01"
+categories: ['travel', 'KU Leuven', 'ideophones']
+execute:
+  freeze: auto
+image: featured.jpg
+---
+
+# New site
+
+Hello beautiful readers.
+
+It's been a while since I updated this blog.
+But I figured that now's as good as any to do so.
+After all, I just transferred the back-end of my website from [blogdown](https://bookdown.org/yihui/blogdown/) to [quarto websites](https://quarto.org/docs/websites/). 
+How do you like the new look?
+For me it looks fresher and maybe more mature, if that's an adjective you can use to describe a website.
+
+More excitingly, today is also the day my new postdoctoral project begins.
+And while I could try to keep up with the previous updates that happened in my academic life, I think I'll just see this as a new beginning.
+But that doesn't mean I won't be giving updates on exciting papers that are in the pipeline.
+Rather, *if I'm being really honest here*, the venn diagram with the readership of my blog and people that I engage with on a (semi-)regular basis is basically a circle. 
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/86097314@N03/53455466698/in/album-72177720321614991" title="The Two Towers (FWO and KU Leuven)"><img src="https://live.staticflickr.com/65535/53455466698_95f80f2066_c.jpg" width="600" height="800" alt="The Two Towers (FWO and KU Leuven)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+
+# Who dis
+
+So in a twist of logic, I probably don't need to do an update, because most will have seen the wonderful places I've been able to go to in my time working on the [complexity project](https://www.thomasvanhoey.com/projects/grammatical_alternation_complexity/) with [Benedikt Szmrecsanyi](https://sites.google.com/site/bszmrecsanyi/).
+For example, with the gracious support from Benedikt, I was able to travel [to Oxford](https://www.thomasvanhoey.com/posts/2023-03-05-leaving-the-liminal/) for the project start-up with Matt H. Gardner, to South Africa, Australia, Germany, Greece, Leuven (🫰), and soon the center of the world, aka Antwerp (🫰). 
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/86097314@N03/53453385006/in/album-72177720321614991" title="Untitled"><img src="https://live.staticflickr.com/65535/53453385006_27b1e4feb5_c.jpg" width="600" height="800" alt="Untitled"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Formally, the time has come and gone that I was hired on that project.
+Of course, I am still involved and will remain to be so as long as I'm here.
+I feel I have finally gotten a grip on the issues within the variationist literature that we are talking about, and working with the SWITCHBOARD spoken corpus data definitely has helped with that.
+Besides, working with Benedikt is truly a pleasure.
+That is why we also have a shared PhD student, Ruiming Ma, who is looking at similar things as I was but in Chinese data, which is really exciting. 
+[You can read more about that project here](https://www.thomasvanhoey.com/supervision/ma_ruiming). 
+
+Last February, I was also happy to receive my previous supervisor from HKU, Youngah Do, here in Leuven.
+It was a great opportunity to wrap up some projects we still had in the pipeline, but you know, after some reviewer time had passed.
+Academic schedules and scholarly time move at a different pace than most people realize.
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/86097314@N03/53765051862/in/album-72177720321614991/" title="Untitled"><img src="https://live.staticflickr.com/65535/53765051862_0ab51e6172_c.jpg" width="640" height="800" alt="Untitled"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+In general, I have landed in a remarkably good research environment.
+Without exaggeration, it is hard to find days in which just a quick conversation with someone from the linguistics department, and in particular the people from the [QLVL](https://www.arts.kuleuven.be/ling/qlvl) or [FunC](https://www.arts.kuleuven.be/ling/func) research groups, say something that makes you go: *oh, huh, interesting, lemme think about it.*
+Sometimes this concerns particular methods, or ways of looking at the data; other times, it's just a topic or a turn in the conversation that will linger on.
+And bonus points for them for putting up with my stupid jokes at lunch time. 
+It is appreciated.
+
+As a group, we work well.
+I wouldn't say it's a hive mind culture, but more a concerned individuals focus group that discusses all sorts of issues.
+And we've also done some team building. 
+For instance, here is the group pic of our QLVL teambuilding last summer.
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/86097314@N03/53786301374/in/album-72177720321614991" title="Untitled"><img src="https://live.staticflickr.com/65535/53786301374_e0ab9981a8_c.jpg" width="800" height="602" alt="Untitled"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+# New project
+
+Now, one of the reasons why it has been a minute since I updated my blog is that *I've busy.*
+Even though I got all the support I needed, after about half a year I realized that couldn't just rest on my laurels and diminish, go into the West and remain Galadriel.
+No, if I wanted all to love me and despair, to make this Galadriel metaphor even more convoluted, I would need to start applying to grants,  professorships or postdoc fellowships.
+
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/86097314@N03/53453701014/in/album-72177720321614991" title="Untitled"><img src="https://live.staticflickr.com/65535/53453701014_4ceac5040e_c.jpg" width="600" height="800" alt="Untitled"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+
+While I originally had the idea to apply for an ERC Starting Grant, I was too late last year and my idea wasn't full-fledged yet either. 
+But luckily I was able to channel it into an application for the [Senior Postdoctoral Fellowship of the Research Foundation of Flanders](https://www.fwo.be/en/support-programmes/all-calls/postdoctoral-researchers/senior-postdoctoral-fellowship/), our national funding agency.
+Luckily, I didn't have to sell my soul to Lucifer and could put off a Faustian deal, but just to be sure I went to this statue in Liège on the day of the interview.
+*\#hustleculture*
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/86097314@N03/53916366484/in/album-72177720321614991" title="Me on the day of the oral interview making a deal with Lucifer"><img src="https://live.staticflickr.com/65535/53916366484_7a58c39d39_c.jpg" width="600" height="800" alt="Me on the day of the oral interview making a deal with Lucifer"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+I'm grateful that [Benedikt](https://sites.google.com/site/bszmrecsanyi/) agreed to act as the supervisor the project. 
+And I've also gotten my previous MA in Linguistics' supervisor [Jean-Christophe Verstraete](https://www.arts.kuleuven.be/english/our-staff/zap/jeanchristopheverstraete) on board.
+They are both a great match because the former specialized in variationist linguistics, and the latter in typology.
+And my project is situated at the crossroads between these two.
+
+The full title of the project is ["Borrowing iconic words: Loss, transfer, and reinvention of depiction"](https://www.thomasvanhoey.com/projects/borrowing_iconic_words/).
+To give you an idea of the written pitch, here are the first paragraph of my project.
+
+> The past two decades have shown that iconicity is a fundamental aspect of language. Words are
+iconic when their forms reveal something about their meanings. For example, *woof* sounds like the
+‘sound of a dog barking’, and *zigzag* reveals something about ‘running while alternating from side
+to side’. Iconic words can be found in any natural language. Non-iconic words (prosaic words) can
+also display iconicity, such as size sound symbolism (/a/ is big, /i/ is small). 
+**This is especially true for core vocabulary, i.e., words that resist borrowing into other language families. Hence, there is the hypothesis that iconicity is negatively correlated with borrowability. Surprisingly, this hypothesis has not been tested on iconic words, making it hard to estimate the limits of the relationship between iconicity and borrowing.**
+
+Now, you can see that there is the impetus: there is this idea that is floating around.
+Clearly, I don't entirely agree with it, for reasons my future papers will make clear.
+In any case, my proposed solution to this problem is to study the relationship between borrowability and iconicity starting from iconic words rather than from prosaic words that were (synchronically) rated in iconicity.
+
+I'm very excited to start on this project. 
+The first task consists of the creation of a typological database with lots of iconic lexical material, think onomatopoeia (*meow*, *woof*, *bang!*) and ideophones (*zigzag*, Jap. *pikapika* 'flashing').
+The want for such a database is not entirely new.
+Back in the covid times of 2020-2021, a few of us (Bonnie McLean, Ian Joo, Arthur Thompson, Mark Dingemanse, Jiyeon Park) had the idea to create some sort of "*IdeoNet*". 
+But we didn't really have the funding or the space in our careers to do so.
+Having advanced a bit further in the career trajectory, I am happy we do have the funding and dedicated man-hour task (i.e., me and my project) to work on this. 
+It is also rebranded as "*Depicticon*". 
+So [keep an eye out](https://www.thomasvanhoey.com/projects/borrowing_iconic_words/) and if you have data to share, please do so.
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/86097314@N03/53455760975/in/album-72177720321614991/" title=" "><img src="https://live.staticflickr.com/65535/53455760975_165eaaf68b_c.jpg" width="800" height="600" alt=" "/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+The rest of the project remains for a future update, shrouded in the mist that has been descending on an autumnal seasoned Leuven.
+Time to go watch some colored leaves fall down.
+Adieu.
+
+
+
+
+
+
+
+
+
