@@ -13,7 +13,7 @@ image: featured.jpg
 Hello beautiful readers.
 
 It's been a while since I updated this blog.
-But I figured that now's as good as any to do so.
+But I figured that now's as good a time as any to do so.
 After all, I just transferred the back-end of my website from [blogdown](https://bookdown.org/yihui/blogdown/) to [quarto websites](https://quarto.org/docs/websites/). 
 How do you like the new look?
 For me it looks fresher and maybe more mature, if that's an adjective you can use to describe a website.
@@ -47,7 +47,7 @@ Academic schedules and scholarly time move at a different pace than most people 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/86097314@N03/53765051862/in/album-72177720321614991/" title="Untitled"><img src="https://live.staticflickr.com/65535/53765051862_0ab51e6172_c.jpg" width="640" height="800" alt="Untitled"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 In general, I have landed in a remarkably good research environment.
-Without exaggeration, it is hard to find days in which just a quick conversation with someone from the linguistics department, and in particular the people from the [QLVL](https://www.arts.kuleuven.be/ling/qlvl) or [FunC](https://www.arts.kuleuven.be/ling/func) research groups, say something that makes you go: *oh, huh, interesting, lemme think about it.*
+Without exaggeration, it is hard to find days in which just a quick conversation with someone from the linguistics department says something that makes you go: *oh, huh, interesting, lemme think about it*, in particular the people from the [QLVL](https://www.arts.kuleuven.be/ling/qlvl). [FunC](https://www.arts.kuleuven.be/ling/func) research groups, 
 Sometimes this concerns particular methods, or ways of looking at the data; other times, it's just a topic or a turn in the conversation that will linger on.
 And bonus points for them for putting up with my stupid jokes at lunch time. 
 It is appreciated.
@@ -61,8 +61,8 @@ For instance, here is the group pic of our QLVL teambuilding last summer.
 
 # New project
 
-Now, one of the reasons why it has been a minute since I updated my blog is that *I've been busy.*
-Even though I got all the support I needed, after about half a year I realized that couldn't just rest on my laurels and diminish, go into the West and remain Galadriel.
+Now, one of the reasons why it has been a minute since I updated my blog is that \*I've been busy.\*
+Even though I got all the support I needed, after about half a year I realized that I couldn't just rest on my laurels and diminish, go into the West and remain Galadriel.
 No, if I wanted all to love me and despair, to make this Galadriel metaphor even more convoluted, I would need to start applying to grants,  professorships or postdoc fellowships.
 
 
@@ -71,7 +71,7 @@ No, if I wanted all to love me and despair, to make this Galadriel metaphor even
 
 While I originally had the idea to apply for an ERC Starting Grant, I was too late last year and my idea wasn't full-fledged yet either. 
 But luckily I was able to channel it into an application for the [Senior Postdoctoral Fellowship of the Research Foundation of Flanders](https://www.fwo.be/en/support-programmes/all-calls/postdoctoral-researchers/senior-postdoctoral-fellowship/), our national funding agency.
-Luckily, I didn't have to sell my soul to Lucifer and could put off a Faustian deal, but just to be sure I went to this statue in Liège on the day of the interview.
+Fortunately, I didn't have to sell my soul to Lucifer, so I was able to put off a Faustian deal, but just to be sure I went to this statue in Liège on the day of the interview after the event.
 *\#hustleculture*
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/86097314@N03/53916366484/in/album-72177720321614991" title="Me on the day of the oral interview making a deal with Lucifer"><img src="https://live.staticflickr.com/65535/53916366484_7a58c39d39_c.jpg" width="600" height="800" alt="Me on the day of the oral interview making a deal with Lucifer"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
