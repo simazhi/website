@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.11.12)  12 NOV 2024 17:33
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.11.12)  15 NOV 2024 08:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -836,93 +836,93 @@ Package xeCJK Warning: Unknown CJK family `\CJKttdefault' is being ignored.
 (xeCJK)                Try to use `\setCJKmonofont[<...>]{<...>}' to define
 (xeCJK)                it.
 
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 144.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 143.
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 144.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 143.
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 144.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 143.
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 144.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 143.
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 144.
+(Font)              <12> on input line 143.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 144.
+(Font)              <8> on input line 143.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 144.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 144.
+(Font)              <6> on input line 143.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 143.
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 144.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 143.
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `TU/Georgia(0)/m/n' will be
-(Font)              scaled to size 12.89113pt on input line 147.
+(Font)              scaled to size 12.89113pt on input line 146.
 LaTeX Font Info:    Font shape `TU/Georgia(0)/m/it' will be
-(Font)              scaled to size 10.4978pt on input line 150.
+(Font)              scaled to size 10.4978pt on input line 149.
 
-Underfull \hbox (badness 10000) in paragraph at lines 144--151
+Underfull \hbox (badness 10000) in paragraph at lines 143--150
 
  []
 
-LaTeX Font Info:    Trying to load font information for TU+academicons on input line 156.
+LaTeX Font Info:    Trying to load font information for TU+academicons on input line 155.
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/academicons/tuacademicons.fd)
 Missing character: There is no   (U+0020) in font [academicons.ttf]:!
 
-Overfull \hbox (1.72748pt too wide) in paragraph at lines 143--158
+Overfull \hbox (1.72748pt too wide) in paragraph at lines 142--157
 [][] [] 
  []
 
 LaTeX Font Info:    Font shape `TU/Georgia(0)/m/n' will be
-(Font)              scaled to size 15.46936pt on input line 166.
+(Font)              scaled to size 15.46936pt on input line 165.
 LaTeX Font Info:    Font shape `TU/Georgia(0)/b/n' will be
-(Font)              scaled to size 15.37575pt on input line 166.
+(Font)              scaled to size 15.37575pt on input line 165.
 
 LaTeX Font Warning: Font shape `TU/Georgia(0)/b/sc' undefined
-(Font)              using `TU/Georgia(0)/b/n' instead on input line 166.
+(Font)              using `TU/Georgia(0)/b/n' instead on input line 165.
 
 LaTeX Font Info:    Font shape `TU/Georgia(0)/b/sc' will be
-(Font)              scaled to size 15.37575pt on input line 172.
+(Font)              scaled to size 15.37575pt on input line 171.
 LaTeX Font Info:    Font shape `TU/Georgia(0)/b/n' will be
-(Font)              scaled to size 10.67761pt on input line 174.
+(Font)              scaled to size 10.67761pt on input line 173.
 
-Underfull \hbox (badness 10000) in paragraph at lines 183--191
+Underfull \hbox (badness 10000) in paragraph at lines 182--190
 
  []
 
 LaTeX Font Info:    Font shape `TU/NotoSansCJKTC(0)/m/n' will be
-(Font)              scaled to size 9.52478pt on input line 217.
+(Font)              scaled to size 9.52478pt on input line 216.
 
 
 [1
 
 ]
 LaTeX Font Info:    Font shape `TU/Georgia(0)/b/n' will be
-(Font)              scaled to size 12.81313pt on input line 225.
+(Font)              scaled to size 12.81313pt on input line 224.
 LaTeX Font Info:    Font shape `TU/Georgia(0)/m/sl' in size <14.4> not available
-(Font)              Font shape `TU/Georgia(0)/m/it' tried instead on input line 225.
+(Font)              Font shape `TU/Georgia(0)/m/it' tried instead on input line 224.
 LaTeX Font Info:    Font shape `TU/Georgia(0)/m/it' will be
-(Font)              scaled to size 12.59735pt on input line 225.
+(Font)              scaled to size 12.59735pt on input line 224.
 
 
 LaTeX Font Info:    Font shape `TU/Georgia(0)/m/n' will be
-(Font)              scaled to size 7.16174pt on input line 312.
+(Font)              scaled to size 7.16174pt on input line 311.
 LaTeX Font Info:    Font shape `TU/NotoSansCJKTC(0)/m/n' will be
-(Font)              scaled to size 6.34985pt on input line 312.
+(Font)              scaled to size 6.34985pt on input line 311.
 [2]
 
 [3]
-Overfull \hbox (12.58379pt too wide) in paragraph at lines 434--441
+Overfull \hbox (12.58379pt too wide) in paragraph at lines 433--440
 \TU/Georgia(0)/m/n/12 (CHIDEOD). CHIDEOD is accessible in .xlsx, .csv, .rds formats (doi: [][]10.17605/OSF.IO/KPWGF[][]),
  []
 
@@ -931,57 +931,62 @@ Overfull \hbox (12.58379pt too wide) in paragraph at lines 434--441
 [4]
 
 [5]
-Underfull \hbox (badness 1701) in paragraph at lines 607--614
+Underfull \hbox (badness 1701) in paragraph at lines 606--613
 \TU/Georgia(0)/m/n/12 and written form across time: Introducing a database of Chinese literary ideophones
  []
 
 
-Underfull \hbox (badness 1881) in paragraph at lines 607--614
+Underfull \hbox (badness 1881) in paragraph at lines 606--613
 \TU/Georgia(0)/m/n/12 — CHIDEOD. ILL 12 [International Symposium on Iconicity in Language and Litera-
  []
 
 
-Underfull \hbox (badness 1132) in paragraph at lines 607--614
+Underfull \hbox (badness 1132) in paragraph at lines 606--613
 \TU/Georgia(0)/m/n/12 ture], Lund: Lund University. 3-5 May 2019. Funding: MOST-108-2922-I-002-198.
  []
 
 
-Underfull \hbox (badness 1127) in paragraph at lines 614--622
+Underfull \hbox (badness 1127) in paragraph at lines 613--621
 \TU/Georgia(0)/m/n/12 Discourse, and Cognition]. Taipei: National Taiwan University. 19-21 October 2018.
  []
 
 
 
 [6]
-Underfull \hbox (badness 1997) in paragraph at lines 660--667
+Underfull \hbox (badness 1997) in paragraph at lines 659--666
 []\TU/Georgia(0)/b/n/12 Van Hoey, Thomas\TU/Georgia(0)/m/n/12 . 2017. The thunder rolls: Iconicity and ideophones in Chi-
  []
 
 
-Underfull \hbox (badness 1478) in paragraph at lines 660--667
+Underfull \hbox (badness 1478) in paragraph at lines 659--666
 \TU/Georgia(0)/m/n/12 Iconicity in Language Use, Development and Processing. Nijmegen: Max Planck In-
  []
 
 
-Underfull \hbox (badness 1314) in paragraph at lines 660--667
+Underfull \hbox (badness 1314) in paragraph at lines 659--666
 \TU/Georgia(0)/m/n/12 stitute for Psycholinguistics. 6-7 July 2017. Funding: NTU, College of Liberal Arts.
  []
 
 
 
 [7]
-Underfull \hbox (badness 2253) in paragraph at lines 771--771
+Underfull \hbox (badness 2253) in paragraph at lines 770--770
 []|\TU/Georgia(0)/m/n/12 Research Fellowship for Outstanding International
  []
 
 
-Overfull \hbox (9.8388pt too wide) in paragraph at lines 772--772
+Overfull \hbox (9.8388pt too wide) in paragraph at lines 771--771
 []|\TU/Georgia(0)/m/n/12 Hanban| 
  []
 
 
 
 [8]
+Overfull \hbox (2.17525pt too wide) in paragraph at lines 780--780
+[]|\TU/Georgia(0)/m/n/12 MOST| 
+ []
+
+
 Overfull \hbox (2.17525pt too wide) in paragraph at lines 781--781
 []|\TU/Georgia(0)/m/n/12 MOST| 
  []
@@ -992,17 +997,12 @@ Overfull \hbox (2.17525pt too wide) in paragraph at lines 782--782
  []
 
 
-Overfull \hbox (2.17525pt too wide) in paragraph at lines 783--783
+Overfull \hbox (2.17525pt too wide) in paragraph at lines 784--784
 []|\TU/Georgia(0)/m/n/12 MOST| 
  []
 
 
-Overfull \hbox (2.17525pt too wide) in paragraph at lines 785--785
-[]|\TU/Georgia(0)/m/n/12 MOST| 
- []
-
-
-Underfull \hbox (badness 1057) in paragraph at lines 791--791
+Underfull \hbox (badness 1057) in paragraph at lines 790--790
 []|\TU/Georgia(0)/m/n/12 Intro to Linguistics 1 (Algemene taalwetenschap 1)
  []
 

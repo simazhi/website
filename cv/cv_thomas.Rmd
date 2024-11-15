@@ -12,8 +12,8 @@ CJKmainfont: Noto Sans CJK TC
 sansfont: Georgia
 mainfont: Georgia # Noto Serif
 geometry: margin=1in
-jobtitle: Postdoctoral assistant, Department of Linguistics
-affiliation: KU Leuven
+jobtitle: Senior Postdoctoral Fellow (Linguistics)
+affiliation: FWO & KU Leuven
 addressuni: Blijde Inkomststraat 21 box 3308, 3000 Leuven
 fontawesome: yes
 academicons: yes
