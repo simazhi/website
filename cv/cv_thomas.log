@@ -1,27 +1,27 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2024.2.3)  30 AUG 2024 12:11
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.11.12)  12 NOV 2024 17:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **cv_thomas.tex
 (./cv_thomas.tex
-LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-01-22>
+LaTeX2e <2024-11-01>
+L3 programming layer <2024-11-02>
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/base/size12.clo
-File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+File: size12.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count183
-\c@section=\count184
-\c@subsection=\count185
-\c@subsubsection=\count186
-\c@paragraph=\count187
-\c@subparagraph=\count188
-\c@figure=\count189
-\c@table=\count190
-\abovecaptionskip=\skip48
-\belowcaptionskip=\skip49
-\bibindent=\dimen140
+\c@part=\count192
+\c@section=\count193
+\c@subsection=\count194
+\c@subsubsection=\count195
+\c@paragraph=\count196
+\c@subparagraph=\count197
+\c@figure=\count198
+\c@table=\count199
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen141
 ) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/lm/lmodern.sty
 Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
@@ -67,65 +67,65 @@ LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2023/05/13 v2.17o AMS math features
-\@mathmargin=\skip50
+Package: amsmath 2024/11/05 v2.17t AMS math features
+\@mathmargin=\skip51
 For additional information on amsmath, use the `?' option.
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2021/08/26 v2.01 AMS text
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks18
-\ex@=\dimen141
+\ex@=\dimen142
 )) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen142
+\pmbraise@=\dimen143
 ) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
-\inf@bad=\count191
-LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count192
-\leftroot@=\count193
-LaTeX Info: Redefining \overline on input line 399.
-LaTeX Info: Redefining \colon on input line 410.
-\classnum@=\count194
-\DOTSCASE@=\count195
-LaTeX Info: Redefining \ldots on input line 496.
-LaTeX Info: Redefining \dots on input line 499.
-LaTeX Info: Redefining \cdots on input line 620.
-\Mathstrutbox@=\box51
-\strutbox@=\box52
-LaTeX Info: Redefining \big on input line 722.
-LaTeX Info: Redefining \Big on input line 723.
-LaTeX Info: Redefining \bigg on input line 724.
-LaTeX Info: Redefining \Bigg on input line 725.
-\big@size=\dimen143
-LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count196
-LaTeX Info: Redefining \bmod on input line 905.
-LaTeX Info: Redefining \pmod on input line 910.
-LaTeX Info: Redefining \smash on input line 940.
-LaTeX Info: Redefining \relbar on input line 970.
-LaTeX Info: Redefining \Relbar on input line 971.
-\c@MaxMatrixCols=\count197
-\dotsspace@=\muskip16
-\c@parentequation=\count198
-\dspbrk@lvl=\count199
+\inf@bad=\count266
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count267
+\leftroot@=\count268
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count269
+\DOTSCASE@=\count270
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box52
+\strutbox@=\box53
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen144
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count271
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count272
+\dotsspace@=\muskip17
+\c@parentequation=\count273
+\dspbrk@lvl=\count274
 \tag@help=\toks19
-\row@=\count266
-\column@=\count267
-\maxfields@=\count268
+\row@=\count275
+\column@=\count276
+\maxfields@=\count277
 \andhelp@=\toks20
-\eqnshift@=\dimen144
-\alignsep@=\dimen145
-\tagshift@=\dimen146
-\tagwidth@=\dimen147
-\totwidth@=\dimen148
-\lineht@=\dimen149
+\eqnshift@=\dimen145
+\alignsep@=\dimen146
+\tagshift@=\dimen147
+\tagwidth@=\dimen148
+\totwidth@=\dimen149
+\lineht@=\dimen150
 \@envbody=\toks21
-\multlinegap=\skip51
-\multlinetaggap=\skip52
+\multlinegap=\skip52
+\multlinetaggap=\skip53
 \mathdisplay@stack=\toks22
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
@@ -133,135 +133,37 @@ LaTeX Info: Redefining \] on input line 2954.
 Package: stackengine 2021/07/22 v4.11\ Stacking text and objects in convenient ways
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count269
+\etb@tempcnta=\count278
 ) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/generic/listofitems/listofitems.sty (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/generic/listofitems/listofitems.tex
-Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 52 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 52 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 52 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 96 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 96 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 104 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 105 replaced by U+FFFD.
-\loi_cnt_foreach_nest=\count270
-Invalid UTF-8 byte or sequence at line 139 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 146 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 192 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 209 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 209 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 222 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 222 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 223 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 223 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 224 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 226 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 226 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 238 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 243 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 243 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 260 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 284 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 310 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 310 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 324 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 337 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 337 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 339 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 350 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 350 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 350 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 354 replaced by U+FFFD.
-\loi_nestcnt=\count271
-Invalid UTF-8 byte or sequence at line 367 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 367 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 367 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 367 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 375 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 375 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 375 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 375 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 377 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 378 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 398 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 398 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 399 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 399 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 399 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 399 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 399 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 399 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 409 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 410 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 410 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 410 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 410 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 411 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 411 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 411 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 411 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 411 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 411 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 414 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 422 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 422 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 426 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 428 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 433 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 433 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 441 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 441 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 442 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 443 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 443 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 443 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 446 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 446 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 446 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 448 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 448 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 451 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 455 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 455 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 458 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 458 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 472 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 475 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 492 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 508 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 508 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 509 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 509 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 519 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 541 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 541 replaced by U+FFFD.
+\loi_cnt_foreach_nest=\count279
+\loi_nestcnt=\count280
 )
-Package: listofitems 2019/08/21 v1.63 Grab items in lists using user-specified sep char (CT)
+Package: listofitems 2024/03/09 v1.65 Grab items in lists using user-specified sep char (CT)
 ) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count272
-\calc@Bcount=\count273
-\calc@Adimen=\dimen150
-\calc@Bdimen=\dimen151
-\calc@Askip=\skip53
-\calc@Bskip=\skip54
+\calc@Acount=\count281
+\calc@Bcount=\count282
+\calc@Adimen=\dimen151
+\calc@Bdimen=\dimen152
+\calc@Askip=\skip54
+\calc@Bskip=\skip55
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count274
-\calc@Cskip=\skip55
+\calc@Ccount=\count283
+\calc@Cskip=\skip56
 )
-\c@@stackindex=\count275
-\@boxshift=\skip56
-\stack@tmplength=\skip57
-\temp@stkl=\skip58
-\@stackedboxwidth=\skip59
-\@addedbox=\box53
-\@anchorbox=\box54
-\@insetbox=\box55
-\se@backgroundbox=\box56
-\stackedbox=\box57
-\@centerbox=\box58
-\c@ROWcellindex@=\count276
+\c@@stackindex=\count284
+\@boxshift=\skip57
+\stack@tmplength=\skip58
+\temp@stkl=\skip59
+\@stackedboxwidth=\skip60
+\@addedbox=\box54
+\@anchorbox=\box55
+\@insetbox=\box56
+\se@backgroundbox=\box57
+\stackedbox=\box58
+\@centerbox=\box59
+\c@ROWcellindex@=\count285
 ) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/scalerel/scalerel.sty
 Package: scalerel 2016/12/29 v1.8 Routines for constrained scaling and stretching of objects, relative to a reference object or in absolute terms
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/graphics/graphicx.sty
@@ -270,41 +172,41 @@ Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks23
 ) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/graphics/trig.sty
-Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
 ) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: xetex.def on input line 107.
+Package graphics Info: Driver file: xetex.def on input line 106.
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/graphics-def/xetex.def
 File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
 ))
-\Gin@req@height=\dimen152
-\Gin@req@width=\dimen153
+\Gin@req@height=\dimen153
+\Gin@req@width=\dimen154
 )
-\thesrwidth=\skip60
-\thesrheight=\skip61
-\srblobheight=\skip62
-\srblobdepth=\skip63
-\mnxsrwidth=\skip64
-\LMex=\skip65
-\LMpt=\skip66
+\thesrwidth=\skip61
+\thesrheight=\skip62
+\srblobheight=\skip63
+\srblobdepth=\skip64
+\mnxsrwidth=\skip65
+\LMex=\skip66
+\LMpt=\skip67
 ) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/xcolor/xcolor.sty
-Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: xetex.def on input line 274.
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/graphics/mathcolor.ltx)
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
-Package xcolor Info: Model `RGB' extended on input line 1366.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
 ) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/generic/iftex/ifxetex.sty
 Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/generic/iftex/iftex.sty
@@ -323,34 +225,33 @@ Already applied: [0000/00/00] Old fixltx2e package on input line 53.
 ) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/xelatex/mathspec/mathspec.sty
 Package: mathspec 2016/12/22 v0.2b LaTeX Package (Mathematics font selection for XeLaTeX)
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/fontspec/fontspec.sty (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2024-01-22 L3 programming layer (loader) 
+Package: expl3 2024-11-02 L3 programming layer (loader) 
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
-File: l3backend-xetex.def 2024-01-04 L3 backend support: XeTeX
-\g__graphics_track_int=\count277
-\l__pdf_internal_box=\box59
-\g__pdf_backend_object_int=\count278
-\g__pdf_backend_annotation_int=\count279
-\g__pdf_backend_link_int=\count280
+File: l3backend-xetex.def 2024-05-08 L3 backend support: XeTeX
+\g__graphics_track_int=\count286
+\l__pdf_internal_box=\box60
+\g__pdf_backend_annotation_int=\count287
+\g__pdf_backend_link_int=\count288
 ))
-Package: xparse 2023-10-10 L3 Experimental document command parser
+Package: xparse 2024-08-16 L3 Experimental document command parser
 )
-Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
+Package: fontspec 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
-Package: fontspec-xetex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
-\l__fontspec_script_int=\count281
-\l__fontspec_language_int=\count282
-\l__fontspec_strnum_int=\count283
-\l__fontspec_tmp_int=\count284
-\l__fontspec_tmpa_int=\count285
-\l__fontspec_tmpb_int=\count286
-\l__fontspec_tmpc_int=\count287
-\l__fontspec_em_int=\count288
-\l__fontspec_emdef_int=\count289
-\l__fontspec_strong_int=\count290
-\l__fontspec_strongdef_int=\count291
-\l__fontspec_tmpa_dim=\dimen154
-\l__fontspec_tmpb_dim=\dimen155
-\l__fontspec_tmpc_dim=\dimen156
+Package: fontspec-xetex 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
+\l__fontspec_script_int=\count289
+\l__fontspec_language_int=\count290
+\l__fontspec_strnum_int=\count291
+\l__fontspec_tmp_int=\count292
+\l__fontspec_tmpa_int=\count293
+\l__fontspec_tmpb_int=\count294
+\l__fontspec_tmpc_int=\count295
+\l__fontspec_em_int=\count296
+\l__fontspec_emdef_int=\count297
+\l__fontspec_strong_int=\count298
+\l__fontspec_strongdef_int=\count299
+\l__fontspec_tmpa_dim=\dimen155
+\l__fontspec_tmpb_dim=\dimen156
+\l__fontspec_tmpc_dim=\dimen157
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 ) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/fontspec/fontspec.cfg))) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/xkeyval/xkeyval.sty
@@ -359,30 +260,36 @@ Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
 \XKV@toks=\toks24
 \XKV@tempa@toks=\toks25
 )
-\XKV@depth=\count292
+\XKV@depth=\count300
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
-\c@eu@=\count293
-\c@eu@i=\count294
-\c@mkern=\count295
+\c@eu@=\count301
+\c@eu@i=\count302
+\c@mkern=\count303
 )
 
-Package fontspec Info: Georgia scale = 0.8952182238362497.
+Package fontspec Info: 
+(fontspec)             Georgia scale = 0.8952182238362497.
 
 
-Package fontspec Info: Georgia scale = 0.8952182238362497.
+Package fontspec Info: 
+(fontspec)             Georgia scale = 0.8952182238362497.
 
 
-Package fontspec Info: Georgia/B scale = 0.889803611696668.
+Package fontspec Info: 
+(fontspec)             Georgia/B scale = 0.889803611696668.
 
 
-Package fontspec Info: Georgia/I scale = 0.8748119146124603.
+Package fontspec Info: 
+(fontspec)             Georgia/I scale = 0.8748119146124603.
 
 
-Package fontspec Info: Georgia/BI scale = 0.8696406259220395.
+Package fontspec Info: 
+(fontspec)             Georgia/BI scale = 0.8696406259220395.
 
 
-Package fontspec Info: Font family 'Georgia(0)' created for font 'Georgia'
+Package fontspec Info: 
+(fontspec)             Font family 'Georgia(0)' created for font 'Georgia'
 (fontspec)             with options
 (fontspec)             [Ligatures=TeX,Scale=MatchLowercase,Ligatures=TeX].
 (fontspec)              
@@ -391,40 +298,33 @@ Package fontspec Info: Font family 'Georgia(0)' created for font 'Georgia'
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
 (fontspec)             <->s*[0.8952182238362497]"Georgia/OT:script=latn;language=dflt;mapping=tex-text;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
 (fontspec)             <->s*[0.889803611696668]"Georgia/B/OT:script=latn;language=dflt;mapping=tex-text;"
-(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
 (fontspec)             - 'italic' (m/it) with NFSS spec.:
 (fontspec)             <->s*[0.8748119146124603]"Georgia/I/OT:script=latn;language=dflt;mapping=tex-text;"
-(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
 (fontspec)             - 'bold italic' (b/it) with NFSS spec.:
 (fontspec)             <->s*[0.8696406259220395]"Georgia/BI/OT:script=latn;language=dflt;mapping=tex-text;"
-(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
 LaTeX Font Info:    Font shape `TU/Georgia(0)/m/n' will be
 (Font)              scaled to size 10.74261pt on input line 20.
 
-Package fontspec Info: Georgia scale = 0.8952155827005614.
+Package fontspec Info: 
+(fontspec)             Georgia scale = 0.8952155827005614.
 
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
 Package: xeCJK 2022/08/05 v3.9.1 Typesetting CJK scripts with XeLaTeX
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/ctex/ctexhook.sty
 Package: ctexhook 2022/07/14 v2.5.10 Document and package hooks (CTEX)
 ) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
-Package: xtemplate 2023-10-10 L3 Experimental prototype document functions
-\l__xtemplate_tmp_dim=\dimen157
-\l__xtemplate_tmp_int=\count296
-\l__xtemplate_tmp_muskip=\muskip17
-\l__xtemplate_tmp_skip=\skip67
+Package: xtemplate 2024-08-16 L3 Experimental prototype document functions
 )
-\l__xeCJK_tmp_int=\count297
-\l__xeCJK_tmp_box=\box60
+\l__xeCJK_tmp_int=\count304
+\l__xeCJK_tmp_box=\box61
 \l__xeCJK_tmp_dim=\dimen158
 \l__xeCJK_tmp_skip=\skip68
-\g__xeCJK_space_factor_int=\count298
-\l__xeCJK_begin_int=\count299
-\l__xeCJK_end_int=\count300
+\g__xeCJK_space_factor_int=\count305
+\l__xeCJK_begin_int=\count306
+\l__xeCJK_end_int=\count307
 \c__xeCJK_CJK_class_int=\XeTeXcharclass1
 \c__xeCJK_FullLeft_class_int=\XeTeXcharclass2
 \c__xeCJK_FullRight_class_int=\XeTeXcharclass3
@@ -434,8 +334,8 @@ Package: xtemplate 2023-10-10 L3 Experimental prototype document functions
 \c__xeCJK_CM_class_int=\XeTeXcharclass7
 \c__xeCJK_HangulJamo_class_int=\XeTeXcharclass8
 \l__xeCJK_last_skip=\skip69
-\c__xeCJK_none_node=\count301
-\g__xeCJK_node_int=\count302
+\c__xeCJK_none_node=\count308
+\g__xeCJK_node_int=\count309
 \c__xeCJK_CJK_node_dim=\dimen159
 \c__xeCJK_CJK-space_node_dim=\dimen160
 \c__xeCJK_default_node_dim=\dimen161
@@ -445,14 +345,14 @@ Package: xtemplate 2023-10-10 L3 Experimental prototype document functions
 \l__xeCJK_ccglue_skip=\skip71
 \l__xeCJK_ecglue_skip=\skip72
 \l__xeCJK_punct_kern_skip=\skip73
-\l__xeCJK_indent_box=\box61
-\l__xeCJK_last_penalty_int=\count303
+\l__xeCJK_indent_box=\box62
+\l__xeCJK_last_penalty_int=\count310
 \l__xeCJK_last_bound_dim=\dimen164
 \l__xeCJK_last_kern_dim=\dimen165
-\l__xeCJK_widow_penalty_int=\count304
+\l__xeCJK_widow_penalty_int=\count311
 
-Package xtemplate Info: Declaring object type 'xeCJK/punctuation' taking 0
-(xtemplate)             argument(s) on line 2396.
+LaTeX template Info: Declaring template type 'xeCJK/punctuation' taking 0
+(template)           argument(s) on line 2396.
 
 \l__xeCJK_fixed_punct_width_dim=\dimen166
 \l__xeCJK_mixed_punct_width_dim=\dimen167
@@ -473,32 +373,38 @@ Package xtemplate Info: Declaring object type 'xeCJK/punctuation' taking 0
 \l__xeCJK_margin_dim=\dimen182
 \l__xeCJK_minimum_bound_dim=\dimen183
 \l__xeCJK_kerning_margin_dim=\dimen184
-\g__xeCJK_family_int=\count305
-\l__xeCJK_fam_int=\count306
-\g__xeCJK_fam_allocation_int=\count307
-\l__xeCJK_verb_case_int=\count308
+\g__xeCJK_family_int=\count312
+\l__xeCJK_fam_int=\count313
+\g__xeCJK_fam_allocation_int=\count314
+\l__xeCJK_verb_case_int=\count315
 \l__xeCJK_verb_exspace_skip=\skip74
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
 File: xeCJK.cfg 2022/08/05 v3.9.1 Configuration file for xeCJK package
 ))
 
-Package fontspec Info: Noto Sans CJK TC scale = 0.7937330517008014.
+Package fontspec Info: 
+(fontspec)             Noto Sans CJK TC scale = 0.7937330517008014.
 
 
-Package fontspec Info: Could not resolve font "Noto Sans CJK TC/I" (it
+Package fontspec Info: 
+(fontspec)             Could not resolve font "Noto Sans CJK TC/I" (it
 (fontspec)             probably doesn't exist).
 
 
-Package fontspec Info: Noto Sans CJK TC scale = 0.7937330517008014.
+Package fontspec Info: 
+(fontspec)             Noto Sans CJK TC scale = 0.7937330517008014.
 
 
-Package fontspec Info: Noto Sans CJK TC/B scale = 0.7937330517008014.
+Package fontspec Info: 
+(fontspec)             Noto Sans CJK TC/B scale = 0.7937330517008014.
 
 
-Package fontspec Info: Noto Sans CJK TC/BI scale = 0.7937330517008014.
+Package fontspec Info: 
+(fontspec)             Noto Sans CJK TC/BI scale = 0.7937330517008014.
 
 
-Package fontspec Info: Font family 'NotoSansCJKTC(0)' created for font 'Noto
+Package fontspec Info: 
+(fontspec)             Font family 'NotoSansCJKTC(0)' created for font 'Noto
 (fontspec)             Sans CJK TC' with options
 (fontspec)             [Ligatures=TeX,Scale=MatchLowercase,Script={CJK}].
 (fontspec)              
@@ -508,24 +414,21 @@ Package fontspec Info: Font family 'NotoSansCJKTC(0)' created for font 'Noto
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
 (fontspec)             <->s*[0.7937330517008014]"Noto Sans CJK
 (fontspec)             TC/OT:script=hani;language=dflt;mapping=tex-text;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
 (fontspec)             <->s*[0.7937330517008014]"Noto Sans CJK
 (fontspec)             TC/B/OT:script=hani;language=dflt;mapping=tex-text;"
-(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
 (fontspec)             - 'bold italic' (b/it) with NFSS spec.:
 (fontspec)             <->s*[0.7937330517008014]"Noto Sans CJK
 (fontspec)             TC/BI/OT:script=hani;language=dflt;mapping=tex-text;"
-(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count309
-\Gm@cntv=\count310
-\c@Gm@tempcnt=\count311
+\Gm@cnth=\count316
+\Gm@cntv=\count317
+\c@Gm@tempcnt=\count318
 \Gm@bindingoffset=\dimen185
 \Gm@wd@mp=\dimen186
 \Gm@odd@mp=\dimen187
@@ -547,65 +450,65 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \cmidrulesep=\dimen256
 \cmidrulekern=\dimen257
 \defaultaddspace=\dimen258
-\@cmidla=\count312
-\@cmidlb=\count313
+\@cmidla=\count319
+\@cmidlb=\count320
 \@aboverulesep=\dimen259
 \@belowrulesep=\dimen260
-\@thisruleclass=\count314
-\@lastruleclass=\count315
+\@thisruleclass=\count321
+\@lastruleclass=\count322
 \@thisrulewidth=\dimen261
 ) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/tools/longtable.sty
-Package: longtable 2023-11-01 v4.19 Multi-page Table package (DPC)
+Package: longtable 2024-10-27 v4.22 Multi-page Table package (DPC)
 \LTleft=\skip75
 \LTright=\skip76
 \LTpre=\skip77
 \LTpost=\skip78
-\LTchunksize=\count316
+\LTchunksize=\count323
 \LTcapwidth=\dimen262
-\LT@head=\box62
-\LT@firsthead=\box63
-\LT@foot=\box64
-\LT@lastfoot=\box65
-\LT@gbox=\box66
-\LT@cols=\count317
-\LT@rows=\count318
-\c@LT@tables=\count319
-\c@LT@chunks=\count320
+\LT@head=\box63
+\LT@firsthead=\box64
+\LT@foot=\box65
+\LT@lastfoot=\box66
+\LT@gbox=\box67
+\LT@cols=\count324
+\LT@rows=\count325
+\c@LT@tables=\count326
+\c@LT@chunks=\count327
 \LT@p@ftn=\toks27
 ) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/tools/array.sty
-Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
+Package: array 2024/10/17 v2.6g Tabular extension package (FMi)
 \col@sep=\dimen263
-\ar@mcellbox=\box67
+\ar@mcellbox=\box68
 \extrarowheight=\dimen264
 \NC@list=\toks28
 \extratabsurround=\skip79
 \backup@length=\skip80
-\ar@cellbox=\box68
+\ar@cellbox=\box69
 ) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/multirow/multirow.sty
 Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
 \multirow@colwidth=\skip81
-\multirow@cntb=\count321
+\multirow@cntb=\count328
 \multirow@dima=\skip82
 \bigstrutjot=\dimen265
 ) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/wrapfig/wrapfig.sty
 \wrapoverhang=\dimen266
 \WF@size=\dimen267
-\c@WF@wrappedlines=\count322
-\WF@box=\box69
+\c@WF@wrappedlines=\count329
+\WF@box=\box70
 \WF@everypar=\toks29
 Package: wrapfig 2003/01/31  v 3.6
 ) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count323
+\c@float@type=\count330
 \float@exts=\toks30
-\float@box=\box70
+\float@box=\box71
 \@float@everytoks=\toks31
-\@floatcapt=\box71
+\@floatcapt=\box72
 ) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/colortbl/colortbl.sty
-Package: colortbl 2022/06/20 v1.0f Color table columns (DPC)
+Package: colortbl 2024/07/06 v1.0i Color table columns (DPC)
 \everycr=\toks32
 \minrowclearance=\skip83
-\rownum=\count324
+\rownum=\count331
 ) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/pdflscape/pdflscape.sty
 Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.sty
@@ -618,17 +521,17 @@ Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 98.
 Package: tabu 2019/01/11 v2.9 - flexible LaTeX tabulars (FC+tabu-fixed)
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/varwidth/varwidth.sty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
-\@vwid@box=\box72
-\sift@deathcycles=\count325
+\@vwid@box=\box73
+\sift@deathcycles=\count332
 \@vwid@loff=\dimen268
 \@vwid@roff=\dimen269
 )
-\c@taburow=\count326
-\tabu@nbcols=\count327
-\tabu@cnt=\count328
-\tabu@Xcol=\count329
-\tabu@alloc=\count330
-\tabu@nested=\count331
+\c@taburow=\count333
+\tabu@nbcols=\count334
+\tabu@cnt=\count335
+\tabu@Xcol=\count336
+\tabu@alloc=\count337
+\tabu@nested=\count338
 \tabu@target=\dimen270
 \tabu@spreadtarget=\dimen271
 \tabu@naturalX=\dimen272
@@ -640,14 +543,14 @@ Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \tabustrutrule=\dimen278
 \tabu@thebody=\toks33
 \tabu@footnotes=\toks34
-\tabu@box=\box73
-\tabu@arstrutbox=\box74
-\tabu@hleads=\box75
-\tabu@vleads=\box76
+\tabu@box=\box74
+\tabu@arstrutbox=\box75
+\tabu@hleads=\box76
+\tabu@vleads=\box77
 \tabu@cellskip=\skip84
 ) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/threeparttable/threeparttable.sty
 Package: threeparttable 2003/06/13  v 3.0
-\@tempboxb=\box77
+\@tempboxb=\box78
 ) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/threeparttablex/threeparttablex.sty
 Package: threeparttablex 2013/07/23 v0.3 by daleif
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/environ/environ.sty
@@ -657,20 +560,20 @@ Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 ))
 \TPTL@width=\skip85
 ) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/generic/ulem/ulem.sty
-\UL@box=\box78
-\UL@hyphenbox=\box79
+\UL@box=\box79
+\UL@hyphenbox=\box80
 \UL@skip=\skip86
 \UL@hook=\toks35
 \UL@height=\dimen279
-\UL@pe=\count332
+\UL@pe=\count339
 \UL@pixel=\dimen280
-\ULC@box=\box80
+\ULC@box=\box81
 Package: ulem 2019/11/18
 \ULdepth=\dimen281
 ) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/makecell/makecell.sty
 Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
 \rotheadsize=\dimen282
-\c@nlinenum=\count333
+\c@nlinenum=\count340
 \TeXr@lab=\toks36
 ) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/sectsty/sectsty.sty
 Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading styles
@@ -692,7 +595,7 @@ Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 ))) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2023/10/27 v2.16 Sectioning titles
-\ttl@box=\box81
+\ttl@box=\box82
 \beforetitleunit=\skip87
 \aftertitleunit=\skip88
 \ttl@plus=\dimen283
@@ -704,7 +607,7 @@ Package: titlesec 2023/10/27 v2.16 Sectioning titles
 ) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/fontawesome5/fontawesome5.sty
 Package: fontawesome5 2022/05/02 v5.15.4 Font Awesome 5
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
-Package: l3keys2e 2023-10-10 LaTeX2e option processing using LaTeX3 keys
+Package: l3keys2e 2024-08-16 LaTeX2e option processing using LaTeX3 keys
 ) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/fontawesome5/fontawesome5-utex-helper.sty
 Package: fontawesome5-utex-helper 2022/05/02 v5.15.4 uTeX helper for fontawesome5
 LaTeX Font Info:    Trying to load font information for TU+fontawesomefree on input line 69.
@@ -729,16 +632,16 @@ Package: ragged2e 2023/06/22 v3.6 ragged2e Package
 \RaggedRightParindent=\skip101
 \JustifyingParindent=\skip102
 ) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/tools/tabularx.sty
-Package: tabularx 2023/07/08 v2.11c `tabularx' package (DPC)
+Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
 \TX@col@width=\dimen288
 \TX@old@table=\dimen289
 \TX@old@col=\dimen290
 \TX@target=\dimen291
 \TX@delta=\dimen292
-\TX@cols=\count334
+\TX@cols=\count341
 \TX@ftn=\toks38
 ) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+Package: fancyhdr 2024/07/23 v4.3.1 Extensive control of page headers and footers
 \f@nch@headwidth=\skip103
 \f@nch@O@elh=\skip104
 \f@nch@O@erh=\skip105
@@ -749,15 +652,15 @@ Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 \f@nch@O@olf=\skip110
 \f@nch@O@orf=\skip111
 ) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/lastpage/lastpage.sty
-Package: lastpage 2023/10/14 v2.0e lastpage: 2.09 or 2e? (HMM)
+Package: lastpage 2024/07/07 v2.1c lastpage: 2.09 or 2e? (HMM)
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/lastpage/lastpage2e.sty
-Package: lastpage2e 2023/10/14 v2.0e Decide which 2e lastpage version to use (HMM)
+Package: lastpage2e 2024/07/07 v2.1c Decide which 2e lastpage version to use (HMM)
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/lastpage/lastpagemodern.sty
-Package: lastpagemodern 2023-10-14 v2.0e Refers to last page's name (HMM; JPG)
-\c@lastpagecount=\count335
+Package: lastpagemodern 2024-07-07 v2.1c Refers to last page's name (HMM; JPG)
+\c@lastpagecount=\count342
 ) 
 )) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2024-01-20 v7.01h Hypertext links for LaTeX
+Package: hyperref 2024-11-05 v7.01l Hypertext links for LaTeX
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 ) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/generic/pdfescape/pdfescape.sty
@@ -772,8 +675,6 @@ Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode not found.
 )) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/hycolor/hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
-) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/auxhook/auxhook.sty
-Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 ) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/refcount/refcount.sty
@@ -781,68 +682,67 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count336
+\c@section@level=\count343
+) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
 )
 \@linkdim=\dimen293
-\Hy@linkcounter=\count337
-\Hy@pagecounter=\count338
+\Hy@linkcounter=\count344
+\Hy@pagecounter=\count345
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2024-01-20 v7.01h Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2024-11-05 v7.01l Hyperref: PDFDocEncoding definition (HO)
 ) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count339
+\Hy@SavedSpaceFactor=\count346
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2024-01-20 v7.01h Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2024-11-05 v7.01l Hyperref: PDF Unicode definition (HO)
 )
-Package hyperref Info: Hyper figures OFF on input line 4179.
-Package hyperref Info: Link nesting OFF on input line 4184.
-Package hyperref Info: Hyper index ON on input line 4187.
-Package hyperref Info: Plain pages OFF on input line 4194.
-Package hyperref Info: Backreferencing OFF on input line 4199.
+Package hyperref Info: Hyper figures OFF on input line 4157.
+Package hyperref Info: Link nesting OFF on input line 4162.
+Package hyperref Info: Hyper index ON on input line 4165.
+Package hyperref Info: Plain pages OFF on input line 4172.
+Package hyperref Info: Backreferencing OFF on input line 4177.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4446.
-\c@Hy@tempcnt=\count340
+Package hyperref Info: Bookmarks ON on input line 4424.
+\c@Hy@tempcnt=\count347
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip18
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4784.
+LaTeX Info: Redefining \url on input line 4763.
 \XeTeXLinkMargin=\dimen294
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
-\Fld@menulength=\count341
+\Fld@menulength=\count348
 \Field@Width=\dimen295
 \Fld@charsize=\dimen296
-Package hyperref Info: Hyper figures OFF on input line 6063.
-Package hyperref Info: Link nesting OFF on input line 6068.
-Package hyperref Info: Hyper index ON on input line 6071.
-Package hyperref Info: backreferencing OFF on input line 6078.
-Package hyperref Info: Link coloring OFF on input line 6083.
-Package hyperref Info: Link coloring with OCG OFF on input line 6088.
-Package hyperref Info: PDF/A mode OFF on input line 6093.
+Package hyperref Info: Hyper figures OFF on input line 6042.
+Package hyperref Info: Link nesting OFF on input line 6047.
+Package hyperref Info: Hyper index ON on input line 6050.
+Package hyperref Info: backreferencing OFF on input line 6057.
+Package hyperref Info: Link coloring OFF on input line 6062.
+Package hyperref Info: Link coloring with OCG OFF on input line 6067.
+Package hyperref Info: PDF/A mode OFF on input line 6072.
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/base/atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count342
-\c@Item=\count343
-\c@Hfootnote=\count344
+\Hy@abspage=\count349
+\c@Item=\count350
+\c@Hfootnote=\count351
 )
 Package hyperref Info: Driver (autodetected): hxetex.
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hxetex.def
-File: hxetex.def 2024-01-20 v7.01h Hyperref driver for XeTeX
-(/Users/Thomas/Library/TinyTeX/texmf-dist/tex/generic/stringenc/stringenc.sty
-Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
-)
-\pdfm@box=\box82
-\c@Hy@AnnotLevel=\count345
-\HyField@AnnotCount=\count346
-\Fld@listcount=\count347
-\c@bookmark@seq@number=\count348
+File: hxetex.def 2024-11-05 v7.01l Hyperref driver for XeTeX
+\pdfm@box=\box83
+\c@Hy@AnnotLevel=\count352
+\HyField@AnnotCount=\count353
+\Fld@listcount=\count354
+\c@bookmark@seq@number=\count355
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/base/atveryend-ltx.sty
@@ -874,10 +774,6 @@ LaTeX Font Info:    ... okay on input line 128.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 128.
 LaTeX Font Info:    ... okay on input line 128.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 128.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 128.
-(/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/base/ts1cmr.fd
-File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
-)
 LaTeX Font Info:    ... okay on input line 128.
 LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 128.
 LaTeX Font Info:    ... okay on input line 128.
@@ -1006,6 +902,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 183--191
 
 LaTeX Font Info:    Font shape `TU/NotoSansCJKTC(0)/m/n' will be
 (Font)              scaled to size 9.52478pt on input line 217.
+
+
 [1
 
 ]
@@ -1015,72 +913,76 @@ LaTeX Font Info:    Font shape `TU/Georgia(0)/m/sl' in size <14.4> not available
 (Font)              Font shape `TU/Georgia(0)/m/it' tried instead on input line 225.
 LaTeX Font Info:    Font shape `TU/Georgia(0)/m/it' will be
 (Font)              scaled to size 12.59735pt on input line 225.
+
+
 LaTeX Font Info:    Font shape `TU/Georgia(0)/m/n' will be
-(Font)              scaled to size 7.16174pt on input line 313.
+(Font)              scaled to size 7.16174pt on input line 312.
 LaTeX Font Info:    Font shape `TU/NotoSansCJKTC(0)/m/n' will be
-(Font)              scaled to size 6.34985pt on input line 313.
-[2] [3]
-Overfull \hbox (12.58379pt too wide) in paragraph at lines 435--442
+(Font)              scaled to size 6.34985pt on input line 312.
+[2]
+
+[3]
+Overfull \hbox (12.58379pt too wide) in paragraph at lines 434--441
 \TU/Georgia(0)/m/n/12 (CHIDEOD). CHIDEOD is accessible in .xlsx, .csv, .rds formats (doi: [][]10.17605/OSF.IO/KPWGF[][]),
  []
 
-[4] [5]
-Underfull \hbox (badness 1701) in paragraph at lines 618--625
+
+
+[4]
+
+[5]
+Underfull \hbox (badness 1701) in paragraph at lines 607--614
 \TU/Georgia(0)/m/n/12 and written form across time: Introducing a database of Chinese literary ideophones
  []
 
 
-Underfull \hbox (badness 1881) in paragraph at lines 618--625
+Underfull \hbox (badness 1881) in paragraph at lines 607--614
 \TU/Georgia(0)/m/n/12 — CHIDEOD. ILL 12 [International Symposium on Iconicity in Language and Litera-
  []
 
 
-Underfull \hbox (badness 1132) in paragraph at lines 618--625
+Underfull \hbox (badness 1132) in paragraph at lines 607--614
 \TU/Georgia(0)/m/n/12 ture], Lund: Lund University. 3-5 May 2019. Funding: MOST-108-2922-I-002-198.
  []
 
-[6]
-Underfull \hbox (badness 1127) in paragraph at lines 625--633
+
+Underfull \hbox (badness 1127) in paragraph at lines 614--622
 \TU/Georgia(0)/m/n/12 Discourse, and Cognition]. Taipei: National Taiwan University. 19-21 October 2018.
  []
 
 
-Underfull \hbox (badness 1997) in paragraph at lines 671--678
+
+[6]
+Underfull \hbox (badness 1997) in paragraph at lines 660--667
 []\TU/Georgia(0)/b/n/12 Van Hoey, Thomas\TU/Georgia(0)/m/n/12 . 2017. The thunder rolls: Iconicity and ideophones in Chi-
  []
 
 
-Underfull \hbox (badness 1478) in paragraph at lines 671--678
+Underfull \hbox (badness 1478) in paragraph at lines 660--667
 \TU/Georgia(0)/m/n/12 Iconicity in Language Use, Development and Processing. Nijmegen: Max Planck In-
  []
 
 
-Underfull \hbox (badness 1314) in paragraph at lines 671--678
+Underfull \hbox (badness 1314) in paragraph at lines 660--667
 \TU/Georgia(0)/m/n/12 stitute for Psycholinguistics. 6-7 July 2017. Funding: NTU, College of Liberal Arts.
  []
 
+
+
 [7]
-Underfull \hbox (badness 2253) in paragraph at lines 768--768
+Underfull \hbox (badness 2253) in paragraph at lines 771--771
 []|\TU/Georgia(0)/m/n/12 Research Fellowship for Outstanding International
  []
 
 
-Overfull \hbox (9.8388pt too wide) in paragraph at lines 769--769
+Overfull \hbox (9.8388pt too wide) in paragraph at lines 772--772
 []|\TU/Georgia(0)/m/n/12 Hanban| 
  []
 
+
+
 [8]
-Overfull \hbox (2.17525pt too wide) in paragraph at lines 778--778
-[]|\TU/Georgia(0)/m/n/12 MOST| 
- []
-
-
-Overfull \hbox (2.17525pt too wide) in paragraph at lines 779--779
-[]|\TU/Georgia(0)/m/n/12 MOST| 
- []
-
-
-Overfull \hbox (2.17525pt too wide) in paragraph at lines 780--780
+Overfull \hbox (2.17525pt too wide) in paragraph at lines 781--781
 []|\TU/Georgia(0)/m/n/12 MOST| 
  []
 
@@ -1090,30 +992,52 @@ Overfull \hbox (2.17525pt too wide) in paragraph at lines 782--782
  []
 
 
-Underfull \hbox (badness 1057) in paragraph at lines 788--788
+Overfull \hbox (2.17525pt too wide) in paragraph at lines 783--783
+[]|\TU/Georgia(0)/m/n/12 MOST| 
+ []
+
+
+Overfull \hbox (2.17525pt too wide) in paragraph at lines 785--785
+[]|\TU/Georgia(0)/m/n/12 MOST| 
+ []
+
+
+Underfull \hbox (badness 1057) in paragraph at lines 791--791
 []|\TU/Georgia(0)/m/n/12 Intro to Linguistics 1 (Algemene taalwetenschap 1)
  []
 
-[9] [10] [11] [12] [13] [14] 
+
+
+[9]
+
+[10]
+
+[11]
+
+[12]
+
+[13]
+
+[14] 
 enddocument/afterlastpage: lastpage setting LastPage.
 (./cv_thomas.aux)
  ***********
-LaTeX2e <2023-11-01> patch level 1
+LaTeX2e <2024-11-01>
 L3 programming layer <2022/08/05>
  ***********
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `cv_thomas.out' has not changed.
-(rerunfilecheck)             Checksum: 1BFB67F803FC7968946C8637D48A868F;6404.
+(rerunfilecheck)             Checksum: 0D9DD3CCDAA1802E070A1699DCB62921;6399.
  ) 
 Here is how much of TeX's memory you used:
- 20138 strings out of 476878
- 387677 string characters out of 5804262
- 1940627 words of memory out of 5000000
- 41670 multiletter control sequences out of 15000+600000
+ 19845 strings out of 475994
+ 379022 string characters out of 5778098
+ 846658 words of memory out of 5000000
+ 42259 multiletter control sequences out of 15000+600000
  571641 words of font info for 92 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 93i,13n,122p,1198b,499s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 93i,13n,125p,1198b,499s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on cv_thomas.pdf (14 pages).

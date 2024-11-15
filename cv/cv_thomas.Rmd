@@ -54,7 +54,7 @@ library(kableExtra)
 
 # Employment
 
-**Senior postdoctoral fellow** \hfill FWO @ KU Leuven \hspace*{1em} 2024-2027  
+**Senior postdoctoral fellow** \hfill FWO & KU Leuven \hspace*{1em} 2024-2027  
 **Postdoctoral assistant** \hfill KU Leuven \hspace*{1em} 2023-2024  
 **Postdoctoral fellow** \hfill The University of Hong Kong \hspace*{1em} 2021-2022 
 <!-- \newline -->
