@@ -115,6 +115,12 @@ Executing/ed
 ## Refereed articles
 
 (@)
+Sze , Samuel Sui Lung, Xiaoyu Yu, **Thomas Van Hoey**, Bingzi Yu & Youngah Do. 
+*accepted*.
+Bilinguals’ advantages in executive function: learning phonotactics and alternation.
+*Second Language Research*
+
+(@)
 Yu, Xiaoyu, **Thomas Van Hoey**, Frank Lihui Tan, Baichen Du & Youngah Do. 2024. Tracking phonological regularities: Exploring the influence of learning mode and regularity locus in adult phonological learning.  *Linguistics Vanguard* aop. 1-12. [doi: 10.1515/lingvan-2023-0050](https://doi.org/10.1515/lingvan-2023-0050)
 
 (@)
@@ -164,10 +170,7 @@ Thompson, Arthur Lewis, **Thomas Van Hoey** & Youngah Do. 2021. Articulatory fea
 <!-- Mitigating the trade-off between verification and speculation in learning vowel harmony.  -->
 <!-- Language and Speech -->
 
-(@)
-Sze , Samuel Sui Lung, Xiaoyu Yu, **Thomas Van Hoey**, Bingzi Yu & Youngah Do. 
-Bilinguals’ advantages in executive function: learning phonotactics and alternation.
-<!-- Second Language Research -->
+
 
 (@)
 Yu, Xiaoyu, Bingzi Yu, **Thomas Van Hoey**, Samuel Sui Lung Sze, Frank Lihui Tan, Tak Wang Li & Youngah Do. Phonetic substance reshapes phonological variation in language acquisition and language contact. 
@@ -193,6 +196,15 @@ Szmrecsanyi, Benedikt, Matt Hunt Gardner, Ruiming Ma & **Thomas Van Hoey**. Empi
 Ma, Ruiming, **Thomas Van Hoey** & Benedikt Szmrecsanyi. Fact-checking conjectures about the complexity of grammatical optionality and variation: the case of English.
 <!-- English Language and Linguistics -->
 
+(@) **Van Hoey, Thomas**, Matt. H. Gardner, Ruiming Ma & Benedikt Szmrecsanyi.
+Grammatical variation does not trigger production difficulties, regardless of predicted probabilities.
+<!-- Language Variation and Change -->
+
+(@)
+**Van Hoey, Thomas**. Dynamic extensions of iconic form-meaning mappings in visual media, viewed through a prismatic lens.
+<!-- SKASE Journal of Theoretical Linguistics -->
+
+
 
 ## Publications in preparation
 
@@ -201,14 +213,6 @@ Ma, Ruiming, **Thomas Van Hoey** & Benedikt Szmrecsanyi. Fact-checking conjectur
 
 (@)
 **Van Hoey, Thomas**. Sound and lexical semantics. *Cambridge handbook of lexical semantics* (eds. Dirk Geeraerts & Dylan Glynn)
-
-(@)
-**Van Hoey, Thomas**, Benedikt Szmrecsanyi, Matt Hunt Gardner, Ruiming Ma. Choosing between alternate ways of saying the same: How hard can it be??
-<!-- Language Variation and Change -->
-
-(@)
-**Van Hoey, Thomas**. Iconicity in the streets, multimodal metaphor in the sheets: Chinese ideophones on social media.
-<!-- SKASE Journal of Theoretical Linguistics -->
 
 
 ## Theses
@@ -433,8 +437,8 @@ Van de Velde, Freek & Dirk Pijpops, in collaboration with Mathias De Backer, Wen
 2024 & Introduction to Cognitive Linguistics (LING 7011) & HKU \\
 2023 & Lexical Semantics and Lexicology  (F0TU0A) & KU Leuven \\
 2022 & Introduction to Cognitive Linguistics (LING 7011) & HKU \\
-2020 & English converation A  & Tatung University \\
-2019 & English converation B & Tatung University \\
+2020 & English conversation A  & Tatung University \\
+2019 & English conversation B & Tatung University \\
 \end{tabular}
 
 
@@ -587,6 +591,7 @@ president (since 2023)
 
 ## Reviewing for journals
 
+* *British Journal of Psychology*
 * *Canadian Journal of Linguistics / Revue canadienne de linguistique*
 * *Cognitive Science*
 * *Cognitive Semantics*
