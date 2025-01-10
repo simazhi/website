@@ -9,7 +9,7 @@ page-layout: full
 ![](avatar.jpg)
 
 
-<div style="font-size:2em;">
+<div style="font-size:2em;"> 
 
 Contact
 
