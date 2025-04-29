@@ -9,8 +9,83 @@
 <link>https://thomasvanhoey.com/blog.html</link>
 <atom:link href="https://thomasvanhoey.com/blog.xml" rel="self" type="application/rss+xml"/>
 <description>This is Thomas Van Hoey&#39;s personal website.</description>
-<generator>quarto-1.5.57</generator>
-<lastBuildDate>Thu, 31 Oct 2024 23:00:00 GMT</lastBuildDate>
+<generator>quarto-1.6.43</generator>
+<lastBuildDate>Mon, 28 Apr 2025 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Double Whammy</title>
+  <dc:creator>Thomas Van Hoey</dc:creator>
+  <link>https://thomasvanhoey.com/posts/2025-04-29-double-whammy/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="tldr" class="level1">
+<h1>tl;dr</h1>
+<p>What do you mean “too long, didn’t read”?</p>
+<p>Go read it, it’s not that long, not even in times of diminished/diminishing concentration due to cellphone addiction.</p>
+<p>But okay okay, two papers of mine appeared on the same day in their online and #OpenAccess version. This deserves to be celebrated. Ecce this blogpost.</p>
+<ol type="1">
+<li></li>
+</ol>
+<p>Van Hoey, Thomas. 2025. Waddling, Wandering and Waving: Literary Chinese Ideophones and the Motion Semantic Grid. Cognitive Semantics, 11, 1-29. https://doi.org/10.1163/23526416-bja10075 <a href="https://brill.com/view/journals/cose/11/1/article-p1_001.xml">click this link</a></p>
+<ol start="2" type="1">
+<li></li>
+</ol>
+<p>Thompson, Arthur Lewis, Van Hoey, Thomas, Chik, Aaron Wing Cheung and Do, Youngah. 2025. Iconic hand gestures from ideophones exhibit stability and emergent phonological properties: an iterated learning study. Cognitive Linguistics, 2025. https://doi.org/10.1515/cog-2024-0033 <a href="https://www.degruyterbrill.com/document/doi/10.1515/cog-2024-0033/html">click this link</a></p>
+<p><strong>You can click those links to actually see what they are all about, and even read them, because both are open access.</strong></p>
+</section>
+<section id="am-i-entering-my-acceptance-era" class="level1">
+<h1>Am I entering my acceptance era?</h1>
+<p><em>January 31.</em> I wake up and, regretabbly out of a bad habit, scroll through all the apps I still allow notifications from. Among them, Outlook (you never know when the world happens to burn down during the night – an ever more likely scenario). Yet, this time it’s a great message:</p>
+<blockquote class="blockquote">
+<p>Hi Thomas Congratulations on your high-quality paper submitted to COSE [Cognitive Semantics, <em>tvh</em>].<br>
+It will be the first OA paper accepted and published online in 2025. COSE will be turned to OA from 2025 onwards, sponsored by my universiy,Beihang, which means we have paid the OA fee for your article.</p>
+<p>Best Thomas Li Editor-in-Chief</p>
+</blockquote>
+<p>I am very excited because I kind of did that paper “between the soup and the potatoes” as we say in Dutch. It is linked to a special issue devoted to new applications of the Talmyan motion typology (Talmy 2000a, b) to the realm of ideophones. The editors for this special issue, Kiyoko Toratani and Kimi Akita, already had held a great online workshop about this topic a few months before, last summer. Alas, I couldn’t join then but I watched the recordings, and figured I could do something with (literary) Chinese ideophones. So I am very grateful to them for still inviting me and keeping me in the loop for this special issue.</p>
+<p>Last February or so I did a bout of annotating and invoked the <a href="https://en.wikipedia.org/wiki/Awen">awen</a> for creative writing. Add to that a few walks in the woods of Wuustwezel (#uilenbos) and whippity whoopi, the idea for a paper emerged. I made some vague promises in the abstract about what I predicted my findings to be. Okay, it must be said, after working on Chinese ideophones for almost a decade now, I have developed some intuitions of what the data is like, so it’s not like that came totally out of thin air.</p>
+<p>Fast forward a few months, and I’m annotating the data between the FWO interview and the result to keep myself busy. I try a few clustering techniques. And lo and behold, one of my most favorite papers suddenly takes shape.</p>
+<p><strong>I am actually very proud of this one.</strong> It’s probably the most QLVL’y paper I’ve made to date. And the graphics came out pretty well.</p>
+<p>For example, this 3D version of plotting first- and second-level components (it’s a bit technical, <em>sowwy</em>) was really cool to make.</p>
+<p><img src="https://thomasvanhoey.com/posts/2025-04-29-double-whammy/mca.png" class="img-fluid"></p>
+<p>I also know I had a good paper in my hands when I presented it at the 21st International Congress of Linguists (September 2024 in Poznań, Poland) and the feedback of the audience was really positive.</p>
+<p>So yeah, am I entering my paper acceptance era??</p>
+</section>
+<section id="slow-science" class="level1">
+<h1>Slow science</h1>
+<p>It certainly seems like this finally the paper acceptance era. For example, one key piece of research conducted during my postdoc at the University of Hong Kong also finally came through in the last few months. Note that this was not an easy birth: it took us quite a few years to cast our conference presentation into a coherent paper that the reviewers/gatekeepers (you know who you are Reviewer 2!) deemed acceptable. On top of that, the journal we submitted it to in the end, Cognitive Linguistics, had a switch of editor in chief, and that also delayed it, as far as I understand the history.</p>
+<p>The concept of the paper is quite simple: we played the game of telephone. But with a twist: we would be looking at ideophones and gesture interplay + teaching some participants the wrong, non-iconic mappings.</p>
+<p>This transmission experiment led to lots of interesting findings. But the ones that made it into the paper revolved around the gesture parameter of handshape, an aspect of sign languages and gesture in general that is generally viewed as not the most salient, yet important for conveying nuance. We found that we can break iconic mappings down into smaller features, like a phonological system. Sometimes iconicity “breaks” when the physiological naturalness of certain handshapes evolves into different configurations. Other times, iconicity acts as a strong enough force to resist those natural tendencies of handshape drift.</p>
+<p>Cool stuff! Enjoy this picture.</p>
+<p><img src="https://thomasvanhoey.com/posts/2025-04-29-double-whammy/handshapes.png" class="img-fluid"></p>
+</section>
+<section id="click-like-subscribe-and-dont-forget-to-cite-3" class="level1">
+<h1>Click like, subscribe, and don’t forget to cite &lt;3</h1>
+<p>Now go read them!!!</p>
+<ol type="1">
+<li></li>
+</ol>
+<p>Van Hoey, Thomas. 2025. Waddling, Wandering and Waving: Literary Chinese Ideophones and the Motion Semantic Grid. Cognitive Semantics, 11, 1-29. https://doi.org/10.1163/23526416-bja10075 <a href="https://brill.com/view/journals/cose/11/1/article-p1_001.xml">click this link</a></p>
+<ol start="2" type="1">
+<li></li>
+</ol>
+<p>Thompson, Arthur Lewis, Van Hoey, Thomas, Chik, Aaron Wing Cheung and Do, Youngah. 2025. Iconic hand gestures from ideophones exhibit stability and emergent phonological properties: an iterated learning study. Cognitive Linguistics, 2025. https://doi.org/10.1515/cog-2024-0033 <a href="https://www.degruyterbrill.com/document/doi/10.1515/cog-2024-0033/html">click this link</a></p>
+<p><strong>You can click those links to actually see what they are all about, and even read them, because both are open access.</strong></p>
+
+
+</section>
+
+ ]]></description>
+  <category>FWO</category>
+  <category>KU Leuven</category>
+  <category>ideophones</category>
+  <category>papers</category>
+  <guid>https://thomasvanhoey.com/posts/2025-04-29-double-whammy/</guid>
+  <pubDate>Mon, 28 Apr 2025 22:00:00 GMT</pubDate>
+  <media:content url="https://thomasvanhoey.com/posts/2025-04-29-double-whammy/featured.png" medium="image" type="image/png" height="65" width="144"/>
+</item>
 <item>
   <title>new project who dis</title>
   <dc:creator>Thomas Van Hoey</dc:creator>
@@ -3482,266 +3557,6 @@ walk(files, add_backlink) # actually running things</code></pre>
   <guid>https://thomasvanhoey.com/posts/2020-10-11-summertime-sadness-see-you-taiwan/</guid>
   <pubDate>Sat, 10 Oct 2020 22:00:00 GMT</pubDate>
   <media:content url="https://thomasvanhoey.com/posts/2020-10-11-summertime-sadness-see-you-taiwan/lu_and_me.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Changing photo metadata with R</title>
-  <dc:creator>Thomas Van Hoey</dc:creator>
-  <link>https://thomasvanhoey.com/posts/2020-09-30-changing-photo-metadata-with-r/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>One gnarly problem I sometimes face is that when I transfer pictures from my phone to my computer, the metadata says that the date the picture was taken is actually the date the file was created on my computer. In other words, the date is wrong. This has bad consequences for photography software that reads the metadata and sorts them by date taken (like Flickr does for me).</p>
-<p>The problem is illustrated here in this screenshot. We can infer from the name of the file that it was taken on the 5th of September, while the creation date in my computer is today (30th of September).</p>
-<p><img src="https://thomasvanhoey.com/posts/2020-09-30-changing-photo-metadata-with-r/images/dateproblems.png" class="img-fluid"></p>
-<p>Luckily, with R it’s not hard to get the correct metadata. There are two possible routes. The first one concerns real pictures, which actually still have the correct metadata hidden within the file; the second one is for screenshots, which maybe have the wanted date in the filename, but which don’t have intrinsic metadata.</p>
-<p>Ready, set, go.</p>
-<section id="packages" class="level1">
-<h1>Packages</h1>
-<div class="cell">
-<div class="sourceCode cell-code" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;"># general packages</span></span>
-<span id="cb1-2"><span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">library</span>(tidyverse) <span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;"># our swiss army knife</span></span>
-<span id="cb1-3"><span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">library</span>(fs) <span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;"># reading in files in a tidyish way</span></span>
-<span id="cb1-4"><span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">library</span>(lubridate) <span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;"># working with dates </span></span>
-<span id="cb1-5"></span>
-<span id="cb1-6"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;"># specialized packages</span></span>
-<span id="cb1-7"><span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">library</span>(exifr) <span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;"># for reading photo metadata</span></span></code></pre></div>
-</div>
-<p>Apart from the general rstudio-like packages like <code>tidyverse</code>, <code>fs</code>, <code>glue</code> and <code>lubridate</code>, we need a specialized package <code>exifr</code> (<a href="https://github.com/paleolimbot/exifr">github</a>) for reading EXIF metadata attached to pictures. <code>exifr</code> extracts these metadata and can output them in a nice dataframe. Specifically we are interested in the variable “DateTimeOriginal”.</p>
-</section>
-<section id="route-1-getting-datetimeoriginal-and-changing-the-creation-date." class="level1">
-<h1>Route 1: getting DateTimeOriginal and changing the creation date.</h1>
-<div class="cell">
-<div class="sourceCode cell-code" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;"># reading in all the different pictures we need to treat in batch</span></span>
-<span id="cb2-2">files <span class="ot" style="color: #003B4F;
-background-color: null;
-font-style: inherit;">&lt;-</span> <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">dir_ls</span>(<span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"PATH TO FOLDER WHERE PICTURES ARE STORED"</span>,</span>
-<span id="cb2-3">                <span class="at" style="color: #657422;
-background-color: null;
-font-style: inherit;">recurse =</span> <span class="cn" style="color: #8f5902;
-background-color: null;
-font-style: inherit;">TRUE</span>,</span>
-<span id="cb2-4">                <span class="at" style="color: #657422;
-background-color: null;
-font-style: inherit;">regexp =</span> <span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">".jpg$"</span>)</span>
-<span id="cb2-5"></span>
-<span id="cb2-6"></span>
-<span id="cb2-7"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;"># defining a function</span></span>
-<span id="cb2-8">change_file_create_date <span class="ot" style="color: #003B4F;
-background-color: null;
-font-style: inherit;">&lt;-</span> <span class="cf" style="color: #003B4F;
-background-color: null;
-font-weight: bold;
-font-style: inherit;">function</span>(afb){</span>
-<span id="cb2-9">  <span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;"># get correct exif date</span></span>
-<span id="cb2-10">  <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">read_exif</span>(<span class="at" style="color: #657422;
-background-color: null;
-font-style: inherit;">path =</span> afb,</span>
-<span id="cb2-11">            <span class="at" style="color: #657422;
-background-color: null;
-font-style: inherit;">tags =</span> <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">c</span>(<span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"DateTimeOriginal"</span>)) <span class="sc" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">%&gt;%</span></span>
-<span id="cb2-12">    <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">pull</span>(DateTimeOriginal) <span class="sc" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">%&gt;%</span></span>
-<span id="cb2-13">    <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">parse_date_time</span>(<span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"Ymd HMS"</span>, </span>
-<span id="cb2-14">                    <span class="at" style="color: #657422;
-background-color: null;
-font-style: inherit;">tz =</span> <span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"Asia/Taipei"</span> <span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">#timezone</span></span>
-<span id="cb2-15">                    ) <span class="ot" style="color: #003B4F;
-background-color: null;
-font-style: inherit;">-&gt;</span> correct_time</span>
-<span id="cb2-16"></span>
-<span id="cb2-17">  <span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;"># changing the creation date</span></span>
-<span id="cb2-18">  <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">Sys.setFileTime</span>(afb, correct_time)</span>
-<span id="cb2-19">  </span>
-<span id="cb2-20">}</span>
-<span id="cb2-21"></span>
-<span id="cb2-22"></span>
-<span id="cb2-23"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;"># run the function over all the different files</span></span>
-<span id="cb2-24">purrr<span class="sc" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">::</span><span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">walk</span>(files, change_file_create_date)</span></code></pre></div>
-</div>
-</section>
-<section id="route-2-pulling-the-date-from-filename-and-changing-the-creation-date." class="level1">
-<h1>Route 2: pulling the date from filename and changing the creation date.</h1>
-<p>Screenshots on my computer, which is configured in Dutch, have the following filename.</p>
-<p><code>Schermafbeelding 2020-09-30-09-38-32.png</code></p>
-<p>So that means “SCREENSHOT DATE-TIME.png”. The date and time can be foudn with a fairly simple regular expression, namely:</p>
-<p><code>'4 NUMBERS' FOLLOWED BY FIVE TIMES THE SEQUENCE '-2 NUMBERS'</code></p>
-<p>In R code that is written like:</p>
-<p><code>\\d{4}(-\\d\\d){5}</code></p>
-<p>And then we’re set. Just adapt the function definition in the middle and run it over the files we want to change.</p>
-<div class="cell">
-<div class="sourceCode cell-code" id="cb3" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;"># read in files</span></span>
-<span id="cb3-2">files <span class="ot" style="color: #003B4F;
-background-color: null;
-font-style: inherit;">&lt;-</span> <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">dir_ls</span>(<span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"PATH TO FOLDER WHERE PICTURES ARE STORED"</span>,</span>
-<span id="cb3-3">                <span class="at" style="color: #657422;
-background-color: null;
-font-style: inherit;">recurse =</span> <span class="cn" style="color: #8f5902;
-background-color: null;
-font-style: inherit;">TRUE</span>,</span>
-<span id="cb3-4">                <span class="at" style="color: #657422;
-background-color: null;
-font-style: inherit;">regexp =</span> <span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">".jpg$"</span>)</span>
-<span id="cb3-5"></span>
-<span id="cb3-6"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;"># function definition</span></span>
-<span id="cb3-7">change_file_create_date <span class="ot" style="color: #003B4F;
-background-color: null;
-font-style: inherit;">&lt;-</span> <span class="cf" style="color: #003B4F;
-background-color: null;
-font-weight: bold;
-font-style: inherit;">function</span>(afb){</span>
-<span id="cb3-8"></span>
-<span id="cb3-9">  <span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;"># get correct date from filename</span></span>
-<span id="cb3-10">  afb <span class="sc" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">%&gt;%</span></span>
-<span id="cb3-11">    <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">as.character</span>() <span class="sc" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">%&gt;%</span></span>
-<span id="cb3-12">    <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">str_extract</span>(<span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"</span><span class="sc" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">\\</span><span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">d{4}(-</span><span class="sc" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">\\</span><span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">d</span><span class="sc" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">\\</span><span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">d){5}"</span>)  <span class="sc" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">%&gt;%</span></span>
-<span id="cb3-13">    <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">parse_date_time</span>(<span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"YmdHMS"</span>, </span>
-<span id="cb3-14">                      <span class="at" style="color: #657422;
-background-color: null;
-font-style: inherit;">tz =</span> <span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"Asia/Taipei"</span> <span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">#timezone</span></span>
-<span id="cb3-15">                    ) <span class="ot" style="color: #003B4F;
-background-color: null;
-font-style: inherit;">-&gt;</span> correct_time</span>
-<span id="cb3-16">  </span>
-<span id="cb3-17">  <span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;"># changing the creation date</span></span>
-<span id="cb3-18">  <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">Sys.setFileTime</span>(afb, correct_time)</span>
-<span id="cb3-19">  </span>
-<span id="cb3-20">}</span>
-<span id="cb3-21"></span>
-<span id="cb3-22"></span>
-<span id="cb3-23"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;"># run the function over all the different files</span></span>
-<span id="cb3-24"><span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">walk</span>(files, change_file_create_date)</span></code></pre></div>
-</div>
-<p>And there we have it, based on the correct regular expression, we can batch process these without much effort.</p>
-<p><img src="https://thomasvanhoey.com/posts/2020-09-30-changing-photo-metadata-with-r/images/correct.png" class="img-fluid"></p>
-<p>And should you be wondering, this is the picture we were trying to change, with the nice message from my friends in zhuyin: I❤️U ㄚㄓˋ.</p>
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/86097314@N03/50364643777/in/datetaken/" title="Untitled"><img src="https://live.staticflickr.com/65535/50364643777_3813722e61_4k.jpg" width="800" height="600" alt="Untitled"></a>
-<script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-
-</section>
-
- ]]></description>
-  <category>R</category>
-  <category>rstats</category>
-  <guid>https://thomasvanhoey.com/posts/2020-09-30-changing-photo-metadata-with-r/</guid>
-  <pubDate>Tue, 29 Sep 2020 22:00:00 GMT</pubDate>
-  <media:content url="https://thomasvanhoey.com/posts/2020-09-30-changing-photo-metadata-with-r/images/correct.png" medium="image" type="image/png" height="123" width="144"/>
 </item>
 </channel>
 </rss>

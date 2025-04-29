@@ -44,8 +44,8 @@ community engagement
 \thispagestyle{empty}
 # Research interests
 
-Ideophones, onomatopoeia, mimetics; Cognitive Linguistics; lexical semantics; Cognitive Grammar;  
-historical linguistics; Chinese (in all its variants)
+Ideophones, onomatopoeia, mimetics; Cognitive Linguistics; lexical semantics; 
+ Chinese (in all its variants); variation; optionality; alternations
 
 ```{r, message=FALSE, warning=FALSE, echo=FALSE}
 library(tidyverse)
@@ -114,17 +114,46 @@ Executing/ed
 
 ## Refereed articles
 
+
+
 (@)
-Sze , Samuel Sui Lung, Xiaoyu Yu, **Thomas Van Hoey**, Bingzi Yu & Youngah Do. 
+**Van Hoey, Thomas**, Benedikt Szmrecsanyi, Matt Hunt Gardner. Choice and complexity: Debunking the myth that absolute complexity invariably leads to relative complexity.
 *accepted*.
-Bilinguals’ advantages in executive function: learning phonotactics and alternation.
+Linguistic Typology at the Crossroads - special issue
+
+
+(@)
+**Van Hoey, Thomas**\*, Arthur Lewis Thompson\*, Aaron Wing Cheung Chik & Youngah Do. 
+*accepted*.
+Iconic hand gestures from ideophones exhibit stability and emergent phonological properties: An iterated learning study.
+*Cognitive Linguistics*  
+\* co-first authors  
+
+
+(@)
+Ma, Ruiming, **Thomas Van Hoey** & Benedikt Szmrecsanyi.
+*accepted*.
+Isomorphism-inspired theorising about optionality and variation is unsupported by data from English grammar.
+*English Language and Linguistics*
+
+(@)
+**Van Hoey, Thomas**. 
+*accepted*.
+Waddling, wandering and waving: Literary Chinese ideophones and the Motion Semantic Grid.
+*Cognitive Semantics* (special issue on Talmyan motion semantics).
+
+(@)
+Sze, Samuel Sui Lung, Xiaoyu Yu, **Thomas Van Hoey**, Bingzi Yu & Youngah Do. 
+*accepted*.
+Bilinguals’ advantages in executive function: Learning phonotactics and alternation.
 *Second Language Research*
+[doi: 10.1177/02676583251327097](https://journals.sagepub.com/doi/10.1177/02676583251327097)
 
 (@)
-Yu, Xiaoyu, **Thomas Van Hoey**, Frank Lihui Tan, Baichen Du & Youngah Do. 2024. Tracking phonological regularities: Exploring the influence of learning mode and regularity locus in adult phonological learning.  *Linguistics Vanguard* aop. 1-12. [doi: 10.1515/lingvan-2023-0050](https://doi.org/10.1515/lingvan-2023-0050)
+Yu, Xiaoyu, **Thomas Van Hoey**, Frank Lihui Tan, Baichen Du & Youngah Do. 2024. Tracking phonological regularities: Exploring the influence of learning mode and regularity locus in adult phonological learning.  *Linguistics Vanguard* 10(1). 93-104. [doi: 10.1515/lingvan-2023-0050](https://doi.org/10.1515/lingvan-2023-0050)
 
 (@)
-**Thomas Van Hoey**, Xiaoyu Yu, Tungle Pan & Youngah Do. 2024. What ratings and corpus data reveal about the vividness of Mandarin ABB words. *Language and Cognition* aop. 1-23. [doi: 10.1017/langcog.2024.22](https://doi.org/10.1017/langcog.2024.22)
+**Thomas Van Hoey**, Xiaoyu Yu, Tungle Pan & Youngah Do. 2024. What ratings and corpus data reveal about the vividness of Mandarin ABB words. *Language and Cognition* 16(4). 1674-1696. [doi: 10.1017/langcog.2024.22](https://doi.org/10.1017/langcog.2024.22)
 
 (@)
 **Van Hoey, Thomas**, Arthur Lewis Thompson,  Youngah Do & Mark Dingemanse. 2023. Iconicity in ideophones: Guessing, memorizing, and reassessing. *Cognitive Science* e13268. 1-27. [doi: 10.1111/cogs.13268](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.13268)
@@ -153,6 +182,12 @@ Thompson, Arthur Lewis, **Thomas Van Hoey** & Youngah Do. 2021. Articulatory fea
 ## Book chapters
 
 (@)
+Szmrecsanyi, Benedikt, Matt Hunt Gardner, Ruiming Ma & **Thomas Van Hoey**. 
+*accepted*.
+Empirical accountability meets theorizing about language variation. in Cukor-Avila, Patrica, Sali A. Tagliamonte & Guy Bailey (eds.) *Empirical accountability in variation linguistics: Taking the next step*. Cambridge University Press. 
+
+
+(@)
 **Van Hoey, Thomas**. 2024. Onomatopoeia in Mandarin Chinese. In Lívia Körtvélyessy & Pavol Štekauer (eds.), Onomatopoeia in the world’s languages: A comparative handbook (Comparative Handbooks of Linguistics 10), 563–575. Berlin: Mouton de Gruyter. [doi:10.1515/9783111053226-047](https://doi.org/10.1515/9783111053226-047).
 
 (@)
@@ -164,37 +199,9 @@ Thompson, Arthur Lewis, **Thomas Van Hoey** & Youngah Do. 2021. Articulatory fea
 
 ## Publications under review
 
-
-<!-- (@) -->
-<!-- Do, Youngah, Bingzi Yu & **Thomas Van Hoey**.  -->
-<!-- Mitigating the trade-off between verification and speculation in learning vowel harmony.  -->
-<!-- Language and Speech -->
-
-
-
 (@)
 Yu, Xiaoyu, Bingzi Yu, **Thomas Van Hoey**, Samuel Sui Lung Sze, Frank Lihui Tan, Tak Wang Li & Youngah Do. Phonetic substance reshapes phonological variation in language acquisition and language contact. 
 <!-- Language Variation and Change -->
-
-(@)
-**Van Hoey, Thomas**\*, Arthur Lewis Thompson\*, Aaron Wing Cheung Chik & Youngah Do. Iconic hand gestures from ideophones exhibit stability and emergent phonological properties: An iterated learning study.
-\* co-first authors
-<!-- Cognitive Linguistics -->
-
-(@)
-**Van Hoey, Thomas**, Benedikt Szmrecsanyi, Matt Hunt Gardner. Choice and complexity: Debunking the myth that absolute complexity invariably leads to relative complexity.
-<!-- Linguistic Typology at the Crossroads - special issue -->
-
-(@)
-Szmrecsanyi, Benedikt, Matt Hunt Gardner, Ruiming Ma & **Thomas Van Hoey**. Empirical accountability meets theorizing about language variation. in Cukor-Avila, Patrica, Sali A. Tagliamonte & Guy Bailey (eds.) *Empirical accountability in variation linguistics: Taking the next step*. Cambridge University Press. 
-
-(@)
-**Van Hoey, Thomas**. Waddling, wandering and waving: Literary Chinese ideophones and the Motion Semantic Grid.
-<!-- Cognitive Semantics - special issue -->
-
-(@)
-Ma, Ruiming, **Thomas Van Hoey** & Benedikt Szmrecsanyi. Fact-checking conjectures about the complexity of grammatical optionality and variation: the case of English.
-<!-- English Language and Linguistics -->
 
 (@) **Van Hoey, Thomas**, Matt. H. Gardner, Ruiming Ma & Benedikt Szmrecsanyi.
 Grammatical variation does not trigger production difficulties, regardless of predicted probabilities.
@@ -204,6 +211,8 @@ Grammatical variation does not trigger production difficulties, regardless of pr
 **Van Hoey, Thomas**. Dynamic extensions of iconic form-meaning mappings in visual media, viewed through a prismatic lens.
 <!-- SKASE Journal of Theoretical Linguistics -->
 
+(@)
+**Van Hoey, Thomas**. Sound and lexical semantics. *Cambridge handbook of lexical semantics* (eds. Dirk Geeraerts & Dylan Glynn)
 
 
 ## Publications in preparation
@@ -211,9 +220,12 @@ Grammatical variation does not trigger production difficulties, regardless of pr
 (@)
 **Van Hoey, Thomas**, Dan Dewey, Youngah Do. fNIR study on ideophone usage in Mandarin speakers.
 
-(@)
-**Van Hoey, Thomas**. Sound and lexical semantics. *Cambridge handbook of lexical semantics* (eds. Dirk Geeraerts & Dylan Glynn)
 
+
+<!-- (@) -->
+<!-- Do, Youngah, Bingzi Yu & **Thomas Van Hoey**.  -->
+<!-- Mitigating the trade-off between verification and speculation in learning vowel harmony.  -->
+<!-- Language and Speech -->
 
 ## Theses
 
@@ -591,6 +603,7 @@ president (since 2023)
 
 ## Reviewing for journals
 
+* *Behavior Research Methods*
 * *British Journal of Psychology*
 * *Canadian Journal of Linguistics / Revue canadienne de linguistique*
 * *Cognitive Science*
@@ -601,8 +614,8 @@ president (since 2023)
 * *Folia Linguistica*
 * *Frontiers*
 * *Glossa*
-* *Journal of Experimental Psychology:  Learning, Memory, and Cognition*
-* *Journal of Experimental Psychology:  Human Perception and Performance*
+* *Journal of Experimental Psychology: Learning, Memory, and Cognition*
+* *Journal of Experimental Psychology: Human Perception and Performance*
 * *Handbook of Cognitive Semantics*
 * *Language and Cognition*
 * *Language and Speech*
@@ -611,6 +624,7 @@ president (since 2023)
 * *Linguistics Vanguard*
 * *Mapping China Journal*
 * *PLoS*
+* *Psychonomic Bulletin & Review*
 * *Quarterly Journal of Experimental Psychology*
 * *Review of Cognitive Linguistics*
 * *Studies in Language*
@@ -618,7 +632,7 @@ president (since 2023)
 
 ## Reviewing for conferences
 
-* SLE 58 (Societas Linguistica Europaea) 2025 (committee member)
+* SLE 58 (Societas Linguistica Europaea) 2025
 * IcoSem (Iconicity Seminar) 2025
 *  1st Biennial of Czech Linguistics 2024
 * CLDC 11 (Conference on Language, Discourse, and Cognition) 2024
