@@ -8,6 +8,8 @@ execute:
 image: featured.png
 ---
 
+![](dendrogram.png)
+
 # tl;dr
 
 What do you mean "too long, didn't read"?
