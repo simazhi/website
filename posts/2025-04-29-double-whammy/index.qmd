@@ -1,6 +1,6 @@
 ---
-title: "Double Whammy"
-description: "Two papers published online on the same week"
+title: "Double Whammy, nay, triple whammy!"
+description: "Three papers published online on the same week"
 date: "2025-04-29"
 categories: ['FWO', 'KU Leuven', 'ideophones', 'papers']
 execute:
@@ -21,12 +21,14 @@ This deserves to be celebrated.
 Ecce this blogpost.
 
 1.
-
 Van Hoey, Thomas. 2025. Waddling, Wandering and Waving: Literary Chinese Ideophones and the Motion Semantic Grid. Cognitive Semantics, 11, 1-29. https://doi.org/10.1163/23526416-bja10075 [click this link](https://brill.com/view/journals/cose/11/1/article-p1_001.xml)
 
 2.
-
 Thompson, Arthur Lewis, Van Hoey, Thomas, Chik, Aaron Wing Cheung and Do, Youngah. 2025. Iconic hand gestures from ideophones exhibit stability and emergent phonological properties: an iterated learning study. Cognitive Linguistics, 2025. https://doi.org/10.1515/cog-2024-0033 [click this link](https://www.degruyterbrill.com/document/doi/10.1515/cog-2024-0033/html)
+
+3. 
+Ma, Ruiming, Thomas Van Hoey, and Benedikt Szmrecsanyi. 2025 online. Isomorphism-Inspired Theorising about Optionality and Variation: No Empirical Support from English Grammar. English Language and Linguistics.
+https://doi.org/10.1017/S1360674325000097 [click this link](https://www.cambridge.org/core/journals/english-language-and-linguistics/article/isomorphisminspired-theorising-about-optionality-and-variation-no-empirical-support-from-english-grammar/54F465B0EB371C3599659AC4918664C3)
 
 **You can click those links to actually see what they are all about, and even read them, because both are open access.**
 
@@ -96,17 +98,37 @@ Enjoy this picture.
 
 ![](handshapes.png)
 
+# There is another
+
+![](yoda.jpg)
+
+Little did I know that on Friday afternoon another paper would be unleashed unto the masses online and open access.
+
+In this paper, Ruiming Ma (it's her first paper so, you go girl!), Benedikt Szmrecsanyi, and I devise a nifty three-step modeling procedure to investigate the issue we're interested in: 
+namely the non-effect of grammatical optionality on relative complexity, in spite of what some theories and principles may suggest 
+(maybe this is a subtweet at Reviewer 2).
+
+It's short and sweet, and developed out of a nice MA thesis.
+
+
 # Click like, subscribe, and don't forget to cite <3
 
 Now go read them!!!
 
 1.
 
-Van Hoey, Thomas. 2025. Waddling, Wandering and Waving: Literary Chinese Ideophones and the Motion Semantic Grid. Cognitive Semantics, 11, 1-29. https://doi.org/10.1163/23526416-bja10075 [click this link](https://brill.com/view/journals/cose/11/1/article-p1_001.xml)
+Van Hoey, Thomas. 2025. Waddling, Wandering and Waving: Literary Chinese Ideophones and the Motion Semantic Grid. Cognitive Semantics, 11:1-29.  
+https://doi.org/10.1163/23526416-bja10075 [click this link](https://brill.com/view/journals/cose/11/1/article-p1_001.xml)
 
 2.
 
-Thompson, Arthur Lewis, Van Hoey, Thomas, Chik, Aaron Wing Cheung and Do, Youngah. 2025. Iconic hand gestures from ideophones exhibit stability and emergent phonological properties: an iterated learning study. Cognitive Linguistics, 2025. https://doi.org/10.1515/cog-2024-0033 [click this link](https://www.degruyterbrill.com/document/doi/10.1515/cog-2024-0033/html)
+Thompson, Arthur Lewis, Van Hoey, Thomas, Chik, Aaron Wing Cheung and Do, Youngah. 2025 online. Iconic hand gestures from ideophones exhibit stability and emergent phonological properties: an iterated learning study. Cognitive Linguistics.  
+https://doi.org/10.1515/cog-2024-0033 [click this link](https://www.degruyterbrill.com/document/doi/10.1515/cog-2024-0033/html)
+
+3. 
+
+Ma, Ruiming, Thomas Van Hoey, and Benedikt Szmrecsanyi. 2025 online. Isomorphism-Inspired Theorising about Optionality and Variation: No Empirical Support from English Grammar. English Language and Linguistics.
+https://doi.org/10.1017/S1360674325000097 [click this link](https://www.cambridge.org/core/journals/english-language-and-linguistics/article/isomorphisminspired-theorising-about-optionality-and-variation-no-empirical-support-from-english-grammar/54F465B0EB371C3599659AC4918664C3)
 
 **You can click those links to actually see what they are all about, and even read them, because both are open access.**
 
