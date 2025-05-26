@@ -9,7 +9,7 @@ execute:
 image: wabisabi4.jpg
 ---
 
-![](https://media1.tenor.com/m/stG15j2QsyUAAAAd/ai-yi-yi-power-rangers.gif)
+![](wabisabi2.png)
 
 I remember the first time I saw someone using ChatGPT in the wild. 
 I was taking the train from Oxford to London in the beginning of 2023. 
@@ -21,6 +21,9 @@ It made me feel kinda uneasy but I didn’t think much more of it — I had a mu
 In what follows I just want to record some experiences and thoughts surrounding AI that I’ve been wrestling with. 
 I hope you find it interesting, but lest you don’t make it to the end: I’m not entirely against it, but it’s also not the miracle machine that Big Tech hype purports it to be. 
 Use with caution and don’t just [drink the koolAId](https://en.wikipedia.org/wiki/Drinking_the_Kool-Aid) willy nilly.
+
+![](https://media1.tenor.com/m/stG15j2QsyUAAAAd/ai-yi-yi-power-rangers.gif)
+
 
 # The AI con
 
@@ -245,4 +248,4 @@ Similarly, I want to read real imperfect scholarly works (theses, dissertations,
 So let that be the final message for now, because clearly we can take a stance but that doesn’t make the problem of Big AI hype magically go away (believe me, I tried).
 Don’t just drink the koolAId but retain some of that wabi sabi, it'll make your writing more palatable.
 
-![](wabisabi2.png)
+![](wabisabi.png)
