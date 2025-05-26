@@ -124,7 +124,7 @@ Linguistic Typology at the Crossroads - special issue
 
 (@)
 **Van Hoey, Thomas**\*, Arthur Lewis Thompson\*, Aaron Wing Cheung Chik & Youngah Do. 
-*accepted*.
+2025 (online).
 Iconic hand gestures from ideophones exhibit stability and emergent phonological properties: An iterated learning study.
 *Cognitive Linguistics*  
 \* co-first authors  
@@ -132,22 +132,28 @@ Iconic hand gestures from ideophones exhibit stability and emergent phonological
 
 (@)
 Ma, Ruiming, **Thomas Van Hoey** & Benedikt Szmrecsanyi.
-*accepted*.
+2025 (online).
 Isomorphism-inspired theorising about optionality and variation is unsupported by data from English grammar.
-*English Language and Linguistics*
+*English Language and Linguistics*. 1-21.
+[doi:10.1017/S1360674325000097](https://doi.org/10.1017/S1360674325000097).
 
 (@)
 **Van Hoey, Thomas**. 
-*accepted*.
+2025 (online).
 Waddling, wandering and waving: Literary Chinese ideophones and the Motion Semantic Grid.
 *Cognitive Semantics* (special issue on Talmyan motion semantics).
+1-29.
+[doi:10.1163/23526416-bja10075](https://brill.com/view/journals/cose/11/2/article-p1_001.xml).
 
 (@)
 Sze, Samuel Sui Lung, Xiaoyu Yu, **Thomas Van Hoey**, Bingzi Yu & Youngah Do. 
-*accepted*.
+2025 (online).
 Bilinguals’ advantages in executive function: Learning phonotactics and alternation.
-*Second Language Research*
+*Second Language Research*. 1-30.
 [doi: 10.1177/02676583251327097](https://journals.sagepub.com/doi/10.1177/02676583251327097)
+
+
+<!-- full reference complete -->
 
 (@)
 Yu, Xiaoyu, **Thomas Van Hoey**, Frank Lihui Tan, Baichen Du & Youngah Do. 2024. Tracking phonological regularities: Exploring the influence of learning mode and regularity locus in adult phonological learning.  *Linguistics Vanguard* 10(1). 93-104. [doi: 10.1515/lingvan-2023-0050](https://doi.org/10.1515/lingvan-2023-0050)
@@ -205,7 +211,7 @@ Yu, Xiaoyu, Bingzi Yu, **Thomas Van Hoey**, Samuel Sui Lung Sze, Frank Lihui Tan
 
 (@) **Van Hoey, Thomas**, Matt. H. Gardner, Ruiming Ma & Benedikt Szmrecsanyi.
 Grammatical variation does not trigger production difficulties, regardless of predicted probabilities.
-<!-- Language Variation and Change -->
+<!-- Language Variation and Change. -->
 
 (@)
 **Van Hoey, Thomas**. Dynamic extensions of iconic form-meaning mappings in visual media, viewed through a prismatic lens.
