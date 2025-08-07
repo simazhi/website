@@ -1,0 +1,135 @@
+---
+title: "Oft-used pdf manipulations with the command line"
+author: "Thomas Van Hoey"
+description: "Memento commandi"
+date: "2025-08-07"
+categories: ["pdf", "command line", "terminal"]
+execute:
+  freeze: auto
+  eval: false 
+image: picture.png
+---
+
+![](picture.png)
+
+This blog post is mainly for myself but if it helps you, great.
+In general, three pesky pdf manipulations I find myself involved with are:
+
+1. [ocr-ing](https://en.wikipedia.org/wiki/Optical_character_recognition) documents
+1. combining documents fast
+1. extracting pages from documents
+
+# Homebrew - terminal 
+
+I'm just assuming you are on a Mac of sorts and have access to the terminal.
+My favorite terminal implementation is [iterm2](https://iterm2.com/).
+You can customize it by googling for a guide. 
+[Here's a good one.](https://catalins.tech/improve-mac-terminal/)
+
+Make sure you also install [Homebrew](https://brew.sh/), the easy package manager.
+Just copy the install homebrew code in the terminal.
+
+Three main functions: installing, updating, removing.
+ 
+For installation, just copy the install function of a package.
+For this post's packages those are [qpdf](https://formulae.brew.sh/formula/qpdf#default) and [ocrmypdf](https://formulae.brew.sh/formula/ocrmypdf#default).
+
+```{r}
+#| eval: false
+brew install qpdf
+brew install ocrmypdf
+```
+
+Most packages will be some sort of interface to the real package, those are called 'casks'.
+For example, a lightweight pdf reader I like using is called [skim](brew install --cask skim).
+It's install command is 
+
+```{r}
+#| eval: false
+brew install --cask skim
+```
+
+After a while you want to maybe update (every so often).
+That command is simply
+
+```{r}
+#| eval: false
+brew upgrade
+```
+
+To remove packages, just
+
+```{r}
+#| eval: false
+brew uninstall <packagename>
+brew uninstall --cask <packagename>
+```
+
+Great, now we have `qpdf`, `ocrmypdf` and maybe `skim`.
+Next, step, navigate to the folder where your document is located (must be absolute path).
+
+```{r}
+#| eval: false
+cd PATH/TO/FOLDER/JUST/COPY/THIS
+```
+You can check the files with the `ls` function.
+
+```{r}
+#| eval: false
+ls
+```
+
+# OCR-ing text
+
+Very easy, the basic command is on the left. 
+I often find I have to redo suboptimal previous ocr-ing, so that is where the force argument comes from.
+
+```{r}
+#| eval: false
+ocrmypdft inputdocument.pdf outputdocument.pdf --force-ocr
+```
+
+Bam, presto!
+
+# Selecting pages from a file
+
+
+You can clip page ranges, e.g., pages 1-3, or just single pages, e.g. 1, or a combination.
+**Note:** these pages are the actual pages of the document, not the internal numbering.
+
+
+```{r}
+#| eval: false
+qpdf input.pdf --pages . 1-3 -- result.pdf
+```
+
+
+# Combining files
+
+To combine, we make use of similar syntax. 
+Here we combine the first page from file1.pdf with the second-third and seventh page of file2.pdf
+
+```{r}
+#| eval: false
+qpdf --empty --pages file1.pdf 1 file2.pdf 1-3,7 -- result.pdf
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

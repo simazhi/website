@@ -104,7 +104,7 @@ Co-I
 
 * \- "Breaking down and rebuilding iconicity: machine learning verified by human learning" (PI Youngah Do, Co-I Harald Baayen, Co-I Christophe Coupé, Co-I Thomas Van Hoey) at HKU (GRF 17602723) <!-- 846,300 HKD -->
 
-Executing/ed
+Executed
 
 * \- "Relatively complex or relatively simple? Toward new ways of analyzing language variation" (PI Benedikt Szmrecsanyi) at KU Leuven (BOF C1 C14/22/045)
 
@@ -114,34 +114,37 @@ Executing/ed
 
 ## Refereed articles
 
-
-
 (@)
 **Van Hoey, Thomas**, Benedikt Szmrecsanyi, Matt Hunt Gardner. Choice and complexity: Debunking the myth that absolute complexity invariably leads to relative complexity.
 *accepted*.
 Linguistic Typology at the Crossroads - special issue
 
+(@)
+**Van Hoey, Thomas**. 2025. Dynamic extensions of iconic form-meaning mappings in visual media, viewed through a prismatic lens.
+*SKASE Journal of Theoretical Linguistics* 22(2). 
+110-127.
+<!-- [url]() STILL NEED TO ADD -->
 
 (@)
 **Van Hoey, Thomas**\*, Arthur Lewis Thompson\*, Aaron Wing Cheung Chik & Youngah Do. 
 2025 (online).
 Iconic hand gestures from ideophones exhibit stability and emergent phonological properties: An iterated learning study.
-*Cognitive Linguistics*  
+*Cognitive Linguistics*  36(2). 227-259.
+[doi:10.1515/cog-2024-0033](https://doi.org/10.1515/cog-2024-0033)
 \* co-first authors  
-
 
 (@)
 Ma, Ruiming, **Thomas Van Hoey** & Benedikt Szmrecsanyi.
-2025 (online).
+2025.
 Isomorphism-inspired theorising about optionality and variation is unsupported by data from English grammar.
 *English Language and Linguistics*. 1-21.
 [doi:10.1017/S1360674325000097](https://doi.org/10.1017/S1360674325000097).
 
 (@)
 **Van Hoey, Thomas**. 
-2025 (online).
+2025.
 Waddling, wandering and waving: Literary Chinese ideophones and the Motion Semantic Grid.
-*Cognitive Semantics* (special issue on Talmyan motion semantics).
+*Cognitive Semantics* (special issue on Talmyan motion semantics). 11(2).
 1-29.
 [doi:10.1163/23526416-bja10075](https://brill.com/view/journals/cose/11/2/article-p1_001.xml).
 
@@ -214,10 +217,6 @@ Grammatical variation does not trigger production difficulties, regardless of pr
 <!-- Language Variation and Change. -->
 
 (@)
-**Van Hoey, Thomas**. Dynamic extensions of iconic form-meaning mappings in visual media, viewed through a prismatic lens.
-<!-- SKASE Journal of Theoretical Linguistics -->
-
-(@)
 **Van Hoey, Thomas**. Sound and lexical semantics. *Cambridge handbook of lexical semantics* (eds. Dirk Geeraerts & Dylan Glynn)
 
 
@@ -267,6 +266,13 @@ MA thesis Sinology (grade: 18.6/20)\hfill 2014 \newline
 ## Invited talks
 
 (@)
+**Van Hoey, Thomas**, Xiaoyu Yu, Shuhao Zhang, Youngah Do & Dan Dewey. Behavior mirrored in the brain: An fNIRS study of Chinese ideophone modal exclusivity. 2025. Linguistics Seminar. The University of Hong Kong. 18 June 2025.
+
+(@)
+**Van Hoey, Thomas**, Xiaoyu Yu, Shuhao Zhang, Youngah Do & Dan Dewey. Behavior mirrored in the brain: An fNIRS study of Chinese ideophone modal exclusivity. 2025. National Taiwan University. 9 June 2025.
+
+
+(@)
 **Van Hoey, Thomas**. *Measuring the meaning and structure of ideophones: Lessons from Chinese*. 2024. Workshop on Manifestations of sound symbolism in language: phonaesthemes, ideophones and onomatopoeia. Held at the first Biennial of Czech Linguistics. Prague: Charles University. 18 September 2024.
 
 
@@ -285,6 +291,35 @@ MA thesis Sinology (grade: 18.6/20)\hfill 2014 \newline
 **Van Hoey, Thomas**. *Exploratory data analysis: From start to report*. 2024. LOT summer school. Amersterdam: University of Amsterdam. (5 times 2 hours).
 
 ## Conference presentations (oral)
+
+(@)
+Basile, Carmelo Alessandro & **Thomas Van Hoey**.
+The tortoise and the hare: Evolving modal constructions in Singapore and British English
+ISLE 8 [8th Conference of the International Society for the Linguistics of English]. 
+Santiago de Compostela: University of Santiago de Compostela.
+1-4 September 2025.
+
+(@)
+**Van Hoey, Thomas**.
+Iconic lexicons: What’s actually depicted in them?
+SLE 58 [58th Annual Meeting of the Societas Linguistica Europaea]. Bordeaux: Université Bordeaux Montaigne. 26-29 August 2025.
+
+(@)
+**Van Hoey, Thomas**, Ruiming Ma, Matt H. Gardner & Benedikt Szmrecsanyi.
+Empirical accountability meets theorizing about language variation: The Principle of Optionality.
+SLE 58 [58th Annual Meeting of the Societas Linguistica Europaea]. Bordeaux: Université Bordeaux Montaigne. 26-29 August 2025.
+
+(@)
+**Van Hoey, Thomas** & Carmelo Alessandro Basile.
+Modality on the way: Modals in Singapore and British English.
+NWAV-AP 8 [8th New Ways of Analysing Variation: Asia Pacific]. 
+Singapore: Nanyang Technological University.
+4-7 August 2025.
+
+
+(@)
+**Van Hoey, Thomas**, Xiaoyu Yu, Shuhao Zhang, Youngah Do & Dan Dewey. Chinese ideophone modal exclusivity: Comparing behavioral data with neurolinguistic data (fNIRS). 2025. Word-Formation Theories VII & Typology and Universals in Word-Formation VI. Košice: Pavol Jozef Šafárik University. 25-28 June 2025.
+
 
 (@)
 **Van Hoey, Thomas** & Benedikt Szmrecsanyi. 2024. Alternation constrainedness does not affect relative complexity. CogLing Days 2024. Antwerp: University of Antwerp. 12-13 December 2024.
