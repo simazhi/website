@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://thomasvanhoey.com/index.html</loc>
-    <lastmod>2025-01-10T18:00:33.919Z</lastmod>
+    <lastmod>2025-09-10T13:39:29.353Z</lastmod>
   </url>
   <url>
     <loc>https://thomasvanhoey.com/posts/new_blog_post/post.html</loc>
@@ -14,7 +14,7 @@
   </url>
   <url>
     <loc>https://thomasvanhoey.com/archive.html</loc>
-    <lastmod>2024-07-15T14:39:52.127Z</lastmod>
+    <lastmod>2024-07-15T14:39:52.000Z</lastmod>
   </url>
   <url>
     <loc>https://thomasvanhoey.com/posts/ggplot2-tips/ggplot-series.html</loc>
@@ -22,7 +22,7 @@
   </url>
   <url>
     <loc>https://thomasvanhoey.com/projects.html</loc>
-    <lastmod>2024-10-29T14:17:30.929Z</lastmod>
+    <lastmod>2024-10-29T14:17:30.000Z</lastmod>
   </url>
   <url>
     <loc>https://thomasvanhoey.com/projects/learnability_of_ideophones/learnability_ideophones.html</loc>
@@ -370,7 +370,7 @@
   </url>
   <url>
     <loc>https://thomasvanhoey.com/projects/breaking_down_rebuilding_iconicity/index.html</loc>
-    <lastmod>2024-10-29T14:21:23.916Z</lastmod>
+    <lastmod>2024-10-29T14:21:23.000Z</lastmod>
   </url>
   <url>
     <loc>https://thomasvanhoey.com/projects/grammatical_alternation_complexity/index.html</loc>
@@ -378,7 +378,7 @@
   </url>
   <url>
     <loc>https://thomasvanhoey.com/projects/borrowing_iconic_words/index.html</loc>
-    <lastmod>2024-10-29T14:17:02.659Z</lastmod>
+    <lastmod>2025-09-10T13:33:15.913Z</lastmod>
   </url>
   <url>
     <loc>https://thomasvanhoey.com/supervision/Ma_Ruiming.html</loc>
@@ -390,7 +390,7 @@
   </url>
   <url>
     <loc>https://thomasvanhoey.com/teaching.html</loc>
-    <lastmod>2024-10-29T20:01:21.144Z</lastmod>
+    <lastmod>2024-10-29T20:01:21.000Z</lastmod>
   </url>
   <url>
     <loc>https://thomasvanhoey.com/supervision/Liu_Meili.html</loc>
@@ -422,7 +422,7 @@
   </url>
   <url>
     <loc>https://thomasvanhoey.com/service.html</loc>
-    <lastmod>2024-10-29T21:06:09.554Z</lastmod>
+    <lastmod>2024-10-29T21:06:09.000Z</lastmod>
   </url>
   <url>
     <loc>https://thomasvanhoey.com/cv/cv_thomas_cuhk.html</loc>
@@ -430,7 +430,7 @@
   </url>
   <url>
     <loc>https://thomasvanhoey.com/cv/cv_thomas.html</loc>
-    <lastmod>2025-07-26T17:14:03.000Z</lastmod>
+    <lastmod>2025-09-09T08:56:16.909Z</lastmod>
   </url>
   <url>
     <loc>https://thomasvanhoey.com/cv/cv_socfellows.html</loc>
@@ -462,6 +462,18 @@
   </url>
   <url>
     <loc>https://thomasvanhoey.com/posts/2025-08-07-oft-used-pdf-manipulations/index.html</loc>
-    <lastmod>2025-08-07T10:24:49.135Z</lastmod>
+    <lastmod>2025-09-10T13:23:33.428Z</lastmod>
+  </url>
+  <url>
+    <loc>https://thomasvanhoey.com/cv/old_files/cv_thomas_cityuhk.html</loc>
+    <lastmod>2021-12-16T04:21:36.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://thomasvanhoey.com/cv/old_files/cv_socfellows.html</loc>
+    <lastmod>2022-01-02T04:25:05.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://thomasvanhoey.com/cv/old_files/cv_thomas_cuhk.html</loc>
+    <lastmod>2021-10-29T07:34:52.000Z</lastmod>
   </url>
 </urlset>

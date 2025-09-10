@@ -29,12 +29,17 @@ fontsize: 12pt
 linkcolor: blue
 urlcolor: blue
 keep_tex: yes
+header-includes:
+  - \usepackage{xparse}   # needed for defining commands with lists
+  - \newcommand{\iconspace}{\quad}
+  - \NewDocumentCommand{\iconset}{>{\SplitList{,}}m}{\textcolor[gray]{0.4}{\footnotesize\ProcessList{#1}{\iconitem}}}
+  - \newcommand{\iconitem}[1]{#1\iconspace}
 ---
 
 
 <!-- # Biography 
 
-qulificiation,
+qualificiation,
 outstanding teaching
 reserch
 community engagement
@@ -66,6 +71,7 @@ library(kableExtra)
 # Education
 
 
+
 **PhD Linguistics** *(A+)* \hfill National Taiwan University \hspace*{1em} 2015-2020 \newline
 <!-- Advisor: [Lu Chiarung 呂佳蓉, Ph.D](chiarung.blog.ntu.edu.tw)  -->
 **MA Linguistics** *(magna cum laude)* \hfill KU Leuven \hspace*{1em} 2014-2015 \newline 
@@ -82,7 +88,7 @@ Summer school: Chinese Digital Humanities \hfill Leiden University \hspace*{1em}
 Summer school:  Translating Chinese (Summer +10). \hfill National Taiwan University \hspace*{1em} 2014
 
 
-# Honours and awards
+# Honors and awards
 
 * \- Editor's choice for Thompson, Van Hoey & Do. *Cognitive Linguistics*. (free open access) \hfill 2021
 * \- Financial Assistance Grant for International Students \hfill 2019-2020
@@ -114,15 +120,35 @@ Executed
 
 ## Refereed articles
 
+<!-- \iconset{ \faLightbulb \, \faClipboardList \,  \faChartLine \,  \faPenNib \,  \faUserCheck \, \faAt } -->
+
+
+\fbox{%
+\parbox{1\linewidth}{%
+
+\begin{tabular*}{\linewidth}{@{\extracolsep{\fill}}lll}
+\faLightbulb \quad conception and design &
+\faClipboardList \quad data collection &
+\faChartLine \quad analysis and interpretation \\
+\faPenNib \quad manuscript drafting &
+\faUserCheck \quad single author &
+\faAt \quad corresponding author \\
+\end{tabular*}%
+}%
+}
+
+
 (@)
 **Van Hoey, Thomas**, Benedikt Szmrecsanyi, Matt Hunt Gardner. Choice and complexity: Debunking the myth that absolute complexity invariably leads to relative complexity.
 *accepted*.
 Linguistic Typology at the Crossroads - special issue
+\iconset{\faLightbulb \, \faChartLine \, \faPenNib \,  \faAt}
 
 (@)
 **Van Hoey, Thomas**. 2025. Dynamic extensions of iconic form-meaning mappings in visual media, viewed through a prismatic lens.
 *SKASE Journal of Theoretical Linguistics* 22(2). 
 110-127.
+\iconset{ \faUserCheck \, \faAt }
 <!-- [url]() STILL NEED TO ADD -->
 
 (@)
@@ -131,22 +157,23 @@ Linguistic Typology at the Crossroads - special issue
 Iconic hand gestures from ideophones exhibit stability and emergent phonological properties: An iterated learning study.
 *Cognitive Linguistics*  36(2). 227-259.
 [doi:10.1515/cog-2024-0033](https://doi.org/10.1515/cog-2024-0033)
-\* co-first authors  
+\* co-first authors 
+\iconset{\faLightbulb \, \faClipboardList \, \faChartLine\,  \faPenNib }
 
 (@)
-Ma, Ruiming, **Thomas Van Hoey** & Benedikt Szmrecsanyi.
-2025.
+Ma, Ruiming, **Thomas Van Hoey** & Benedikt Szmrecsanyi. 2025.
 Isomorphism-inspired theorising about optionality and variation is unsupported by data from English grammar.
 *English Language and Linguistics*. 1-21.
 [doi:10.1017/S1360674325000097](https://doi.org/10.1017/S1360674325000097).
+\iconset{ \faChartLine \, \faPenNib }
 
 (@)
-**Van Hoey, Thomas**. 
-2025.
+**Van Hoey, Thomas**. 2025.
 Waddling, wandering and waving: Literary Chinese ideophones and the Motion Semantic Grid.
 *Cognitive Semantics* (special issue on Talmyan motion semantics). 11(2).
 1-29.
 [doi:10.1163/23526416-bja10075](https://brill.com/view/journals/cose/11/2/article-p1_001.xml).
+\iconset{ \faUserCheck \, \faAt }
 
 (@)
 Sze, Samuel Sui Lung, Xiaoyu Yu, **Thomas Van Hoey**, Bingzi Yu & Youngah Do. 
@@ -154,35 +181,43 @@ Sze, Samuel Sui Lung, Xiaoyu Yu, **Thomas Van Hoey**, Bingzi Yu & Youngah Do.
 Bilinguals’ advantages in executive function: Learning phonotactics and alternation.
 *Second Language Research*. 1-30.
 [doi: 10.1177/02676583251327097](https://journals.sagepub.com/doi/10.1177/02676583251327097)
-
+\iconset{ \faChartLine \, \faPenNib }
 
 <!-- full reference complete -->
 
 (@)
 Yu, Xiaoyu, **Thomas Van Hoey**, Frank Lihui Tan, Baichen Du & Youngah Do. 2024. Tracking phonological regularities: Exploring the influence of learning mode and regularity locus in adult phonological learning.  *Linguistics Vanguard* 10(1). 93-104. [doi: 10.1515/lingvan-2023-0050](https://doi.org/10.1515/lingvan-2023-0050)
+\iconset{ \faLightbulb \, \faClipboardList \, \faChartLine \, \faPenNib  }
 
 (@)
 **Thomas Van Hoey**, Xiaoyu Yu, Tungle Pan & Youngah Do. 2024. What ratings and corpus data reveal about the vividness of Mandarin ABB words. *Language and Cognition* 16(4). 1674-1696. [doi: 10.1017/langcog.2024.22](https://doi.org/10.1017/langcog.2024.22)
+\iconset{ \faLightbulb \, \faClipboardList \,  \faChartLine \,  \faPenNib  }
 
 (@)
 **Van Hoey, Thomas**, Arthur Lewis Thompson,  Youngah Do & Mark Dingemanse. 2023. Iconicity in ideophones: Guessing, memorizing, and reassessing. *Cognitive Science* e13268. 1-27. [doi: 10.1111/cogs.13268](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.13268)
+\iconset{ \faLightbulb \, \faClipboardList \,  \faChartLine \,  \faPenNib }
 
 (@)
-**Van Hoey, Thomas**. 2023. ABB, a salient prototype of collocate-ideophone constructions in Mandarin Chinese. *Cognitive Linguistics* 34(1). 133-163. [doi: 10.1515/cog-2022-0031](https://doi.org/10.1515/cog-2022-0031) 
+**Van Hoey, Thomas**. 2023. ABB, a salient prototype of collocate-ideophone constructions in Mandarin Chinese. *Cognitive Linguistics* 34(1). 133-163. [doi: 10.1515/cog-2022-0031](https://doi.org/10.1515/cog-2022-0031)
+\iconset{  \faUserCheck \, \faAt }
 
 (@)
 **Van Hoey, Thomas**. 2022. The blending of bending: How we engage with the World of *Avatar: The Last Airbender* through memes. *Metaphor and Symbol* 37(3). 185–207. [doi: 10.1080/10926488.2021.1973868](https://doi.org/10.1080/10926488.2021.1973868)
+\iconset{  \faUserCheck \, \faAt }
 
 (@)
 Thompson, Arthur Lewis, **Thomas Van Hoey** & Youngah Do. 2021. Articulatory features of phonemes pattern to iconic meanings: Evidence from cross-linguistic ideophones. *Cognitive Linguistics* 32(4). 563-608. \* [doi: 10.1515/cog-2020-0055](https://10.1515/cog-2020-0055)
 \*Editor's choice for this issue
+\iconset{   \faChartLine \, \faPenNib  }
 
 
 (@)
 **Van Hoey, Thomas** & Arthur Lewis Thompson. 2020. The Chinese Ideophone Database (CHIDEOD). *Cahiers de Linguistique Asie Orientale* 49(2). 136–167. [doi: 10.1163/19606028-bja10006](https://doi.org/10.1163/19606028-bja10006)
+\iconset{ \faLightbulb \, \faClipboardList \, \faChartLine  \, \faPenNib \,  \faAt }
 
 (@)
 **Van Hoey, Thomas**. 2018. Does the thunder roll? Mandarin Chinese meteorological expressions and their iconicity. *Cognitive Semantics* 4(2). 230-259. [doi: 10.1163/23526416-00402003](https://doi.org/10.1163/23526416-00402003)
+\iconset{  \faUserCheck \, \faAt }
 
 <!-- ## Non-refereed articles -->
 
@@ -194,16 +229,20 @@ Thompson, Arthur Lewis, **Thomas Van Hoey** & Youngah Do. 2021. Articulatory fea
 Szmrecsanyi, Benedikt, Matt Hunt Gardner, Ruiming Ma & **Thomas Van Hoey**. 
 *accepted*.
 Empirical accountability meets theorizing about language variation. in Cukor-Avila, Patrica, Sali A. Tagliamonte & Guy Bailey (eds.) *Empirical accountability in variation linguistics: Taking the next step*. Cambridge University Press. 
+\iconset{ \faLightbulb \, \faClipboardList \,  \faChartLine \,  \faPenNib \,  \faUserCheck \, \faAt }
 
 
 (@)
 **Van Hoey, Thomas**. 2024. Onomatopoeia in Mandarin Chinese. In Lívia Körtvélyessy & Pavol Štekauer (eds.), Onomatopoeia in the world’s languages: A comparative handbook (Comparative Handbooks of Linguistics 10), 563–575. Berlin: Mouton de Gruyter. [doi:10.1515/9783111053226-047](https://doi.org/10.1515/9783111053226-047).
+\iconset{ \faUserCheck \, \faAt }
 
 (@)
 **Van Hoey, Thomas**. 2024. A semantic map for ideophones. In Thomas Fuyin Li (ed.), Handbook of Cognitive Semantics: Vol 2, 129–175. Leiden: Brill. [preprint doi: 10.31219/osf.io/muhpd](https://osf.io/muhpd/))
+\iconset{  \faUserCheck \, \faAt }
 
 (@)
 **Van Hoey, Thomas** \& Chiarung Lu. 2019. Lexical variation of ideophones in Chinese classics: Their implications in embodiment and migration. In Janice Fon (ed.), *Dimensions of diffusion and diversity*, 195–226. (Cognitive Linguistics Research 63). Berlin; Boston: De Gruyter Mouton. [doi: 10.1515/9783110610895](https://doi.org/10.1515/9783110610895)
+\iconset{ \faLightbulb \, \faClipboardList \,  \faChartLine \,  \faPenNib \, \faAt }
 
 
 ## Publications under review
@@ -211,19 +250,23 @@ Empirical accountability meets theorizing about language variation. in Cukor-Avi
 (@)
 Yu, Xiaoyu, Bingzi Yu, **Thomas Van Hoey**, Samuel Sui Lung Sze, Frank Lihui Tan, Tak Wang Li & Youngah Do. Phonetic substance reshapes phonological variation in language acquisition and language contact. 
 <!-- Language Variation and Change -->
+\iconset{   \faChartLine \,  \faPenNib }
 
 (@) **Van Hoey, Thomas**, Matt. H. Gardner, Ruiming Ma & Benedikt Szmrecsanyi.
 Grammatical variation does not trigger production difficulties, regardless of predicted probabilities.
 <!-- Language Variation and Change. -->
+\iconset{ \faLightbulb \,   \faChartLine \,  \faPenNib \,   \faAt }
 
 (@)
 **Van Hoey, Thomas**. Sound and lexical semantics. *Cambridge handbook of lexical semantics* (eds. Dirk Geeraerts & Dylan Glynn)
+\iconset{   \faUserCheck \, \faAt }
 
 
 ## Publications in preparation
 
 (@)
 **Van Hoey, Thomas**, Dan Dewey, Youngah Do. fNIR study on ideophone usage in Mandarin speakers.
+\iconset{ \faLightbulb \, \faClipboardList \,  \faChartLine \,  \faPenNib \,  }
 
 
 
@@ -238,10 +281,12 @@ Grammatical variation does not trigger production difficulties, regardless of pr
 PhD thesis Linguistics (grade: A+) \hfill 2020 \newline
 *Prototypicality and salience of Chinese ideophones: A cognitive and corpus linguistics approach* \newline
 漢語擬聲(態)詞的原型與顯著特徵：以認知與語料庫語言學方法探討
+\iconset{  \faUserCheck \, \faAt }
 
 (@)
 MA thesis Linguistics (grade: 17.4/20)\hfill 2015 \newline
 *Ideophones in Middle Chinese: A typological study of a Tang dynasty poetic corpus* 
+\iconset{   \faUserCheck \, \faAt }
 
 <!-- >Based on a corpus of Middle Chinese poetry, I identified a set of mimetic words in Middle Chinese. I worked on an analysis of their morphological, phonological, syntactic and semantic properties, against a typological background. -->
 
@@ -249,13 +294,15 @@ MA thesis Linguistics (grade: 17.4/20)\hfill 2015 \newline
 MA thesis Sinology (grade: 18.6/20)\hfill 2014 \newline
 *The *Guwen yundong 古文运动 *(Classical Prose Movement) during Tang and Song:* \newline
 *Ideological as well as Stylistic Innovation?*
+\iconset{  \faUserCheck \, \faAt }
 
 <!-- >Using quantitative analyses (dendrograms, PCA, cluster analysis), I verified which authors were stylistically part of the Classical Prose Movement. This movement promoted an older style (used some four centuries or more earlier), condemning the formal style of the contemporary popular parallel prose. Unlike theoretical research hitherto suggested, my analysis shows that only a few authors formed the core of the movement. The presence of these authors fits nicely into the dominant framework of the emergence of Neo-Confucianism in the Song dynasty (10th-13th cent.). -->
 
 ## Resources and data sets
 
 (@)
-**Van Hoey, Thomas** & Arthur Lewis Thompson. 2019. The Chinese ideophone database (CHIDEOD). CHIDEOD is accessible in .xlsx, .csv, .rds formats (doi: [10.17605/OSF.IO/KPWGF](https://osf.io/kpwgf/)), as well as through a [Shiny app interface](https://simazhi.shinyapps.io/chideod_appversion/).
+**Van Hoey, Thomas**. 2019. The Chinese ideophone database (CHIDEOD). CHIDEOD is accessible in .xlsx, .csv, .rds formats (doi: [10.17605/OSF.IO/KPWGF](https://osf.io/kpwgf/)), as well as through a [Shiny app interface](https://simazhi.shinyapps.io/chideod_appversion/).
+\iconset{ \faLightbulb \, \faClipboardList \,  \faChartLine \,  \faPenNib \, \faAt }
 
 
 # Conferences
@@ -288,7 +335,7 @@ MA thesis Sinology (grade: 18.6/20)\hfill 2014 \newline
 ## Invited summer school courses
 
 (@)
-**Van Hoey, Thomas**. *Exploratory data analysis: From start to report*. 2024. LOT summer school. Amersterdam: University of Amsterdam. (5 times 2 hours).
+**Van Hoey, Thomas**. *Exploratory data analysis: From start to report*. 2024. LOT summer school. Leiden: University of Leiden (5 times 2 hours).
 
 ## Conference presentations (oral)
 
@@ -485,6 +532,8 @@ Van de Velde, Freek & Dirk Pijpops, in collaboration with Mathias De Backer, Wen
 # Teaching
 
 \begin{tabular}{p{1.9cm}p{9cm}p{3cm}}
+2025 & Intro to Linguistics 2 (Algemene taalwetenschap 2) (F0AA4A) & KU Leuven \\
+2025 & Intro to Linguistics 1 (Algemene taalwetenschap 1) (F0AA3A) & KU Leuven \\
 2024 & Intro to Linguistics 1 (Algemene taalwetenschap 1) (F0AA3A) & KU Leuven \\
 2024 & Language Varieties and Language Variants (F0VH3A) & KU Leuven \\
 2024 & Introduction to Cognitive Linguistics (LING 7011) & HKU \\
@@ -501,7 +550,8 @@ Van de Velde, Freek & Dirk Pijpops, in collaboration with Mathias De Backer, Wen
 ```{r, echo=FALSE}
 phd_supervision_table <-
   tribble(~ year, ~ name, ~ title, ~ university,
-          "2023-...",   "Ma, Ruiming", "Does grammatical optionality complicate speech production and comprehension? The case of Mandarin Chinese (3H240027)", "KU Leuven"
+          "2024-2028",   "Ma, Ruiming", "Does grammatical optionality complicate speech production and comprehension? The case of Mandarin Chinese (3H240027)", "KU Leuven",
+          "2024-2028",   "Huang, Fen", "Does grammatical optionality interfere with language production and comprehension? An experimental study (3H240370)", "KU Leuven"
           
           )
 
@@ -566,6 +616,7 @@ phd_committee_table %>%
 ```{r, echo=FALSE}
 supervision_table <-
   tribble(~ year, ~ name, ~ title, ~ university,
+          "2025",   "Liu, Ya-Ping", "Reevaluating Mandarin tone arbitrariness: Insights from Chinese polyphones and audio analysis", "KU Leuven",
           "2024",   "Liu, Yixi", "Do variation contexts attract disfluencies? The case of discourse markers", "KU Leuven",
           "2024",   "Gerets, Nan", "Exploring language and identity in the Chinese lesbian and non-binary digital sphere", "KU Leuven",
           "2024", "Han, Zhen", "A corpus-based study on two near-synonymous verbs in academic journals: \\textit{Explore} and \\textit{investigate}", "HKU",
@@ -644,6 +695,7 @@ president (since 2023)
 
 ## Reviewing for journals
 
+* *Academic Journal of Modern Philology*
 * *Behavior Research Methods*
 * *British Journal of Psychology*
 * *Canadian Journal of Linguistics / Revue canadienne de linguistique*
@@ -655,6 +707,7 @@ president (since 2023)
 * *Folia Linguistica*
 * *Frontiers*
 * *Glossa*
+* *Journal of Estonian and Finno-Ugric Linguistics*
 * *Journal of Experimental Psychology: Learning, Memory, and Cognition*
 * *Journal of Experimental Psychology: Human Perception and Performance*
 * *Handbook of Cognitive Semantics*
@@ -664,10 +717,12 @@ president (since 2023)
 * *Language Sciences*
 * *Linguistics Vanguard*
 * *Mapping China Journal*
+* *Open Linguistics*
 * *PLoS*
 * *Psychonomic Bulletin & Review*
 * *Quarterly Journal of Experimental Psychology*
 * *Review of Cognitive Linguistics*
+* *SKASE Journal of Theoretical Linguistics*
 * *Studies in Language*
 * *Typology at the Crossroads*
 

@@ -9,7 +9,7 @@
 <link>https://thomasvanhoey.com/projects.html</link>
 <atom:link href="https://thomasvanhoey.com/projects.xml" rel="self" type="application/rss+xml"/>
 <description>This is Thomas Van Hoey&#39;s personal website.</description>
-<generator>quarto-1.5.57</generator>
+<generator>quarto-1.7.34</generator>
 <lastBuildDate>Thu, 31 Oct 2024 23:00:00 GMT</lastBuildDate>
 <item>
   <title>Borrowing iconic words: Loss, transfer, and reinvention of depiction</title>
@@ -44,11 +44,21 @@
 </section>
 <section id="outputs" class="level1">
 <h1>Outputs</h1>
-<p>The project is currently being carried out.</p>
+<section id="repository" class="level2">
+<h2 class="anchored" data-anchor-id="repository">Repository</h2>
+<p>The <i class="ai  ai-osf"></i> OSF repository associated with this project can be found at <a href="https://osf.io/zrq56/">https://osf.io/zrq56/</a>.</p>
+</section>
+<section id="conferences" class="level2">
+<h2 class="anchored" data-anchor-id="conferences">Conferences</h2>
+<ul>
+<li><em>Iconic lexicons: What’s actually depicted in them?</em> at SLE 58 (Université Bordeaux Montaigne) | <i class="ai  ai-osf"></i> <a href="https://osf.io/8gpb5">OSF slides</a></li>
+</ul>
+</section>
 </section>
 <section id="want-to-contribute" class="level1">
 <h1>Want to contribute?</h1>
 <p>Please contact met at thomas[DOT]vanhoey[AT]kuleuven[DOT]be</p>
+<p><em>Guidelines will follow soon!</em></p>
 </section>
 <section id="basic-info" class="level1">
 <h1>Basic info</h1>

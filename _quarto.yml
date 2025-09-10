@@ -9,11 +9,11 @@ website:
     right:
       - text: Research projects
         href: projects.qmd
-   #     menu: 
-   #       - text: (2024-2027) Borrowing iconic words 
-   #         href: projects/borrowing_iconic_words/index.html
-   #       - text: (2024-2025) Breaking down and rebuilding iconicity
-   #         href: projects/breaking_down_rebuilding_iconicity/index.html     
+        menu: 
+          - text: (2024-2027) Borrowing iconic words 
+            href: projects/borrowing_iconic_words/index.html
+          - text: (2024-2025) Breaking down and rebuilding iconicity
+            href: projects/breaking_down_rebuilding_iconicity/index.html     
    #       - text: (2023-2024) Grammatical alternation and relative complexity 
    #         href: projects/grammatical_alternation_complexity/index.html
    #       - text: (2021-2022) Transmitting ideophones 

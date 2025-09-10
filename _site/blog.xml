@@ -9,7 +9,7 @@
 <link>https://thomasvanhoey.com/blog.html</link>
 <atom:link href="https://thomasvanhoey.com/blog.xml" rel="self" type="application/rss+xml"/>
 <description>This is Thomas Van Hoey&#39;s personal website.</description>
-<generator>quarto-1.7.32</generator>
+<generator>quarto-1.7.34</generator>
 <lastBuildDate>Wed, 06 Aug 2025 22:00:00 GMT</lastBuildDate>
 <item>
   <title>Oft-used pdf manipulations with the command line</title>

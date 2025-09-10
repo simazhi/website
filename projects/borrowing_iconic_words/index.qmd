@@ -38,13 +38,23 @@ I obtained this project as a senior postdoctoral fellow of the [FWO](https://fwo
 
 # Outputs
 
-The project is currently being carried out.
+## Repository
+
+The {{< ai osf >}} OSF repository associated with this project can be found at [https://osf.io/zrq56/](https://osf.io/zrq56/).
+
+
+## Conferences
+
+* *Iconic lexicons: What's actually depicted in them?* at SLE 58 (Université Bordeaux Montaigne) | {{< ai osf >}} [OSF slides](https://osf.io/8gpb5)
+
+
+
 
 # Want to contribute?
 
 Please contact met at thomas[DOT]vanhoey[AT]kuleuven[DOT]be
 
-
+*Guidelines will follow soon!*
 
 
 # Basic info
