@@ -1,0 +1,308 @@
+---
+title: "Sunsets, spreadsheets, and languishing leaves"
+author: "Thomas Van Hoey"
+description: "Conference season 2025"
+date: "2025-11-12"
+categories: ["conference", "depicticon", "ideophone"]
+execute:
+  freeze: auto
+  eval: false 
+image: picture.png
+---
+
+![](picture.png)
+
+What an incredibly research-active summer it has been. 
+And thus far also a pretty intense fall.
+
+Here I am giving a brief summary of my research trips to Taiwan, Hong Kong, and the three conferences I attended in Slovakia, France, and Spain.
+I'll give a short update of my project as well and what has kept me busy the past few months.
+
+# Invited talk in Taiwan (June 2025)
+
+I was fortunate to return to National Taiwan University, my Alma Mater, to meet up with my former supervisor Chiarung Lu, some old friends and classmates, and the newer cohorts of graduate students.
+That always starts with good food (and very often also ends with good food).
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/86097314@N03/54639115753/in/album-72177720330294139" title="Untitled"><img src="https://live.staticflickr.com/65535/54639115753_72404d1668_c.jpg" width="800" height="600" alt="Untitled"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Dinner with the NTU GIL professors.
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/86097314@N03/54639128633/in/album-72177720330294139" title="Untitled"><img src="https://live.staticflickr.com/65535/54639128633_994d460d01_c.jpg" width="800" height="600" alt="Untitled"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Lunch with Iju Hsu.
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/86097314@N03/54639108044/in/album-72177720330294139/" title="Untitled"><img src="https://live.staticflickr.com/65535/54639108044_2cdc2ed235_c.jpg" width="800" height="600" alt="Untitled"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Friends from the Summer+ programme I attended at NTU in 2014!
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/86097314@N03/54638021417/in/album-72177720330294139/" title="Untitled"><img src="https://live.staticflickr.com/65535/54638021417_29508b0191_c.jpg" width="800" height="600" alt="Untitled"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+A drink with Powei Li.
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/86097314@N03/54639188915/in/album-72177720330294139/" title="Untitled"><img src="https://live.staticflickr.com/65535/54639188915_d6ebb62c0e_c.jpg" width="600" height="800" alt="Untitled"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Visiting a scenic village with A-Sheng, my cohort's most dependable friend.
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/86097314@N03/54639094904/in/album-72177720330294139/" title="Untitled"><img src="https://live.staticflickr.com/65535/54639094904_cde6e81c57_c.jpg" width="800" height="600" alt="Untitled"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+A goodbye karaoke with CJ Young.
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/86097314@N03/54639096454/in/album-72177720330294139/" title="Untitled"><img src="https://live.staticflickr.com/65535/54639096454_1fddff2511_c.jpg" width="800" height="600" alt="Untitled"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Streetfood in Taipei.
+
+The main reason I wanted to go back to Taiwan was to attend the 30th anniversary of the [Graduate Institute of Linguistics at National Taiwan University](https://linguistics.ntu.edu.tw/), where I did my PhD.
+It was really great to see again all my fellow students, but also GIL'ers past and present.
+Can you spot me in the pictures below?
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/86097314@N03/54639128753/in/album-72177720330294139/" title="Untitled"><img src="https://live.staticflickr.com/65535/54639128753_16c3b1b2e3_c.jpg" width="800" height="533" alt="Untitled"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/86097314@N03/54638886921/in/album-72177720330294139/" title="Untitled"><img src="https://live.staticflickr.com/65535/54638886921_e43bb90208_c.jpg" width="800" height="602" alt="Untitled"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/86097314@N03/54639104024/in/album-72177720330294139/" title="Untitled"><img src="https://live.staticflickr.com/65535/54639104024_84b42b0524_c.jpg" width="800" height="600" alt="Untitled"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+I was also able to finally make a bucket list item come true, namely visiting the [Ju Ming 朱銘](https://en.wikipedia.org/wiki/Ju_Ming) (1938-2023) museum.
+Ju Ming was a Taiwanese artist who, to me at least, is mostly known for his Tai Chi series of stone sculptures.
+We had one in front the Lèxuéguǎn that used to house the [GIL.](https://linguistics.ntu.edu.tw/)
+Fun fact, I was attacked by a protected bird species, the [Taiwan blue magpie](https://en.wikipedia.org/wiki/Taiwan_blue_magpie), but don't worry: 
+I'm a survivor.
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/86097314@N03/54639190930/in/album-72177720330294139/" title="Untitled"><img src="https://live.staticflickr.com/65535/54639190930_4b554643b7_c.jpg" width="800" height="600" alt="Untitled"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/86097314@N03/54638876356/in/album-72177720330294139/" title="Untitled"><img src="https://live.staticflickr.com/65535/54638876356_5f9ac1054e_c.jpg" width="800" height="600" alt="Untitled"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Finally, I also delivered a talk here, on the "Empirical accountability meets theorizing about language variation: The Principle of Optionality." 
+This is part of a research project that I was actively working on with Benedikt Szmrecsanyi at KU Leuven.
+Basically, we keep finding that grammatical optionality (of the type *I gave the glass to you* vs. *I gave you the glass*) do not lead to more filled pauses or unfilled pauses, that is, things like *uh* and *um* or speech planning time. 
+This is somewhat problematic for stubborn interpretations in theoretical linguistics, that have an idea of isomorphism baked into their foundations as a some sort of holy principle.
+Conversely, in actual language production, you know the thing we can observe, such grammatical optionality is not a problem.
+So the conclusion this points to is that there is at least a counter principle, namely a Principle of Optionality, that provides a number of benefits for developing and keeping around more than one way to express the same meaning. 
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/86097314@N03/54919060456/in/album-72177720330294139" title="download"><img src="https://live.staticflickr.com/65535/54919060456_c582e0733f_c.jpg" width="800" height="602" alt="download"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+# Invited talk in Hong Kong (June 2025)
+
+Next stop, Hong Kong.
+
+Here too, it was great to meet up with all the friends and ex-colleagues that made the two years I spent there worth [the initial three-week covid ~lock-up~ quarantine](https://www.thomasvanhoey.com/posts/2021-05-13-bird-set-free/). 
+I look back at my time at the University of Hong Kong with bittersweet feelings, for a number of reasons.
+But focusing on the sweet aspect, forging a new network of friends and like-minded linguists (or academics in general) reverberates until now even. 
+
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/86097314@N03/54639205625/in/album-72177720330294139" title="Untitled"><img src="https://live.staticflickr.com/65535/54639205625_cbb90a8258_c.jpg" width="800" height="600" alt="Untitled"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+Lunch with the Language Development Lab.
+
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/86097314@N03/54639133068/in/album-72177720330294139/" title=" "><img src="https://live.staticflickr.com/65535/54639133068_a60543b888_c.jpg" width="800" height="600" alt=" "/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+After the talk I gave at HKU, with my friend Stephen Matthews.
+
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/86097314@N03/54639206785/in/album-72177720330294139/" title=" "><img src="https://live.staticflickr.com/65535/54639206785_ee6016c430_c.jpg" width="800" height="600" alt=" "/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+My friends Aaron Chik and (by now) Dr. Rayne Yu!
+
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/86097314@N03/54639113169/in/album-72177720330294139/" title=" "><img src="https://live.staticflickr.com/65535/54639113169_f954143d40_c.jpg" width="800" height="600" alt=" "/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+Dr. Sevilla
+
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/86097314@N03/54638891636/in/album-72177720330294139/" title=" "><img src="https://live.staticflickr.com/65535/54638891636_3f3da8e0cc_c.jpg" width="800" height="600" alt=" "/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+My barber Anson
+
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/86097314@N03/54639113614/in/album-72177720330294139/" title=" "><img src="https://live.staticflickr.com/65535/54639113614_48c844c004_c.jpg" width="800" height="600" alt=" "/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+And of course Dr. Do! (Okay okay, Youngah and I are on a first-name basis 🤣)
+
+I went back to Lamma Island, where I used to live.
+And somehow, I ended up at a friday quiz night!
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/86097314@N03/54638037237/in/album-72177720330294139/" title=" "><img src="https://live.staticflickr.com/65535/54638037237_6905b94ff6_c.jpg" width="800" height="600" alt=" "/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/86097314@N03/54639135573/in/album-72177720330294139/" title=" "><img src="https://live.staticflickr.com/65535/54639135573_64d4ba4471_c.jpg" width="800" height="600" alt=" "/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+On the last day I enjoyed some beers with (soon to be) Dr. Hwang and (currently) Dr. Yu, whom I also gave some Belgian chocolate:
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/86097314@N03/54639137903/in/album-72177720330294139/" title=" "><img src="https://live.staticflickr.com/65535/54639137903_cedbf7fde0_c.jpg" width="800" height="600" alt=" "/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/86097314@N03/54638039842/in/album-72177720330294139/" title=" "><img src="https://live.staticflickr.com/65535/54638039842_c32722b786_c.jpg" width="800" height="600" alt=" "/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Just to say that the network I built there was still alive and kicking. 
+I have missed the people I met in Taiwan and Hong Kong a lot in the past few years, but I am also sure that our paths will keep crossing.
+
+# Conference in Košice, Slovakia (June 2025)
+
+As you might surmise, June was a pretty busy month.
+It ended with [the Word-Formation Theories VII & Typology and Universals in Word-Formation VI](https://www.upjs.sk/en/podujatia/conference-word-formation-theories-vii-typology-and-universals-in-word-formation-vi/), where we had a lovely workshop on sound symbolism.
+The workshop was largely organized by Lívia Körtyelvessy (and Pius Akumbu!), who also recently was part of the editors for the [*Onomatopoeia in the world's languages*](https://www.amazon.com/Onomatopoeia-Worlds-Languages-Comparative-Linguistics/dp/3111051552).
+I was fortunate enough to be invited to write the chapter on Mandarin in this handbook.
+But even more fortunate to keep on working with Lívia on a second project (that I did together with my student Ruiming Ma) and currently I'm organising a workshop on typology of sound symbolism and ideophones for next year's SLE. 
+You're coming too, right?
+
+Here are some pics from the workshop.
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/86097314@N03/54638902311/in/album-72177720330294139" title="Untitled"><img src="https://live.staticflickr.com/65535/54638902311_1ba6466814_c.jpg" width="800" height="600" alt="Untitled"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/86097314@N03/54638902701/in/album-72177720330294139/" title=" "><img src="https://live.staticflickr.com/65535/54638902701_23a960b793_c.jpg" width="800" height="600" alt=" "/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/86097314@N03/54639125469/in/album-72177720330294139/" title=" "><img src="https://live.staticflickr.com/65535/54639125469_90de50b8ee_c.jpg" width="800" height="600" alt=" "/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/86097314@N03/54639146278/in/album-72177720330294139/" title=" "><img src="https://live.staticflickr.com/65535/54639146278_883b546337_c.jpg" width="800" height="600" alt=" "/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/86097314@N03/54638048797/in/album-72177720330294139/" title=" "><img src="https://live.staticflickr.com/65535/54638048797_73b47f3ef0_c.jpg" width="800" height="600" alt=" "/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+# Sunsets and spreadsheets
+
+During the summer, I worked quite hard on my FWO project and managed to identify a gap in the literature that has been occupying me for quite a while.
+I hadn't really foreseen it in my grant application but I do have the "academic gut feeling" that this is something that's needed in the field, so I'm working on that.
+But I'm only teasing it here because it's still very much work in progress.
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/86097314@N03/54778312183/in/album-72177720330294139/" title=" "><img src="https://live.staticflickr.com/65535/54778312183_59724ed13d_c.jpg" width="600" height="800" alt=" "/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+So instead, I'll give you a few photos of fun events during the summer, without context.
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/86097314@N03/54836549924/in/album-72177720330294139/" title=" "><img src="https://live.staticflickr.com/65535/54836549924_fa3f84ddc0_c.jpg" width="581" height="800" alt=" "/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/86097314@N03/54778077386/in/album-72177720330294139" title="Untitled"><img src="https://live.staticflickr.com/65535/54778077386_b4758c6e6e_c.jpg" width="800" height="600" alt="Untitled"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/86097314@N03/54778078161/in/album-72177720330294139/" title=" "><img src="https://live.staticflickr.com/65535/54778078161_a8293f952a_c.jpg" width="800" height="600" alt=" "/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/86097314@N03/54836564398/in/album-72177720330294139/" title=" "><img src="https://live.staticflickr.com/65535/54836564398_03ef14b61a_c.jpg" width="800" height="600" alt=" "/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/86097314@N03/54778313698/in/album-72177720330294139/" title=" "><img src="https://live.staticflickr.com/65535/54778313698_fc0334e303_c.jpg" width="800" height="600" alt=" "/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/86097314@N03/54835456077/in/album-72177720330294139/" title=" "><img src="https://live.staticflickr.com/65535/54835456077_2ed059c607_c.jpg" width="800" height="600" alt=" "/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/86097314@N03/54778105636/in/album-72177720330294139/" title=" "><img src="https://live.staticflickr.com/65535/54778105636_078b9a15bb_c.jpg" width="600" height="800" alt=" "/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/86097314@N03/54778125721/in/album-72177720330294139/" title=" "><img src="https://live.staticflickr.com/65535/54778125721_fb32b2b223_c.jpg" width="600" height="800" alt=" "/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+# Conference in Bordeaux, France (August 2025)
+
+The next big event in our tale is the SLE 2025 conference in Bordeaux.
+Here I attended two very interesting workshops.
+
+(1) A workshop on the Principles of Isomorophism and Optionality, organized by Cameron Morin and Benoît Leclerq. 
+We basically got to defend and later befriend the other camp (the organizers).
+It was really great to see some colleagues present in this workshop, such as (soon to be Dr.) Chiara Paolini, and my PhD student Ruiming Ma.
+It's really great to see how much they have grown in the past few years.
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/86097314@N03/54837171712/in/album-72177720330294139" title="Untitled"><img src="https://live.staticflickr.com/65535/54837171712_5d4f788791_c.jpg" width="800" height="600" alt="Untitled"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/86097314@N03/54838038221/in/album-72177720330294139/" title=" "><img src="https://live.staticflickr.com/65535/54838038221_daf5d564a8_c.jpg" width="800" height="600" alt=" "/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/86097314@N03/54837171982/in/album-72177720330294139/" title=" "><img src="https://live.staticflickr.com/65535/54837171982_11a52a323e_c.jpg" width="800" height="600" alt=" "/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+(2) But of course, my "main dish" was the workshop on iconicity, organized by Maria Flaksman and Chris Smith.
+Here I got to present for the first time my [current FWO project](https://www.thomasvanhoey.com/projects/borrowing_iconic_words/) in which I look at universal and borrowable patterns of iconic words in a sample of the world's languages.
+All exciting stuff, keep an eye out for more.
+It's also where the image in the header of this update comes from.
+Basically, I was able to plot the iconic lexicons of two languages (Japanese and Kichwa / Quechua) in terms of semantic features. 
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/86097314@N03/54778081626/in/album-72177720330294139" title="Untitled"><img src="https://live.staticflickr.com/65535/54778081626_404f42bc94_c.jpg" width="800" height="600" alt="Untitled"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+But again, your own work is only half the story at a conference.
+Getting to (re)connect and watch colleagues, friends, linguists in action, that's what really makes it worth going there.
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/86097314@N03/54838040716/in/album-72177720330294139/" title="Untitled"><img src="https://live.staticflickr.com/65535/54838040716_1e518bf591_c.jpg" width="800" height="600" alt="Untitled"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+Like, here is Dr. Ellison Luk in action (together with Dr. Dana Louagie):
+
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/86097314@N03/54838270254/in/album-72177720330294139/" title="Untitled"><img src="https://live.staticflickr.com/65535/54838270254_17ccdf117a_c.jpg" width="600" height="800" alt="Untitled"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+Or there's a whole Taiwan crew (with Ian Joo and Shengfu Wang a.o.)
+
+And some selfies with colleagues that I keep bumping into, such as Veronika Zikmundova and Pius Akumbu:
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/86097314@N03/54838365490/in/album-72177720330294139/" title="Untitled"><img src="https://live.staticflickr.com/65535/54838365490_20f694d0d0_c.jpg" width="800" height="600" alt="Untitled"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/86097314@N03/54838286878/in/album-72177720330294139/" title="Untitled"><img src="https://live.staticflickr.com/65535/54838286878_74174f8205_c.jpg" width="800" height="600" alt="Untitled"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+And sometimes it's also just to share bad presentations or, when that doesn't work, go to the beach:
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/86097314@N03/54838286918/in/album-72177720330294139" title="Untitled"><img src="https://live.staticflickr.com/65535/54838286918_29d28aa922_c.jpg" width="800" height="600" alt="Untitled"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/86097314@N03/54838271304/in/album-72177720330294139/" title="Untitled"><img src="https://live.staticflickr.com/65535/54838271304_2753c58cfe_c.jpg" width="800" height="600" alt="Untitled"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+But, should there be a junior researcher reading this, it often pays off to go to events like the conference dinner (this one was very bad) or the other social event stuff (receptions etc.). 
+You might meet people that went to the same place on the same day "but how come we didn't run into each other" like what happend to Dr. Niklas Erben Johansen and Prof. Aleksandra Bageshova.
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/86097314@N03/54838362595/in/album-72177720330294139" title="Untitled"><img src="https://live.staticflickr.com/65535/54838362595_0c32cd1340_c.jpg" width="600" height="800" alt="Untitled"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Or meet HKU people like Dr. Hing Yuet Fung.
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/86097314@N03/54838038601/in/album-72177720330294139/" title="Untitled"><img src="https://live.staticflickr.com/65535/54838038601_6ee9594aff_c.jpg" width="800" height="600" alt="Untitled"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Or indavertedly end up being dressed as the French flag (with Anthe Sevenants and Alexander Van Herpe):
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/86097314@N03/54838284048/in/album-72177720330294139/" title="Untitled"><img src="https://live.staticflickr.com/65535/54838284048_4270b7ef28_c.jpg" width="800" height="600" alt="Untitled"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+# Conference: Santiago de Compostela (September 2025)
+
+The final conference of this year's conference season was the isLE conference, which is all about English linguistics.
+You know, I'm somewhat of an Anglicist myself, if not in training, then certainly in occupation.
+Here I was involved in two presentations again.
+
+(1) Together with Benedikt Szmrecsanyi (and Ruiming Ma, and Matt H. Gardner), we spread the word on the non-attraction of (un)filled pauses by grammatical optionality here as well. 
+I can say that while the reception at SLE was courteous, it was also cautious from some people in the workshop.
+Very different story here in Compostela: most people at isLE actively love the work we've been doing, one of them being one of the keynotes, Alexandra D'Arcy.
+I found it very encouraging and am sure we can keep on investigating these things in the future.
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/86097314@N03/54838411939/in/album-72177720330294139" title="Untitled"><img src="https://live.staticflickr.com/65535/54838411939_323a7a5dda_c.jpg" width="800" height="600" alt="Untitled"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+I didn't want to deny you guys this rather nice picture of Benedikt and myself:
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/86097314@N03/54838412219/in/album-72177720330294139/" title=" "><img src="https://live.staticflickr.com/65535/54838412219_543c9319bf_c.jpg" width="800" height="600" alt=" "/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+(2) Part of the fun but unforeseen past reverberations of conferences has been my work with modality specialist Dr. Alessandro Basile.
+Together, we've been working on quantifying some of the evolutions of modality markers in Singaporean English. 
+Here, Alessandro did the hard work of presenting our work (the first picture is staged).
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/86097314@N03/54837248192/in/album-72177720330294139" title=" "><img src="https://live.staticflickr.com/65535/54837248192_14438db225_c.jpg" width="800" height="600" alt=" "/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/86097314@N03/54838342509/in/album-72177720330294139/" title=" "><img src="https://live.staticflickr.com/65535/54838342509_a29cdf0079_c.jpg" width="800" height="600" alt=" "/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+But the same as before, the dinner is often where bonds are forged. I was very lucky to be at a great table with some lovely linguists from Bamberg, Osnabrück, but also two KU Leuven colleagues, Juliette Kayenbergh and Hilke Ceuppens. 
+I found both of their presentations really interesting and so I'm looking forward to see how their research develops in the next few years.
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/86097314@N03/54838183091/in/album-72177720330294139/" title=" "><img src="https://live.staticflickr.com/65535/54838183091_c6a6a0a8ce_c.jpg" width="800" height="600" alt=" "/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Finally, Santiago de Compostela was perhaps the most scenic city I got to visit in this conference round.
+We even got to go on the rooftop of the cathedral!!
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/86097314@N03/54838429578/in/album-72177720330294139" title=" "><img src="https://live.staticflickr.com/65535/54838429578_24df9332d3_c.jpg" width="600" height="800" alt=" "/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+The hospedería I stayed at is right behind me:
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/86097314@N03/54838186351/in/album-72177720330294139/" title=" "><img src="https://live.staticflickr.com/65535/54838186351_5805642a01_c.jpg" width="600" height="800" alt=" "/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Finally, shoutout to Mathilde and Alessandro for taking me to eat Galician tapas (including the pulpo), which was delicioso.
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/86097314@N03/54838508595/in/album-72177720330294139" title=" "><img src="https://live.staticflickr.com/65535/54838508595_a57699b176_c.jpg" width="800" height="600" alt=" "/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+# Outro, languishing leaves
+
+What people don't always understand about this conference season, is that it's fun yes, but it's also *very* tiring. 
+You (well, I) are typically always active, you're sleeping less, you're engaged more (even though I did play my zombie game on my phone during boring presentations -- sometimes you walk in and after a minute you realize you made a mistake). 
+And to make it really work, you need to bring your A game, I wouldn't want to give my colleagues anything less nor expect anything less from them in return.
+
+In between those intense periods, there's a lot of boring work, full of spreadsheets and analysis, most of which will never see the light of day, all in the pursuit of knowledge.
+[I keep finding it hard to resist the pressure of the LLM](https://www.thomasvanhoey.com/posts/2025-05-26-can-t-spell-koolaid-without-ai/) apologists whose research now solely revolves around probing the nature of "what the LLM thinks" (it doesn't and it's numbers with a lettered face), but I must say that occasional use is okay, but always intentional and after first exhausting other options.
+
+Finally, to link the summer with this autumnal season in which I'm writing these words: after the summer I started preparing the classes I'm teaching this semester (first and second year intros to linguistics, colloquially known as ATW1 and ATW2 -- yes I have become *the* Dirk Geeraerts this year, at least I try channeling him from time to time too, even though the course content and concomitant style has shifted towards typology JC Verstraete style and semantics/pragmatics Tim VD Cruys style).
+I've also spent some time (unfortunately unfruitfully) preparing for a job application and a major next grant.
+Let's keep our fingers crossed for that one.
+And now it's back to the trenches of manuscript writing.
+I invoked that ACADEMIA IS WAR framing as a segue to this goodbye picture: Guérnica by Pablo Picasso.
+
+Until we read again!
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/86097314@N03/54837323452/in/album-72177720330294139" title="Untitled"><img src="https://live.staticflickr.com/65535/54837323452_9c76fed3ce_c.jpg" width="800" height="600" alt="Untitled"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+
+
+
+
+
+
+
+
+
+
