@@ -108,6 +108,7 @@ PI
 
 Co-I
 
+* \- "Bug-or-feature: Variation, optionality, and dysfluencies" (PI Benedikt Szmrcsanyi, Co-I Thomas Van Hoey) for FWO at KU Leuven (FWO G014926N) <!-- 270,820 EUR  -->
 * \- "Breaking down and rebuilding iconicity: machine learning verified by human learning" (PI Youngah Do, Co-I Harald Baayen, Co-I Christophe Coupé, Co-I Thomas Van Hoey) at HKU (GRF 17602723) <!-- 846,300 HKD -->
 
 Executed
@@ -716,6 +717,7 @@ president (since 2023)
 * *Language Learning*
 * *Language Sciences*
 * *Linguistics Vanguard*
+* *Nature: Scientific Data*
 * *Mapping China Journal*
 * *Open Linguistics*
 * *PLoS*

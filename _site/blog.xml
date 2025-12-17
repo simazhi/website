@@ -9,8 +9,59 @@
 <link>https://thomasvanhoey.com/blog.html</link>
 <atom:link href="https://thomasvanhoey.com/blog.xml" rel="self" type="application/rss+xml"/>
 <description>This is Thomas Van Hoey&#39;s personal website.</description>
-<generator>quarto-1.8.25</generator>
-<lastBuildDate>Tue, 11 Nov 2025 23:00:00 GMT</lastBuildDate>
+<generator>quarto-1.8.26</generator>
+<lastBuildDate>Tue, 16 Dec 2025 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Academia Wrapped 2025</title>
+  <dc:creator>Thomas Van Hoey</dc:creator>
+  <link>https://thomasvanhoey.com/posts/2025-12-17-academia-wrapped/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><img src="https://thomasvanhoey.com/posts/2025-12-17-academia-wrapped/picture.png" class="img-fluid"></p>
+<p>Every November (although I can’t shake the feeling it used to be in December), Spotify users around the world get a major throwback thursday moment: they get their Spotify Wrapped. In that grand tradition (and who knows, maybe we will all leave Spotify next year), here’s my Academia Wrapped 2025. As always, I’m half-joking. With that disclaimer, let’s have a look:</p>
+<p><img src="https://thomasvanhoey.com/posts/2025-12-17-academia-wrapped/1_cover.png" class="img-fluid"></p>
+<p>Geez, I didn’t know 154 unread papers was such a big deal. I just like collecting, okay?</p>
+<p><img src="https://thomasvanhoey.com/posts/2025-12-17-academia-wrapped/2_identity.png" class="img-fluid"></p>
+<p>This checks out.</p>
+<p><img src="https://thomasvanhoey.com/posts/2025-12-17-academia-wrapped/3_busy.png" class="img-fluid"></p>
+<p>Very grateful for obtaining this project. It continues our work, together with Matt Hunt Gardner (Queen Mary University of London). Linguistic variation is a really interesting area!</p>
+<p><img src="https://thomasvanhoey.com/posts/2025-12-17-academia-wrapped/4_library.png" class="img-fluid"></p>
+<p>Honestly, I love reviewing, because it gives me a sneek peak at the cool and edgy stuff that will be coming out.</p>
+<p><img src="https://thomasvanhoey.com/posts/2025-12-17-academia-wrapped/5_wrote.png" class="img-fluid"></p>
+<p>Fair enough.</p>
+<p><img src="https://thomasvanhoey.com/posts/2025-12-17-academia-wrapped/6_productivity.png" class="img-fluid"></p>
+<p>My best work ideas find me when I’m not at work.</p>
+<p><img src="https://thomasvanhoey.com/posts/2025-12-17-academia-wrapped/7_travel.png" class="img-fluid"></p>
+<p>Very grateful for all the interesting people I got to meet along the way! Let’s see each other again soon.</p>
+<p><img src="https://thomasvanhoey.com/posts/2025-12-17-academia-wrapped/8_teaching.png" class="img-fluid"></p>
+<p>Taking over the intro classes for general linguistics (both 1 and 2) has turned into a source of inspiration to keep motivating the next generation.</p>
+<p><img src="https://thomasvanhoey.com/posts/2025-12-17-academia-wrapped/9_spectrum.png" class="img-fluid"></p>
+<p>Putting the pieces together… I guess I do like a puzzle.</p>
+<p><img src="https://thomasvanhoey.com/posts/2025-12-17-academia-wrapped/10_sustain.png" class="img-fluid"></p>
+<p>What did I say?! I do like a puzzle. And lunch with the colleagues. It’s gonna be a hard few weeks during the Christmas break.</p>
+<p><img src="https://thomasvanhoey.com/posts/2025-12-17-academia-wrapped/11_final.png" class="img-fluid"></p>
+<p>Let’s. Fucking. Go.</p>
+<hr>
+<p>Hope you enjoyed reading.</p>
+<p>If you too make your own Academia Wrapped 2025 (or if you’re reading this later), I just made it in MS Powerpoint. Contact me if you want the slides, but I want to see your wrapped in return! But please, do not contact me with some AI-generated emoji-ridden Linked-in “summary”. We’re all adults: we <em>can</em> spend the effort to make a good product or leave in the realm of possibilities. <a href="https://youtu.be/XSzIhZxhTPk?si=xM43_px0ME4Z64sr">In the words of the Korean philosophers ENHYPHEN</a>:</p>
+<blockquote class="blockquote">
+<p>Go Big Or Go Home.</p>
+</blockquote>
+<p>Merry Christmas. Merry Yule. Merry Alban Arthan. Merry had a little lamb.</p>
+
+
+
+ ]]></description>
+  <category>wrapped</category>
+  <category>humor</category>
+  <guid>https://thomasvanhoey.com/posts/2025-12-17-academia-wrapped/</guid>
+  <pubDate>Tue, 16 Dec 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://thomasvanhoey.com/posts/2025-12-17-academia-wrapped/picture.png" medium="image" type="image/png" height="136" width="144"/>
+</item>
 <item>
   <title>Sunsets, spreadsheets, and languishing leaves</title>
   <dc:creator>Thomas Van Hoey</dc:creator>
@@ -3613,116 +3664,6 @@ dan kon ik samen spelen.</p>
   <guid>https://thomasvanhoey.com/posts/2021-02-26-et-in-arcadia-ego/</guid>
   <pubDate>Thu, 25 Feb 2021 23:00:00 GMT</pubDate>
   <media:content url="https://thomasvanhoey.com/posts/2021-02-26-et-in-arcadia-ego/featured.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Installing OpenPose on Mac (October 2020 version)</title>
-  <dc:creator>Thomas Van Hoey</dc:creator>
-  <link>https://thomasvanhoey.com/posts/2021-02-26-installing-openpose-on-mac-october-2020-version/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p><img src="https://thomasvanhoey.com/posts/2021-02-26-installing-openpose-on-mac-october-2020-version/narutorun-openpose.gif" class="img-fluid"></p>
-<blockquote class="blockquote">
-<p>All these poses such beautiful poses. (<a href="https://youtu.be/T4ChJ0_wGxY">Rufus Wainwright - Poses</a>)</p>
-</blockquote>
-<p>My future work will soon involve a more <strong>gestural analysis of ideophones across languages</strong>. I’m slowly plowing through the literature on gesture, but also came across a <a href="https://twitter.com/greg_woodin/status/1316421726948020226?s=20">tweet by Greg Woodin</a>, a PhD student who is investigating gestural metaphors, and who recently installed OpenPose on his computer. <a href="https://github.com/CMU-Perceptual-Computing-Lab/openpose">OpenPose</a> is a piece of open-source software that represents the first real-time multi-person system to jointly detect human body, hand, facial, and foot keypoints (in total 135 keypoints) on single images.</p>
-<p>Let’s first have a look what it can do:</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pW6nZXeWlGM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
-</iframe>
-<p>Cool huh!?</p>
-<section id="installing-openpose-on-mac" class="level1">
-<h1>Installing OpenPose on Mac</h1>
-<p><a href="https://maelfabien.github.io/tutorials/open-pose/#run-openpose">This guide by Maël Fabien</a> was pretty clear in how to install OpenPose, but I had to make a small tweak. That is why I’m basically repeating that guide but with the switch I made, a sort of October 2020 guide. But thanks so much Maël for guiding the way.</p>
-<section id="step-1-clone-the-repository-in-the-target-folder" class="level2">
-<h2 class="anchored" data-anchor-id="step-1-clone-the-repository-in-the-target-folder">Step 1) Clone the repository in the target folder</h2>
-<p>Open terminal and change directory <code>cd</code> to your target folder</p>
-<p><code>git clone &lt;https://github.com/CMU-Perceptual-Computing-Lab/openpose&gt;</code></p>
-</section>
-<section id="step-2-install-cmake-gui" class="level2">
-<h2 class="anchored" data-anchor-id="step-2-install-cmake-gui">Step 2) Install CMake GUI :</h2>
-<p>If you don’t have <a href="https://brew.sh/">homebrew</a> installed as a package manager on Mac, you should do so asap. Here’s <a href="https://devhints.io/homebrew">a handy cheatsheet for homebrew</a>.</p>
-<p><code>brew cask install cmake</code></p>
-<p>(or the old fashioned way: follow the steps on <a href="https://cmake.org/download/" class="uri">https://cmake.org/download/</a>)</p>
-</section>
-<section id="step-3-install-dependencies" class="level2">
-<h2 class="anchored" data-anchor-id="step-3-install-dependencies">Step 3) Install dependencies :</h2>
-<p><code>bash 3rdparty/osx/install_deps.sh</code></p>
-</section>
-<section id="step-4-generate-caffe.pb.h-manually-using-protoc-as-follows.-install-caffe-with-homebrew" class="level2">
-<h2 class="anchored" data-anchor-id="step-4-generate-caffe.pb.h-manually-using-protoc-as-follows.-install-caffe-with-homebrew"><del>Step 4) Generate caffe.pb.h manually using protoc as follows.</del> Install caffe with homebrew</h2>
-<p><del>In the directory, you installed Caffe to</del></p>
-<pre><code>~~protoc src/caffe/proto/caffe.proto --cpp_out=. mkdir include/caffe/proto mv src/caffe/proto/caffe.pb.h include/caffe/proto~~</code></pre>
-<p><del>See <a href="https://github.com/BVLC/caffe/issues/1761">this issue</a> for more details.</del></p>
-<p>Just to be sure, install Caffe with homebrew (all the other steps are unnecessary)</p>
-<pre><code>brew install caffe</code></pre>
-</section>
-<section id="step-5-cmake" class="level2">
-<h2 class="anchored" data-anchor-id="step-5-cmake">Step 5) CMake</h2>
-<p>Open CMake GUI.</p>
-<pre><code>cd /Applications
-
-open CMake.app</code></pre>
-<p>Select the OpenPose directory as project source directory, and a non-existing or empty sub-directory (e.g., build) where the Makefile files (Ubuntu) or Visual Studio solution (Windows) will be generated. If the build does not exist, it will ask you whether to create it. Press Yes.</p>
-<p><img src="https://thomasvanhoey.com/post/2020-10-21-installing-openpose-on-mac-october-2020-version_files/cmake.jpg" class="img-fluid"></p>
-</section>
-<section id="step-6-make-the-following-adjustments-to-the-cmake-config-before-pressing-configure" class="level2">
-<h2 class="anchored" data-anchor-id="step-6-make-the-following-adjustments-to-the-cmake-config-before-pressing-configure">Step 6) Make the following adjustments to the CMake config before pressing “Configure”:</h2>
-<pre><code>BUILD_CAFFE set to false
-
-GPU_MODE set to CPU_ONLY (as recommended for MacOS)
-
-Caffe_INCLUDE_DIRS set to /usr/local/include/caffe
-
-Caffe_LIBS set to /usr/local/lib/libcaffe.dylib</code></pre>
-<p>See <a href="https://github.com/CMU-Perceptual-Computing-Lab/openpose/issues/677">this issue</a> for more details.</p>
-</section>
-<section id="step-7-configure" class="level2">
-<h2 class="anchored" data-anchor-id="step-7-configure">Step 7) Configure</h2>
-<p>Press configure, wait until Configuring Done appears.</p>
-<p>Everything should work well, and you should be able to click the Generate right after (<strong>BUT DON’T CLICK IT?</strong>). If ever you get an error here, especially with High Sierra, please check this issue.</p>
-</section>
-<section id="step-8-build-the-project" class="level2">
-<h2 class="anchored" data-anchor-id="step-8-build-the-project">Step 8) Build the project :</h2>
-<p>(within the OPENPOSE folder you made on your computer, navigate there with <code>cd</code>)</p>
-<pre><code>cd build/
-
-make -j`nproc`</code></pre>
-</section>
-</section>
-<section id="running-openpose" class="level1">
-<h1>Running OpenPose</h1>
-<p><span style="color: red;">Warning, running OpenPose takes a long time on a normal persoanl computer. But you can check it out on really short video clips and stills.</span></p>
-<section id="step-1-go-to-the-openpose-folder" class="level2">
-<h2 class="anchored" data-anchor-id="step-1-go-to-the-openpose-folder">Step 1: Go to the OPENPOSE folder</h2>
-<pre><code>cd OPENPOSEFOLDERPATH</code></pre>
-</section>
-<section id="step-2-make-an-input-and-output-folder" class="level2">
-<h2 class="anchored" data-anchor-id="step-2-make-an-input-and-output-folder">Step 2: Make an INPUT and OUTPUT folder</h2>
-<p>Put an image / video … in the input folder</p>
-</section>
-<section id="step-3-run-the-following" class="level2">
-<h2 class="anchored" data-anchor-id="step-3-run-the-following">Step 3: run the following:</h2>
-<pre><code>./build/examples/openpose/openpose.bin --image_dir INPUT/ --write_images OUTPUT/</code></pre>
-<p>You can also analyze the hands with the <em>flag</em> <code>--hand</code> or face with the <em>flag</em> <code>--face</code> etc. For more fun with flags, <a href="https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/demo_overview.md">see this document</a>.</p>
-</section>
-</section>
-<section id="results" class="level1">
-<h1>Results</h1>
-<p>Preliminary results show a fun gif that has been OpenPosed. Have fun with all the poses!</p>
-<p><img src="https://thomasvanhoey.com/posts/2021-02-26-installing-openpose-on-mac-october-2020-version/narutorun-openpose.gif" class="img-fluid"></p>
-
-
-</section>
-
- ]]></description>
-  <category>openpose</category>
-  <category>gesture</category>
-  <guid>https://thomasvanhoey.com/posts/2021-02-26-installing-openpose-on-mac-october-2020-version/</guid>
-  <pubDate>Thu, 25 Feb 2021 23:00:00 GMT</pubDate>
-  <media:content url="https://thomasvanhoey.com/posts/2021-02-26-installing-openpose-on-mac-october-2020-version/narutorun-openpose.gif" medium="image" type="image/gif"/>
 </item>
 </channel>
 </rss>

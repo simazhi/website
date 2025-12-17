@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.34">
+<meta name="generator" content="quarto-1.8.26">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Thomas Van Hoey 司馬智">
-<meta name="dcterms.date" content="2025-09-01">
+<meta name="dcterms.date" content="2025-12-01">
 <meta name="keywords" content="R Markdown, academic CV, template">
 
 <title>CV – Thomas Van Hoey</title>
@@ -35,14 +35,15 @@ ul.task-list li input[type="checkbox"] {
 <meta name="quarto:offset" content="../">
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-532114b54b7d777c68688d50fd9f2f2f.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-05ac80781cd743ff5a8aa8c3401011cc.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-7946144049f158acb2432847a4d723ff.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-ece30ff4f481d5f698dce743cdcdc6f5.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -164,7 +165,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">September 1, 2025</p>
+      <p class="date">December 1, 2025</p>
     </div>
   </div>
   
@@ -232,6 +233,7 @@ Summer school: Translating Chinese (Summer +10). National Taiwan University 2014
 </ul>
 <p>Co-I</p>
 <ul>
+<li>- “Bug-or-feature: Variation, optionality, and dysfluencies” (PI Benedikt Szmrcsanyi, Co-I Thomas Van Hoey) for FWO at KU Leuven (FWO G014926N) <!-- 270,820 EUR  --></li>
 <li>- “Breaking down and rebuilding iconicity: machine learning verified by human learning” (PI Youngah Do, Co-I Harald Baayen, Co-I Christophe Coupé, Co-I Thomas Van Hoey) at HKU (GRF 17602723) <!-- 846,300 HKD --></li>
 </ul>
 <p>Executed</p>
@@ -431,7 +433,7 @@ Summer school: Translating Chinese (Summer +10). National Taiwan University 2014
 <h1>PhD Thesis supervision (co-supervisor)</h1>
 <div class="cell">
 <div class="cell-output-display">
-<table class="table caption-top table-sm table-striped small" data-quarto-postprocess="true">
+<table class="table caption-top table-sm table-striped small">
 <thead>
 <tr class="header">
 <th style="text-align: right;" data-quarto-table-cell-role="th">year</th>
@@ -462,7 +464,7 @@ Summer school: Translating Chinese (Summer +10). National Taiwan University 2014
 <h1>PhD Thesis committee</h1>
 <div class="cell">
 <div class="cell-output-display">
-<table class="table caption-top table-sm table-striped small" data-quarto-postprocess="true">
+<table class="table caption-top table-sm table-striped small">
 <thead>
 <tr class="header">
 <th style="text-align: right;" data-quarto-table-cell-role="th">year</th>
@@ -526,7 +528,7 @@ Summer school: Translating Chinese (Summer +10). National Taiwan University 2014
 <h1>MA Thesis supervision</h1>
 <div class="cell">
 <div class="cell-output-display">
-<table class="table caption-top table-sm table-striped small" data-quarto-postprocess="true">
+<table class="table caption-top table-sm table-striped small">
 <thead>
 <tr class="header">
 <th style="text-align: right;" data-quarto-table-cell-role="th">year</th>
@@ -692,6 +694,7 @@ Summer school: Translating Chinese (Summer +10). National Taiwan University 2014
 <li><em>Language Learning</em></li>
 <li><em>Language Sciences</em></li>
 <li><em>Linguistics Vanguard</em></li>
+<li><em>Nature: Scientific Data</em></li>
 <li><em>Mapping China Journal</em></li>
 <li><em>Open Linguistics</em></li>
 <li><em>PLoS</em></li>
@@ -873,13 +876,14 @@ organized by the Language Training &amp; Testing Center at National Taiwan Unive
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
