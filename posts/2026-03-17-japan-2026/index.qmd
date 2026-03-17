@@ -3,7 +3,7 @@ title: "Japan Twenty Twenty Sixxx"
 author: "Thomas Van Hoey"
 description: ""
 date: "2026-03-17"
-categories: ["wrapped", "humor"]
+categories: ["linguistics", "iconicity", "Ainu", "Japan", "Nagoya", "Sapporo", "Otaru"]
 execute:
   freeze: auto
   eval: false 
