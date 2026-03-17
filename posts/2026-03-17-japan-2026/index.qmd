@@ -15,7 +15,7 @@ image: picture3.jpg
 It's a meme!
 With the recent exchange rate of the Japanese yen, many people have been talking about adding you to the group chat named "Japan trip 2026".
 
-![](japan2026.png)
+![](japan2026.png) 
 
 Jokes aside, I have been privileged to be able to attend not one but two academic events in Japan recently.
 In Nagoya, there was the Joint conference of the 4th Iconicity Seminar (IcoSem) and the 15th International Symposium on Iconicity in Language and Literature (ILL), [**IcoLL**](https://ianjoo.github.io/icosem/4.html) for short (which is what I'll be using).
