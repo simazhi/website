@@ -5,6 +5,8 @@ website:
   title: "Thomas Van Hoey" 
   site-url: https://thomasvanhoey.com
   description: "This is Thomas Van Hoey's personal website."
+  twitter-card: true
+  open-graph: true 
   navbar:
     right:
       - text: Research projects
@@ -56,13 +58,12 @@ website:
           #   href: https://yards.albert-rapp.de/
 
 
-
-  # google-analytics: <Insert your ID here>
-  # cookie-consent: true
-  # twitter-card: 
   #   image: thumbnail_blog.png
   #   card-style: summary_large_image
   #   creator: "@"
+
+  # google-analytics: <Insert your ID here>
+  # cookie-consent: true
 
 
 ######################### 
