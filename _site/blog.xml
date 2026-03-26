@@ -9,8 +9,110 @@
 <link>https://thomasvanhoey.com/blog.html</link>
 <atom:link href="https://thomasvanhoey.com/blog.xml" rel="self" type="application/rss+xml"/>
 <description>This is Thomas Van Hoey&#39;s personal website.</description>
-<generator>quarto-1.8.27</generator>
-<lastBuildDate>Mon, 16 Mar 2026 23:00:00 GMT</lastBuildDate>
+<generator>quarto-1.9.36</generator>
+<lastBuildDate>Wed, 25 Mar 2026 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Marching out two publications</title>
+  <dc:creator>Thomas Van Hoey</dc:creator>
+  <link>https://thomasvanhoey.com/posts/2026-03-26-marching-publications/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>To my surprise I haven’t talked much about *the other side * of my research life. That is, my long-time research interest clearly has been iconicity and ideophones and what have you. But in fact, I have also been working in what has turned out to be a great collaboration with <a href="https://sites.google.com/site/bszmrecsanyi/">Benedikt Szmrecsanyi</a> on grammatical variation. Or rather, how we have come to term it, ✨ grammatical optionality ✨.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://thomasvanhoey.com/posts/2026-03-26-marching-publications/picture.jpg" class="img-fluid figure-img"></p>
+<figcaption>Me and Benedikt</figcaption>
+</figure>
+</div>
+<p>So this post is a short reflection on our ongoing project, its past, its presence (?), and its future. The occasion is that we have had 2 (!!) new papers appear online. Seems like <a href="https://www.thomasvanhoey.com/posts/2025-04-29-double-whammy/">the acceptance era is going strong</a>.</p>
+<ol type="1">
+<li><p>Van Hoey, Thomas, Benedikt Szmrecsanyi &amp; Matt H. Gardner. 2025 (but published in 2026 lol). Choice and complexity: In naturally occurring data, absolute complexity does not necessarily trigger relative complexity. Linguistic Typology at the Crossroads 5(2). 323–351. https://doi.org/10.60923/issn.2785-0943/19727.</p></li>
+<li><p>Van Hoey, Thomas, Matt Hunt Gardner, Ruiming Ma &amp; Benedikt Szmrecsanyi. 2026. Unpredictable grammatical choices are not harder than predictable grammatical ones. Language Variation and Change 1–23. https://doi.org/10.1017/S0954394526100660.</p></li>
+</ol>
+<section id="grammatical-optionality-quest-ce-que-cest-ça" class="level1">
+<h1>Grammatical optionality, qu’est-ce que c’est ça?</h1>
+<p>To briefly illustrate the phenomenon we’re interested in, we can just use two short examples. Consider the following pairs of sentences.</p>
+<ol type="1">
+<li>The witch gave the poison to the assassin.<br>
+</li>
+<li>The witch gave the assassin the poison.</li>
+</ol>
+<p>Or</p>
+<ol start="3" type="1">
+<li>The witch’s magic wand.<br>
+</li>
+<li>The magic wand of the witch.</li>
+</ol>
+<p>These expressions are tantamount in English, and are respectively called the dative alternation and the genitive alternation. They have been a professional fascination of Benedikt’s for the last fifteen years or so of his career.</p>
+<p>Such variation is in principle present in the grammar of English (in this case). In other words, it is available to any speaker. But the deal is, when speaking, <strong>you have to make a choice</strong>. Which of these two (or more) grammatical options makes its way out of your mouth?</p>
+<p>Now the issue is that there is a foundational assumption in many linguistic frameworks and theories that having to deal with such grammatical options is messy, cumbersome, annoying. In short, bad ☠️❌. Benedikt often refers to the prescriptive writing guide <a href="https://en.wikipedia.org/wiki/The_Elements_of_Style"><em>The elements of style</em></a> by Strunk and White (first published in 1918). Or there is the idea that, if at some point, a linguistic system develops multiple options to kinda express the same thing (insert obligatory reference to Bill Labov RIP), it’s probably a temporary thing…</p>
+<p>The only problem with such thinking is that (a) e.g.&nbsp;the dative alternation has been around for a while, (b) some of these phenomena can be found in wildly different languages, (c) there is a wide array of such phenomena that has been discussed in an ever increasing pile of research literature.</p>
+<p>Still, there are difficulties involved in such alternations. For instance, when speaking, people have to mentally scan ahead to kind of figure out how long their linguistic constituents (the little groups of words that go together) will be. We tend to place longer constituents at the end of a dative or genitive alternation, in different grammatical optionality contexts. Try using the other alternative for the following two sentences. Feels awkward, huh?!</p>
+<ol start="5" type="1">
+<li>The witch gave the poisson [to the assassin who just came back from holiday.]<br>
+</li>
+<li>The witch gave the assassin [the poisson that had been prepared for a year and a day.]</li>
+</ol>
+<p>And this way, previous work has found many such “language-internal constraints”. But also so-called language-external constraints, like dialect variation, or gender, or age (although we can’t really find effects for those things in our data).</p>
+</section>
+<section id="so-whats-the-big-idea" class="level1">
+<h1>So what’s the big idea?</h1>
+<p>Given what I’ve tried to summarize before, you might think: gee whiz, scanning ahead, choosing an option (#keuzestress); that all sounds like a lot of work. Maybe having grammatical optionality in your linguistic system really is a drag. Wouldn’t it be better if one form corresponded to one meaning (disregarding all the evidence of the contrary)? And if it’s bad to have multiple ways to express kinda the same thing, wouldn’t people then go <em>uh</em> and <em>um</em> the whole time, or need this time to reflect before uttering the choice they made?</p>
+<p>THAT’S WHAT THE RESEARCH IS ABOUT.</p>
+<p>So, Benedikt Szmrecsanyi and a former postdoc here at KU Leuven, <a href="https://www.matthuntgardner.com/">Matt Hunt Gardner</a> made <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0252602">this really cool paper in 2021</a> about how in spoken data they do not find this purported / expected correlation between having optionality contexts in a spoken turn and so-called * speech dysfluencies *.</p>
+<p>That was a great seminal paper, but there were still many questions left unanswered. And that’s where I enter the picture.</p>
+<p>I was very happy to work in my second postdoc with Benedikt (and, remotely, Matt!) on outstanding issues that had to do with potential confounds to that absence of positive correlation. Of course, this is good scientific practice: maybe it was the kind of grammatical alternation that influenced the results? (No, see Van Hoey et al.&nbsp;2025 in <em>Linguistic Typology at the Crossroads</em>). Maybe it was the number of options one could choose from? (No, see Ma et al.&nbsp;2025 in <em>English Language and Linguistics</em>). Maybe the number of constraints that govern those choices? (No, see Ma et al.&nbsp;2025 in <em>English Language and Linguistics</em>). <em>Hmm</em>. How about the cues present when making a choice? Like, <em>surely</em> choices that are more constrained are easier, because more signals point toward one option over the other?? No??? - See Van Hoey et al.&nbsp;2026 in <em>Language Variation and Change</em>.</p>
+<p>Anyway, that was a short summary of the collaborations over the past few years. Now it’s time for some short reflections.</p>
+</section>
+<section id="reflections" class="level1">
+<h1>✨ Reflections ✨</h1>
+<p>(I’m sorry, I just like the sparkles emoji.)</p>
+<p>In my first postdoc in Hong Kong, I learned how to conduct lab-based experiments, and I guess I got more confidence in the idea that you can really have multiple projects going on at the same time. In this second postdoc, I really got to witness what it’s like to build a research program. Based on that 2021 paper, Benedikt acquired an internal KU Leuven grant (which I got hired on).</p>
+<p>This led to a number of MA theses, and a PhD student, MA Ruiming, who I am co-supervising. She works on the replication of our findings in Mandarin spoken data, which involves identifying, describing, and annotating such grammatical optionality contexts in Mandarin, alongside the dysfluencies.</p>
+<p>It also led to another PhD student (who I’m in the committee of), HUANG Fen, who takes a slightly more experimental approach. At the same time, we have (had) other excellent PhD students, like GUAN Sumin and LI Yi, but also TIAN Xiaoyu and LIU Meili, who have (or are) provided detailed studies of particular alternations in Mandarin, their constraints, and their so-called envelopes of variation, stamps included. And honestly, it has been good for my Chinese knowledge to keep involved with this too. I certainly learned a lot.</p>
+<p>Then another thought I had related to our project is its dissemination strategy. I have often felt that we kind of deliver similar messages at different conferences. After having come across the term salami slicing, I have made the reflection whether our research is like that. In the end, I don’t think so. Because, as you see, I certainly have reviewed papers that were like “here’s a micro detail, see recent publications (Author 1, Author 2, Author 3, Author 4, all in 2026 – anonymized for review)”. And that’s decidedly <em>not</em> what has been going on with our project.</p>
+<p>In fact, every “maybe” question in the previous section involved <em>a lot</em> of manual annotation labor, rethinking what the best analysis method is for the particular question, reframing our findings in light of what was already known etc. And that’s very different from, to take a random example from the paradigm of pokémonastics having a fixed dataset, throwing it in a n-to-n mapping statistical software, seeing what correlations have <em>p &lt; 0.05</em> and then “motivating” how that should relate to natural language (see an upcoming book chapter), and spreading those findings over multiple papers (the hate is strong).</p>
+<p>But yeah, in doing so, I’ve witnessed that a multi-year spread makes sense. I guess it’s a form of <a href="https://www.slow-science.com/">slow science</a>, although that is partly due to the slow movements of the peer review juggernaut. For example, the paper in Van Hoey et al.&nbsp;2025 (<em>Linguistic Typology at the Crossroads</em>) was actually the first paper I wrote together with Benedikt and Matt, back in 2024. Now, we kinda submitted another one first (the Ma et al.&nbsp;one) but that was also because this one was submitted to a special issue. <a href="https://typologyatcrossroads.unibo.it/issue/view/1453">And it’s a great special issue, I recommend interested readers to have a look, also fully open access so NO EXCUSES.</a> That said, confusingly, it was published in 2026 but belongs to the 2025 special issue.</p>
+<p>The other paper, Van Hoey et al.&nbsp;2026 (the real 2026, in <em>Language Variation and Change</em>) was a bit tougher. We had some reviewers that approached the topic from a position that at the time seemed diametrically opposed to us. In the meantime, we have found that our perspectives are more complementary and perhaps involve more overlap than initially thought. Perhaps the dance party at last year’s SLE conference in Bordeaux Montaigne helped to straighten out any kinks in the cable (somehow I feel like I’m mixing metaphors and languages here, hmm, let’s run with #wordsmith and #yolo), demonstrating again that science involves a research community of scholars, and that communication is key.</p>
+</section>
+<section id="the-future---a-step-and-a-leap-forward" class="level1">
+<h1>The future - a step and a leap forward</h1>
+<p>In fact, those reviewers organized a great workshop (Benoît and Cameron, I want to expressly state that again). The next step forward for our bigger grammatical optionality project is then to work on other types of dysfluencies, with the hope of featuring in the special issue edited by Benoît Leclerq and Cameron Morin.</p>
+<p>However, there’s more exciting news. <strong>THE NEXT LEAP FORWARD</strong> is that Benedikt and I (in collaboration with Matt) have obtained funding from the Research Foundation Flanders (FWO) to build the next addition to our optionality house.</p>
+<p>That means <strong>WE ARE HIRING.</strong> We are extending the research program by investigating phonological and lexical optionality as well. After all, if the dysfluencies in speech aren’t triggered by grammatical optionality, perhaps there are other types of optionality that make them come out.</p>
+<p>So yeah, <a href="https://www.kuleuven.be/personeel/jobsite/jobs/60643123?lang=en">here’s the job ad.</a> Feel free to spread among your network.</p>
+</section>
+<section id="finally-some-pictures" class="level1">
+<h1>Finally, some pictures</h1>
+<p>Weird right, having a blog update without pics thus far. I guess I can share two key figures from the paper.</p>
+<p>From Van Hoey et al.&nbsp;(2025, <em>Linguistic Typology at the Crossroads</em>) there is this diagram. Basically, it’s a way to quickly visualize how two basic and fundamental starting points can influence how one deals with the type of variation we have been investigating. Basically, both groups recognize that alternations exist. But the left group, adhering to these Principles (I won’t go super deep into it, that’s what the papers are for) focuses on what sets two or more options apart. The right group, variationists, instead wallow, but also revel, in the mess that is (near-)synonymy.</p>
+<blockquote class="blockquote">
+<p>Two roads diverged in a yellow wood,</p>
+</blockquote>
+<p>and the one you take here has significant downstream consequences for the kinds of research you do. Nothing more, nothing less.</p>
+<p><img src="https://thomasvanhoey.com/posts/2026-03-26-marching-publications/diagram.png" class="img-fluid"></p>
+<p>The second figure is this one, from Van Hoey et al.&nbsp;(2026, <em>Language Variation and Change</em>). Here, we found a way to quantify the relative difficulty of different types of alternations. Future temporal reference (the choice between choosing <em>will</em>, <em>shall</em>, <em>be going to</em>, <em>gonna</em> etc.) is rather hard. Conversely, the dative alternation (<em>give you the soup</em> vs.&nbsp;<em>give the soup to you</em>) is rather “easy”. This probably has to do with the (type of) constraints that have been identified that govern these alternations, and also the possibility space, but it deserves follow-up work. Interestingly, I heard from a colleague in Gothenburg (Sweden) that she found something similar, but I need to know more before I say more.</p>
+<p><img src="https://thomasvanhoey.com/posts/2026-03-26-marching-publications/ppt_plot.png" class="img-fluid"></p>
+<p>And there you have it.</p>
+<p>Two new papers, a small step forward, a big leap forward, and a #ScienceCommunication bulletin to with capital SC.</p>
+<p>Please spread the PhD vacancy among interested parties.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>linguistics</category>
+  <category>variation</category>
+  <category>optionality</category>
+  <category>alternation</category>
+  <guid>https://thomasvanhoey.com/posts/2026-03-26-marching-publications/</guid>
+  <pubDate>Wed, 25 Mar 2026 23:00:00 GMT</pubDate>
+  <media:content url="https://thomasvanhoey.com/posts/2026-03-26-marching-publications/picture.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Japan Twenty Twenty Sixxx</title>
   <dc:creator>Thomas Van Hoey</dc:creator>
@@ -3528,127 +3630,6 @@ Won't say I'm a pro (more like intermediate if even that much ha) but can now sa
   <guid>https://thomasvanhoey.com/posts/2021-05-13-bird-set-free/</guid>
   <pubDate>Wed, 12 May 2021 22:00:00 GMT</pubDate>
   <media:content url="https://thomasvanhoey.com/posts/2021-05-13-bird-set-free/featured.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Setting up a clean project: the best practice I use</title>
-  <dc:creator>Thomas Van Hoey</dc:creator>
-  <link>https://thomasvanhoey.com/posts/2021-05-12-setting-up-a-clean-project-the-best-practice-i-use/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>I’ve been settling in at my <a href="https://linguistics.hku.hk/ldlhku/people/">new job at the Language Development Lab at HKU</a>, which I started physically in March 2021. I will soon do an update on my time in Hong Kong since then, but this post is written with future me in mind. A big part of my job is to work out the practical implementations of experiments, and that has thus far involved managing the project structure, designing psychopy experiments, and post-experiment analysis in R. This seems like a nice trilogy of technical posts, and I hope to deliver to you (and future me). Today’s special on the menu is automating the set-up of a project.</p>
-<section id="why-worry-about-this" class="level1">
-<h1>Why worry about this</h1>
-<p>Most people that are not very code minded have a vague idea of what a folder on their computer should look like and will let the structure of the subfolders automatically emerge. Perhaps you tell yourself you will remember which version is the “real final one” and that some of the figures are in that other folder somewhere else on your computer in that one powerpoint slide and that some data can be found under a rock, if you look closely, and oh no it was not the final version after all and you need to make some changes so you add a date, then go find some more data and then remember that maybe if you change a little bit here and there it might be a better version but it’s on the same date, so now it’s today’s date but with an ‘a’ behind it so you will remember and then you’re kinda sure it’s the <em>final-final</em> version so you save it but when you come back next week it turns out there is an even <em>finaler</em> version but then luckily you’re finished.</p>
-<iframe src="https://giphy.com/embed/O6kXMliNmPMiY" width="480" height="270" frameborder="0" class="giphy-embed" allowfullscreen="">
-</iframe>
-<p>
-<a href="https://giphy.com/gifs/later-O6kXMliNmPMiY">via GIPHY</a>
-</p>
-<p>You come back to that document because there was something in it and luckily you still have all versions on your computer but which version is “the real final version”? <em><a href="https://en.wiktionary.org/wiki/Joost_mag_het_weten">Joost might know it.</a></em> All you find is the following structure:</p>
-<p><img src="https://doctorfreelance.com/wp-content/uploads/2016/05/file-naming.png" class="img-fluid"></p>
-<p>And even though <a href="https://doctorfreelance.com/file-naming-conventions/">the post</a> this picture was featured on lists some great tips to avoid the most important versioning issues – I am also privy to using DATE extensions when working with other people in MS Word, e.g., “paperstudy_20210512.docx” – the burden can be alleviated by using a version control system like github. I’ve done that for my dissertation and it has been very useful to retrieve older sections, but it did make revisions and comments from my supervisor, who preferred MS Word, more difficult, as we had to settle on PDF and the comment system there. There is less friction with the track-changes and comment functions in MS Word than with PDF, but I think I would still prefer a versioning system.</p>
-<p>Anyway, an organically grown folder structure may be clear in the moment, but your future self will curse you, or even worse, hex you. The answer to avoiding a lot of future project pain is having a structure that is easy to set up, and is flexible to suit a particular project’s needs.</p>
-</section>
-<section id="best-practices" class="level1">
-<h1>Best practices</h1>
-<p>Just googling for something like ‘R project structure best practices’ will result in a number of very interesting blogs that advocate what a project folder <del>could</del> should look like. For instance, <em>Nice R Code</em> <a href="https://nicercode.github.io/blog/2013-04-05-projects/">shows</a> that a good project layout ensures the integrity of the data, the portability of the project, and the support for the future usage. There’s also <em>Krista Destasio’s</em> <a href="https://kdestasio.github.io/post/r_best_practices/">best practices in R</a> or <a href="https://aosmith.rbind.io/2018/10/29/an-example-directory-structure/">an example directory structure</a> on <em>Very statisticious</em>. For me, the importance of having a decent structure kicked in about 1.5 years ago, when I did a massive overhaul of my dissertation folder after seeing Jenny Bryan talk about <a href="https://www.tidyverse.org/blog/2017/12/workflow-vs-script/">project-oriented workflows</a>, and I wished I had started with a clear structure from the beginning. And now I can’t really see myself not making a somewhat clear structure from the beginning.</p>
-<p>So what does my own best practice look like? It will be something close to the structure in this screenshot (which I will be building in today’s post, so stay tuned for that).</p>
-<p><img src="https://thomasvanhoey.com/posts/2021-05-12-setting-up-a-clean-project-the-best-practice-i-use/images/docstructure.png" class="img-fluid"></p>
-<p>As you can see I have quite a number of folders and files, <em>from the getgo</em>. First there is the <code>Rproj</code> file (here <code>ABB.Rproj</code>). This ensures I can use my project-oriented workflow and keep track, and also connect the code to github if I so desired and I usually desire so.</p>
-<p>Next is the <code>README.md</code> file, a typical file in which you write important information you want other people to read. This is a useful piece of documentation, but if you’re not into filling that out in the beginning that’s okay too; it doesn’t take up much space lol.</p>
-<p>Our first folder is the <code>data/</code> folder, which has two subfolders: <code>data/raw/</code> and <code>data/processed/</code>. The main idea is that the <code>raw/</code> folder contains original data you bring to the analysis, while the <code>processed/</code> folder acts as a dumping ground for intermediate data files, not necessarily output. The <code>processed/</code> folder is a quite new structure for me, so I don’t know if I’m going to keep it around.</p>
-<p>Then we have the <code>documents/</code> folder, which should contain supporting documents, maybe some crucial papers, or a figure that’s important for the argument.</p>
-<p>Next <code>figures/</code> will eventually contain figures generated by code or in powerpoint, or whatever fancy software you wish to use, like photoshop. It’s useful to have this as a separate folder because some journals will ask you to submit the figures separately.</p>
-<p>Then there are the <code>notes/</code>, a place for random notes and observations.</p>
-<p>There is <code>output/</code>, which ideally consists of the output data that will see the light of day in a repository, cleaned and ready for analysis. In my conception, that means that <code>output/</code> can also contain data to be read in again in a final representation of the script.</p>
-<p>Next we have <code>paper/</code>. This is where I keep different versions of the paper, ideally coded with a date as mentioned above.</p>
-<p>There is the <code>previous/</code> folder, in which I will periodically move older versions of the paper we don’t need in the moment but may want to keep around <em>just a little bit longer</em>. It also acts as a kind of bin, tbh.</p>
-<p>And finally there is the <code>scripts/</code> folder, in which I would store all .R, .Rmd and .py or what have you files.</p>
-<p><strong>Note that this structure is completely flexible and is bound to change for every project.</strong> For instance, there may be a replication component, so it is good to have a separate folder for stimuli or figures from that paper (perhaps under <code>documents/</code> but hey, you do you boo). Or if you have an experiment, like I find myself these days with Psychopy, that inevitably comes with a <code>psychopy/</code> folder.</p>
-<p>So, are we good on the idea that 1) it is beneficial to work with projects? and 2) the initial project structure should something like the picture above? Okay, time to move on to the next step: workflow and automation.</p>
-</section>
-<section id="version-control---github" class="level1">
-<h1>1) Version control - github</h1>
-<p>I think it is clear by now that in most cases I would advocate for a version controlled project. That usually means I would start on Github to create a new project, as such:</p>
-<p><img src="https://thomasvanhoey.com/posts/2021-05-12-setting-up-a-clean-project-the-best-practice-i-use/images/githubnewproject.png" class="img-fluid"></p>
-<p>Then fill out the information for your new project. I like to start with a private repository, but that’s up to you. I would suggest adding the README file and also a .gitignore.</p>
-<p><img src="https://thomasvanhoey.com/posts/2021-05-12-setting-up-a-clean-project-the-best-practice-i-use/images/githubnew.png" class="img-fluid"></p>
-<p>After the project is started, if you’re on a Mac, go to the .gitignore dotfile and add the following to that file and save it. This will make sure that the very annoying .DS_Store files that a reviewer commented on in the past, won’t show up in the project. (<em>What are .DS_Store files anyway and why do they keep appearing????</em>)</p>
-<pre><code># .DS_Store
-.DS_Store</code></pre>
-<p>Okay, now you’re all set for step 2.</p>
-</section>
-<section id="version-control---local" class="level1">
-<h1>2) Version control - local</h1>
-<p>Now, open Rstudio, and create a new project.</p>
-<p><img src="https://thomasvanhoey.com/posts/2021-05-12-setting-up-a-clean-project-the-best-practice-i-use/images/newprojectr.png" class="img-fluid"></p>
-<p>Next, click on version control with git:</p>
-<p><img src="https://thomasvanhoey.com/posts/2021-05-12-setting-up-a-clean-project-the-best-practice-i-use/images/CleanShot 2021-05-12 at 15.09.48@2x.png" class="img-fluid"></p>
-<p>Fill out the details and open in new session:</p>
-<p><img src="https://thomasvanhoey.com/posts/2021-05-12-setting-up-a-clean-project-the-best-practice-i-use/images/CleanShot 2021-05-12 at 15.11.41@2x.png" class="img-fluid"></p>
-<p>If you don’t want to use github or a similar hub or lab for doing version control, I would at least do it locally. In that case you choose “New Directory” (recommended) or “Existing Directory” (not recommended) for making the folder with its <code>Rproj</code> file.</p>
-</section>
-<section id="add-the-folder-structure" class="level1">
-<h1>3) Add the folder structure</h1>
-<p>Now you have something like this (I turned on the normally invisible dotfiles like .gitignore so you can see their presence):</p>
-<p><img src="https://thomasvanhoey.com/posts/2021-05-12-setting-up-a-clean-project-the-best-practice-i-use/images/CleanShot 2021-05-12 at 15.12.59@2x.png" class="img-fluid"></p>
-<p>Quite barren, isn’t it. <strong>Now comes the trick to avoid having to manually make new folders.</strong></p>
-<p>Click on <code>ABB.Rproj</code> (or whatever you named your project folder, followed by <code>.Rproj</code>). This will open up Rstudio. Make a new script or Rmarkdown file and run the following code:</p>
-<pre><code>library(here)
-library(fs)
-
-dir_create(here("data", "raw"))        # raw data
-dir_create(here("data", "processed"))  # intermediate data
-dir_create(here(c("scripts",           # storing all .R, .Rmd, .py files
-                  "figures",           # output figures
-                  "output",            # output files
-                  "previous",          # previous versions keep for record
-                  "paper",             # current versions of the document
-                  "notes",             # random notes
-                  "documents"          # supporting documents
-                  )
-                )
-           )</code></pre>
-<p>Voilà, the structure has been generated in the right way.</p>
-</section>
-<section id="thoughts-on-here-and-fs" class="level1">
-<h1>Thoughts on <code>here</code> and <code>fs</code></h1>
-<p>I cannot stress how important the anchor of Rproj files has been to my workflow, whether or not I actually run code for a particular project. In the not so distant past, R code usually would start with lines like the following to make sure you’re in the right working directory (<code>getwd()</code> and <code>setwd()</code>).</p>
-<pre><code># mac
-setwd("C:/Thomas/dropbox/here/is/my/unique/folder")
-# windows
-setwd("C:\\Thomas\\dropbox\\here\\is\\my\\unique\\folder")
-
-rm (list=ls())</code></pre>
-<p>Luckily, we were warned not to do so by Jenny Bryan.</p>
-<p><img src="https://miro.medium.com/max/1400/1*fmEQAQ7H_cqAzwOPCIhv8w.png" class="img-fluid"></p>
-<p>And even <em>luckierly</em>, we can just make sure there is an <code>Rproj</code> file in our project folder, and then use the <code>here</code> <a href="https://github.com/jennybc/here_here">package</a> to have a transportable folder that will work both on Windows and Mac (and I guess Linux?) to navigate the structure of folders and files.</p>
-<p>The <code>fs</code> <a href="https://github.com/r-lib/fs">package</a> is a better version for managing paths and directories than Base R. The first function (in combination with <code>here</code>) that I find myself using a lot is:</p>
-<pre><code>datalist &lt;- fs::dir_ls(here("data", "subfolder_with_lots_of_files"),
-                       regexp = ".csv$",
-                       recurse = TRUE)</code></pre>
-<p>This will get you a vector of all .csv files you want to loop over, and it is easy to write and to remember.</p>
-<p>The second function that I like helped me draw the diagram of the folder structure given above:</p>
-<pre><code>dir_tree(here())</code></pre>
-<p>Yes, it was that simple to make that figure.</p>
-<p>Anyways, future me and other readers for who this is helpful, now I have a place to come copy the code chunk for generating the project setup and also a record of my current best practice of starting a project. More posts to follow!</p>
-
-
-</section>
-
- ]]></description>
-  <category>academic workflow</category>
-  <category>R</category>
-  <category>rstats</category>
-  <category>coding</category>
-  <category>project management</category>
-  <guid>https://thomasvanhoey.com/posts/2021-05-12-setting-up-a-clean-project-the-best-practice-i-use/</guid>
-  <pubDate>Tue, 11 May 2021 22:00:00 GMT</pubDate>
-  <media:content url="https://thomasvanhoey.com/posts/2021-05-12-setting-up-a-clean-project-the-best-practice-i-use/featured.png" medium="image" type="image/png" height="98" width="144"/>
 </item>
 </channel>
 </rss>

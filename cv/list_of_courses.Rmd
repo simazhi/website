@@ -2,11 +2,14 @@
 title: "Thomas Van Hoey"
 subtitle: "List of Courses"
 output:
-  pdf_document: default
-  html_document: default
+  pdf_document:
+    latex_engine: lualatex
+    # template: template_thomas.tex
 CJKmainfont: Noto Sans CJK TC
 sansfont: Georgia
 mainfont: Noto Serif # Noto Serif
+header-includes:
+  - \newcommand{\br}{\\}
 ---
 
 ```{r setup, include=FALSE}
@@ -14,14 +17,18 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-\begin{tabular}{p{1.9cm}p{11cm}p{3cm}}
-2025 & Intro to Linguistics 2 (Algemene taalwetenschap 2) (F0AA4A) & KU Leuven \\
-2025 & Intro to Linguistics 1 (Algemene taalwetenschap 1) (F0AA3A) & KU Leuven \\
-2024 & Intro to Linguistics 1 (Algemene taalwetenschap 1) (F0AA3A) & KU Leuven \\
-2024 & Language Varieties and Language Variants (F0VH3A) & KU Leuven \\
-2024 & Introduction to Cognitive Linguistics (LING 7011) & HKU \\
-2023 & Lexical Semantics and Lexicology  (F0TU0A) & KU Leuven \\
-2022 & Introduction to Cognitive Linguistics (LING 7011) & HKU \\
-2020 & English conversation A  & Tatung University \\
-2019 & English conversation B & Tatung University \\
+
+\begin{tabular}{p{1.9cm}p{10cm}p{3cm}}
+2025 & Algemene taalwetenschap 2 \newline \quad \textit{Intro to Linguistics 2} (F0AA4A) [NL] [lecture] & KU Leuven \\
+2025 & Algemene taalwetenschap 1 \newline \quad \textit{Intro to Linguistics 1} (F0AA3A) [NL] [lecture] & KU Leuven \\
+2024 & Algemene taalwetenschap 1 \newline \quad \textit{Intro to Linguistics 1} (F0AA3A) [NL] [lecture] & KU Leuven \\
+
+
+
+2024 & Language Varieties and Language Variants \newline \quad (F0VH3A) [EN] [seminar] & KU Leuven \\
+2024 & Introduction to Cognitive Linguistics \newline \quad (LING 7011) [EN] & HKU \\
+2023 & Lexical Semantics and Lexicology \newline \quad  (F0TU0A) [EN] & KU Leuven \\
+2022 & Introduction to Cognitive Linguistics \newline \quad  (LING 7011) [EN] & HKU \\
+2020 & English conversation A \quad  [EN, ZH]  & Tatung University \\
+2019 & English conversation B \quad [EN, ZH] & Tatung University \\
 \end{tabular}

@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.22.0 (TeX Live 2025)  (format=lualatex 2026.2.17)  5 MAR 2026 14:45
+This is LuaHBTeX, Version 1.24.0 (TeX Live 2026)  (format=lualatex 2026.3.24)  24 MAR 2026 13:43
  restricted system commands enabled.
 **cv_thomas.tex
 (./cv_thomas.tex
@@ -829,7 +829,7 @@ LaTeX Font Info:    Font shape `JT3/NotoSansCJKTC(0)/m/n' will be
 LaTeX Font Info:    Font shape `JY3/NotoSansCJKTC(0)/m/n' will be
 (Font)              scaled to size 9.6222pt on input line 26.
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/geometry/geometry.sty
-Package: geometry 2020/01/02 v5.9 Page Geometry
+Package: geometry 2026/03/07 v6.0 Page Geometry
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
@@ -1450,134 +1450,129 @@ Overfull \hbox (6.79999pt too wide) in paragraph at lines 317--318
  []
 
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 323.
+(Font)              No change on input line 324.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 330.
+(Font)              No change on input line 332.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 337.
+(Font)              No change on input line 339.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 343.
+(Font)              No change on input line 345.
 LaTeX Font Info:    Font shape `TU/Georgia(0)/m/n' will be
-(Font)              scaled to size 7.16174pt on input line 348.
+(Font)              scaled to size 7.16174pt on input line 350.
 LaTeX Font Info:    Font shape `JT3/NotoSansCJKTC(0)/m/n' will be
-(Font)              scaled to size 7.69775pt on input line 348.
+(Font)              scaled to size 7.69775pt on input line 350.
 [2]
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 351.
+(Font)              No change on input line 353.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 357.
+(Font)              No change on input line 359.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 365.
+(Font)              No change on input line 367.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 377.
+(Font)              No change on input line 379.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 384.
+(Font)              No change on input line 386.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 391.
+(Font)              No change on input line 393.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 398.
+(Font)              No change on input line 400.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 403.
+(Font)              No change on input line 405.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 404.
+(Font)              No change on input line 406.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 410.
+(Font)              No change on input line 412.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 417.
+(Font)              No change on input line 419.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 424.
+(Font)              No change on input line 426.
 LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/sl' undefined
-(Font)              No change on input line 429.
+(Font)              No change on input line 431.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 436.
+(Font)              No change on input line 438.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 439.
+(Font)              No change on input line 441.
 [3]
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 457.
+(Font)              No change on input line 459.
 LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/sl' undefined
-(Font)              No change on input line 464.
+(Font)              No change on input line 466.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 476.
+(Font)              No change on input line 478.
 LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/sl' undefined
-(Font)              No change on input line 485.
+(Font)              No change on input line 487.
 LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/sl' undefined
-(Font)              No change on input line 501.
+(Font)              No change on input line 503.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 509.
+(Font)              No change on input line 511.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 515.
-LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 524.
-LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 525.
+(Font)              No change on input line 517.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
 (Font)              No change on input line 526.
+LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
+(Font)              No change on input line 527.
+LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
+(Font)              No change on input line 528.
 LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/sl' undefined
-(Font)              No change on input line 529.
+(Font)              No change on input line 531.
 [4]
 LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/b/sc' undefined
-(Font)              No change on input line 545.
-LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/sl' undefined
 (Font)              No change on input line 547.
-LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 569.
-LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 577.
 LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/sl' undefined
-(Font)              No change on input line 594.
+(Font)              No change on input line 549.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 602.
+(Font)              No change on input line 571.
+LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
+(Font)              No change on input line 579.
 LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/sl' undefined
-(Font)              No change on input line 607.
+(Font)              No change on input line 596.
+LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
+(Font)              No change on input line 604.
+LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/sl' undefined
+(Font)              No change on input line 609.
 [5] [6]
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 739.
+(Font)              No change on input line 741.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 743.
+(Font)              No change on input line 745.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 747.
+(Font)              No change on input line 749.
 [7]
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 779.
+(Font)              No change on input line 781.
 LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/sl' undefined
-(Font)              No change on input line 797.
+(Font)              No change on input line 799.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 810.
+(Font)              No change on input line 812.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 811.
+(Font)              No change on input line 813.
 [8]
 LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/sl' undefined
-(Font)              No change on input line 831.
+(Font)              No change on input line 833.
 LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/sl' undefined
-(Font)              No change on input line 845.
+(Font)              No change on input line 847.
 LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/sl' undefined
-(Font)              No change on input line 864.
+(Font)              No change on input line 866.
 LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/sl' undefined
-(Font)              No change on input line 881.
+(Font)              No change on input line 883.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 894.
+(Font)              No change on input line 896.
 LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/sl' undefined
-(Font)              No change on input line 904.
+(Font)              No change on input line 906.
 [9]
 LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/b/sc' undefined
-(Font)              No change on input line 921.
-LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/sl' undefined
 (Font)              No change on input line 923.
 LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/sl' undefined
-(Font)              No change on input line 931.
-
-Overfull \hbox (2.17525pt too wide) in paragraph at lines 938--938
-[]|\TU/Georgia(0)/m/n/12 MOST| 
- []
-
-
-Overfull \hbox (2.17525pt too wide) in paragraph at lines 939--939
-[]|\TU/Georgia(0)/m/n/12 MOST| 
- []
-
+(Font)              No change on input line 925.
+LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/sl' undefined
+(Font)              No change on input line 933.
 
 Overfull \hbox (2.17525pt too wide) in paragraph at lines 940--940
+[]|\TU/Georgia(0)/m/n/12 MOST| 
+ []
+
+
+Overfull \hbox (2.17525pt too wide) in paragraph at lines 941--941
 []|\TU/Georgia(0)/m/n/12 MOST| 
  []
 
@@ -1586,150 +1581,157 @@ Overfull \hbox (2.17525pt too wide) in paragraph at lines 942--942
 []|\TU/Georgia(0)/m/n/12 MOST| 
  []
 
+
+Overfull \hbox (2.17525pt too wide) in paragraph at lines 944--944
+[]|\TU/Georgia(0)/m/n/12 MOST| 
+ []
+
 LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/b/sc' undefined
-(Font)              No change on input line 945.
+(Font)              No change on input line 947.
 LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/b/sc' undefined
-(Font)              No change on input line 960.
+(Font)              No change on input line 962.
 [10]
 LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/b/sc' undefined
-(Font)              No change on input line 970.
+(Font)              No change on input line 972.
 LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/it' undefined
-(Font)              No change on input line 984.
-LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/b/sc' undefined
 (Font)              No change on input line 986.
+LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/b/sc' undefined
+(Font)              No change on input line 988.
 LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/it' undefined
-(Font)              No change on input line 1007.
+(Font)              No change on input line 1009.
 LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/it' undefined
-(Font)              No change on input line 1007.
+(Font)              No change on input line 1009.
 LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/it' undefined
-(Font)              No change on input line 1007.
+(Font)              No change on input line 1009.
 LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/it' undefined
-(Font)              No change on input line 1007.
+(Font)              No change on input line 1009.
 LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/it' undefined
-(Font)              No change on input line 1007.
+(Font)              No change on input line 1009.
 LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/it' undefined
-(Font)              No change on input line 1007.
+(Font)              No change on input line 1009.
 LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/sc' undefined
-(Font)              No change on input line 1007.
+(Font)              No change on input line 1009.
 LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/sc' undefined
-(Font)              No change on input line 1007.
+(Font)              No change on input line 1009.
 LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/sc' undefined
-(Font)              No change on input line 1007.
+(Font)              No change on input line 1009.
 LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/it' undefined
-(Font)              No change on input line 1007.
+(Font)              No change on input line 1009.
 [11] [12]
 LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/b/sc' undefined
-(Font)              No change on input line 1011.
+(Font)              No change on input line 1013.
 LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/sl' undefined
-(Font)              No change on input line 1014.
+(Font)              No change on input line 1016.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 1020.
+(Font)              No change on input line 1022.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 1023.
-LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 1026.
+(Font)              No change on input line 1025.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
 (Font)              No change on input line 1028.
+LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
+(Font)              No change on input line 1030.
 LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/sl' undefined
-(Font)              No change on input line 1033.
+(Font)              No change on input line 1035.
 LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/sl' undefined
-(Font)              No change on input line 1043.
+(Font)              No change on input line 1045.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 1050.
+(Font)              No change on input line 1053.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 1052.
+(Font)              No change on input line 1055.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 1054.
+(Font)              No change on input line 1057.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 1056.
+(Font)              No change on input line 1059.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 1058.
+(Font)              No change on input line 1061.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 1060.
+(Font)              No change on input line 1063.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 1062.
+(Font)              No change on input line 1065.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 1064.
+(Font)              No change on input line 1067.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 1066.
+(Font)              No change on input line 1069.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 1068.
+(Font)              No change on input line 1071.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 1076.
+(Font)              No change on input line 1079.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 1078.
-LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 1080.
+(Font)              No change on input line 1081.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
 (Font)              No change on input line 1083.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 1085.
+(Font)              No change on input line 1086.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 1087.
+(Font)              No change on input line 1088.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 1089.
+(Font)              No change on input line 1090.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 1091.
+(Font)              No change on input line 1092.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
 (Font)              No change on input line 1094.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
 (Font)              No change on input line 1097.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 1099.
+(Font)              No change on input line 1100.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 1101.
+(Font)              No change on input line 1102.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 1103.
+(Font)              No change on input line 1104.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 1105.
+(Font)              No change on input line 1106.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 1107.
+(Font)              No change on input line 1108.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 1109.
+(Font)              No change on input line 1110.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 1111.
+(Font)              No change on input line 1112.
+LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
+(Font)              No change on input line 1114.
 [13]
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 1113.
+(Font)              No change on input line 1116.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 1115.
+(Font)              No change on input line 1118.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 1117.
+(Font)              No change on input line 1120.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 1119.
-LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/sl' undefined
 (Font)              No change on input line 1122.
 LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/sl' undefined
-(Font)              No change on input line 1145.
-LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 1149.
-LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 1149.
+(Font)              No change on input line 1126.
 LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/sl' undefined
-(Font)              No change on input line 1155.
+(Font)              No change on input line 1134.
+LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/sl' undefined
+(Font)              No change on input line 1157.
+LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
+(Font)              No change on input line 1161.
+LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
+(Font)              No change on input line 1161.
+LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/sl' undefined
+(Font)              No change on input line 1167.
 LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/b/sc' undefined
-(Font)              No change on input line 1184.
+(Font)              No change on input line 1196.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 1187.
+(Font)              No change on input line 1199.
 LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/b/sc' undefined
-(Font)              No change on input line 1190.
-LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 1195.
-LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 1198.
-[14]
-LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
 (Font)              No change on input line 1202.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 1211.
+(Font)              No change on input line 1207.
+[14]
+LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
+(Font)              No change on input line 1210.
+LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
+(Font)              No change on input line 1214.
+LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
+(Font)              No change on input line 1223.
 LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/b/sc' undefined
-(Font)              No change on input line 1222.
+(Font)              No change on input line 1234.
 LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/b/sc' undefined
-(Font)              No change on input line 1231.
+(Font)              No change on input line 1243.
 LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/b/sc' undefined
-(Font)              No change on input line 1257.
+(Font)              No change on input line 1269.
 LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/b/sc' undefined
-(Font)              No change on input line 1272.
+(Font)              No change on input line 1284.
 [15] [16] 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
 (./cv_thomas.aux)
@@ -1741,23 +1743,23 @@ L3 programming layer <2026-01-19>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `cv_thomas.out' has not changed.
-(rerunfilecheck)             Checksum: 8406DBFE3AA06A93DBBAF2136666924D;6774.
+(rerunfilecheck)             Checksum: 128FC018C2C3030AF68030569045EEC7;6877.
 )
 
 Here is how much of LuaTeX's memory you used:
- 22066 strings out of 476076
+ 22069 strings out of 476076
  195698,953878 words of node,token memory allocated
  1443 words of node memory still in use:
    11 hlist, 2 vlist, 6 rule, 2 glue, 4 kern, 1 glyph, 290 attribute, 80 glue_spec, 38 attribute_list, 1 write, 13 user_defined, 9 pdf_action nodes
-   avail lists: 1:32,2:55767,3:526,4:658,5:127,6:193,7:7588,8:50,9:1418,10:10,11:572
- 43822 multiletter control sequences out of 65536+600000
+   avail lists: 1:32,2:55767,3:526,4:658,5:128,6:193,7:7588,8:50,9:1418,10:10,11:572
+ 43824 multiletter control sequences out of 65536+600000
  81 fonts using 138457551 bytes
  92i,13n,125p,2044b,1132s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </Users/Thomas/Library/Fonts/academicons.ttf></Users/Thomas/Library/TinyTeX/texmf-dist/fonts/opentype/public/fontawesome5/FontAwesome5Brands-Regular-400.otf></System/Library/Fonts/Supplemental/Georgia Italic.ttf></Users/Thomas/Library/TinyTeX/texmf-dist/fonts/opentype/public/lm/lmmono12-regular.otf></Users/Thomas/Library/TinyTeX/texmf-dist/fonts/opentype/public/fontawesome5/FontAwesome5Free-Solid-900.otf></System/Library/Fonts/Supplemental/Georgia.ttf></Users/Thomas/Library/Fonts/NotoSansCJKtc-Regular.otf></System/Library/Fonts/Supplemental/Georgia Bold.ttf>
-Output written on cv_thomas.pdf (16 pages, 147567 bytes).
+Output written on cv_thomas.pdf (16 pages, 147884 bytes).
 
-PDF statistics: 497 PDF objects out of 1000 (max. 8388607)
- 450 compressed objects within 5 object streams
- 146 named destinations out of 1000 (max. 131072)
- 361 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 502 PDF objects out of 1000 (max. 8388607)
+ 455 compressed objects within 5 object streams
+ 147 named destinations out of 1000 (max. 1048576)
+ 369 words of extra memory for PDF output out of 10000 (max. 100000000)
 

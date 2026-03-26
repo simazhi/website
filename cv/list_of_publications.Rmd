@@ -40,17 +40,20 @@ knitr::opts_chunk$set(echo = TRUE)
 }%
 }
 
+
 (@) **Van Hoey, Thomas**, Matt. H. Gardner, Ruiming Ma & Benedikt Szmrecsanyi.
-*accepted*.
+2026 (online).
 Unpredictable grammatical choices are not harder than predictable ones.
-Language Variation and Change.
+*Language Variation and Change*.
+[doi: 10.1017/S0954394526100660](https://doi.org/10.1017/S0954394526100660)
 \iconset{ \faLightbulb \,   \faChartLine \,  \faPenNib \,   \faAt }
 
 
 (@)
-**Van Hoey, Thomas**, Benedikt Szmrecsanyi, Matt Hunt Gardner. Choice and complexity: Debunking the myth that absolute complexity invariably leads to relative complexity.
-*accepted*.
-Linguistic Typology at the Crossroads - special issue
+**Van Hoey, Thomas**, Benedikt Szmrecsanyi, Matt Hunt Gardner. 2026.
+Choice and complexity: In naturally occurring data, absolute complexity does not necessarily trigger relative complexity.
+*Linguistic Typology at the Crossroads* 5(2). 323-351.
+[doi: 10.60923/issn.2785-0943/19727](https://doi.org/10.60923/issn.2785-0943/19727)
 \iconset{\faLightbulb \, \faChartLine \, \faPenNib \,  \faAt}
 
 (@)

@@ -152,9 +152,10 @@ Executed
 }
 
 (@) **Van Hoey, Thomas**, Matt. H. Gardner, Ruiming Ma & Benedikt Szmrecsanyi.
-*accepted*.
+2026 (online).
 Unpredictable grammatical choices are not harder than predictable ones.
-Language Variation and Change.
+*Language Variation and Change*.
+[doi: 10.1017/S0954394526100660](https://doi.org/10.1017/S0954394526100660)
 \iconset{ \faLightbulb \,   \faChartLine \,  \faPenNib \,   \faAt }
 
 
@@ -750,9 +751,9 @@ supervision_table %>%
 management of membership database and coordinating KU Leuven Connect \newline
 president (since 2023)
 
-## Reviewing for journals
+## Reviewing
 
-### Occasional reviewer
+### Journals: occasional reviewer
 
 * *Cognitive Linguistics*
 * *Cognitive Science*
@@ -765,7 +766,7 @@ president (since 2023)
 * *Psychonomic Bulletin & Review*
 * *Review of Cognitive Linguistics*
 
-### Single reviews (thus far)
+### Journals: single reviews
 
 * *Academic Journal of Modern Philology*
 * *Behavior Research Methods*
@@ -789,7 +790,11 @@ president (since 2023)
 * *Studies in Language*
 * *Typology at the Crossroads*
 
-## Reviewing for conferences
+## Research funding institutions
+
+* DFG (Deutsche Forschungsgemeinschaft, 2025)
+
+## Conferences
 
 * SLE 59 (Societas Linguistica Europaea) 2026
 * IcoSem 4 (Iconicity Seminar) & ILL 15 (Iconicity in Language and Literature) 2026
