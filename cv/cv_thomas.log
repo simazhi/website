@@ -1,9 +1,9 @@
-This is LuaHBTeX, Version 1.24.0 (TeX Live 2026)  (format=lualatex 2026.3.24)  24 MAR 2026 13:43
+This is LuaHBTeX, Version 1.24.0 (TeX Live 2026)  (format=lualatex 2026.7.23)  23 JUL 2026 16:31
  restricted system commands enabled.
 **cv_thomas.tex
 (./cv_thomas.tex
-LaTeX2e <2025-11-01>
-L3 programming layer <2026-01-19>
+LaTeX2e <2026-06-01>
+L3 programming layer <2026-06-18>
 Lua module: luaotfload 2024-12-03 v3.29 Lua based OpenType font support
 Lua module: lualibs 2023-07-13 v2.76 ConTeXt Lua standard libraries.
 Lua module: lualibs-extended 2023-07-13 v2.76 ConTeXt Lua libraries -- extended collection.
@@ -39,17 +39,17 @@ Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/base/size12.clo
 File: size12.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 luaotfload | db : Font names database loaded from /Users/Thomas/Library/TinyTeX/texmf-var/luatex-cache/generic/names/luaotfload-names.luc.gz)
-\c@part=\count273
-\c@section=\count274
-\c@subsection=\count275
-\c@subsubsection=\count276
-\c@paragraph=\count277
-\c@subparagraph=\count278
-\c@figure=\count279
-\c@table=\count280
+\c@part=\count274
+\c@section=\count275
+\c@subsection=\count276
+\c@subsubsection=\count277
+\c@paragraph=\count278
+\c@subparagraph=\count279
+\c@figure=\count280
+\c@table=\count281
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
-\bibindent=\dimen147
+\bibindent=\dimen149
 ) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/lm/lmodern.sty
 Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
@@ -95,7 +95,7 @@ LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2025/07/09 v2.17z AMS math features
+Package: amsmath 2026/05/19 v2.18d AMS math features
 \@mathmargin=\skip51
 For additional information on amsmath, use the `?' option.
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amstext.sty
@@ -103,21 +103,21 @@ Package: amstext 2024/11/17 v2.01 AMS text
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks18
-\ex@=\dimen148
+\ex@=\dimen150
 )) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen149
+\pmbraise@=\dimen151
 ) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
-\inf@bad=\count281
+\inf@bad=\count282
 LaTeX Info: Redefining \frac on input line 235.
-\uproot@=\count282
-\leftroot@=\count283
+\uproot@=\count283
+\leftroot@=\count284
 LaTeX Info: Redefining \overline on input line 398.
 LaTeX Info: Redefining \colon on input line 409.
-\classnum@=\count284
-\DOTSCASE@=\count285
+\classnum@=\count285
+\DOTSCASE@=\count286
 LaTeX Info: Redefining \ldots on input line 495.
 LaTeX Info: Redefining \dots on input line 498.
 LaTeX Info: Redefining \cdots on input line 619.
@@ -127,60 +127,60 @@ LaTeX Info: Redefining \big on input line 721.
 LaTeX Info: Redefining \Big on input line 722.
 LaTeX Info: Redefining \bigg on input line 723.
 LaTeX Info: Redefining \Bigg on input line 724.
-\big@size=\dimen150
+\big@size=\dimen152
 LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
-\macc@depth=\count286
+\macc@depth=\count287
 LaTeX Info: Redefining \bmod on input line 904.
 LaTeX Info: Redefining \pmod on input line 909.
 LaTeX Info: Redefining \smash on input line 939.
 LaTeX Info: Redefining \relbar on input line 969.
 LaTeX Info: Redefining \Relbar on input line 970.
-\c@MaxMatrixCols=\count287
+\c@MaxMatrixCols=\count288
 \dotsspace@=\muskip17
-\c@parentequation=\count288
-\dspbrk@lvl=\count289
+\c@parentequation=\count289
+\dspbrk@lvl=\count290
 \tag@help=\toks19
-\row@=\count290
-\column@=\count291
-\maxfields@=\count292
+\row@=\count291
+\column@=\count292
+\maxfields@=\count293
 \andhelp@=\toks20
-\eqnshift@=\dimen151
-\alignsep@=\dimen152
-\tagshift@=\dimen153
-\tagwidth@=\dimen154
-\totwidth@=\dimen155
-\lineht@=\dimen156
+\eqnshift@=\dimen153
+\alignsep@=\dimen154
+\tagshift@=\dimen155
+\tagwidth@=\dimen156
+\totwidth@=\dimen157
+\lineht@=\dimen158
 \@envbody=\toks21
 \multlinegap=\skip52
 \multlinetaggap=\skip53
 \mathdisplay@stack=\toks22
-LaTeX Info: Redefining \[ on input line 2950.
-LaTeX Info: Redefining \] on input line 2951.
+LaTeX Info: Redefining \[ on input line 2965.
+LaTeX Info: Redefining \] on input line 2966.
 ) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/stackengine/stackengine.sty
 Package: stackengine 2021/07/22 v4.11\ Stacking text and objects in convenient ways
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count293
+\etb@tempcnta=\count294
 ) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/generic/listofitems/listofitems.sty (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/generic/listofitems/listofitems.tex
-\loi_cnt_foreach_nest=\count294
-\loi_nestcnt=\count295
+\loi_cnt_foreach_nest=\count295
+\loi_nestcnt=\count296
 )
 Package: listofitems 2024/03/09 v1.65 Grab items in lists using user-specified sep char (CT)
 ) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2025/03/01 v4.3b Infix arithmetic (KKT,FJ)
-\calc@Acount=\count296
-\calc@Bcount=\count297
-\calc@Adimen=\dimen157
-\calc@Bdimen=\dimen158
+\calc@Acount=\count297
+\calc@Bcount=\count298
+\calc@Adimen=\dimen159
+\calc@Bdimen=\dimen160
 \calc@Askip=\skip54
 \calc@Bskip=\skip55
 LaTeX Info: Redefining \setlength on input line 86.
 LaTeX Info: Redefining \addtolength on input line 87.
-\calc@Ccount=\count298
+\calc@Ccount=\count299
 \calc@Cskip=\skip56
 )
-\c@@stackindex=\count299
+\c@@stackindex=\count300
 \@boxshift=\skip57
 \stack@tmplength=\skip58
 \temp@stkl=\skip59
@@ -191,16 +191,16 @@ LaTeX Info: Redefining \addtolength on input line 87.
 \se@backgroundbox=\box58
 \stackedbox=\box59
 \@centerbox=\box60
-\c@ROWcellindex@=\count300
+\c@ROWcellindex@=\count301
 ) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/scalerel/scalerel.sty
 Package: scalerel 2016/12/29 v1.8 Routines for constrained scaling and stretching of objects, relative to a reference object or in absolute terms
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+Package: graphicx 2026-05-17 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+Package: keyval 2026-05-17 v1.15 key=value parser (DPC)
 \KV@toks@=\toks23
 ) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+Package: graphics 2026-05-17 v1.4h Standard LaTeX Graphics (DPC,SPQR)
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
 ) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
@@ -210,8 +210,8 @@ Package graphics Info: Driver file: luatex.def on input line 106.
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/graphics-def/luatex.def
 File: luatex.def 2025/09/29 v1.2f Graphics/color driver for luatex
 ))
-\Gin@req@height=\dimen159
-\Gin@req@width=\dimen160
+\Gin@req@height=\dimen161
+\Gin@req@width=\dimen162
 )
 \thesrwidth=\skip61
 \thesrheight=\skip62
@@ -236,6 +236,8 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/placeins/placeins.sty
+Package: placeins 2005/04/18  v 2.2
 ) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/generic/iftex/ifxetex.sty
 Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/generic/iftex/iftex.sty
@@ -252,30 +254,30 @@ Package fixltx2e Warning: fixltx2e is not required with releases after 2015
 
 Already applied: [0000/00/00] Old fixltx2e package on input line 53.
 ) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/fontspec/fontspec.sty (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2026-01-19 L3 programming layer (loader) 
+Package: expl3 2026-06-18 L3 programming layer (loader) 
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-luatex.def
-File: l3backend-luatex.def 2025-10-09 L3 backend support: PDF output (LuaTeX)
-\l__color_backend_stack_int=\count301
+File: l3backend-luatex.def 2026-02-18 L3 backend support: PDF output (LuaTeX)
+\l__color_backend_stack_int=\count302
 Inserting `l3color' in `luaotfload.parse_color'.))
 Package: xparse 2025-10-09 L3 Experimental document command parser
 )
 Package: fontspec 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTeX
 Lua module: fontspec 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTeX (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
 Package: fontspec-luatex 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTeX
-\l__fontspec_script_int=\count302
-\l__fontspec_language_int=\count303
-\l__fontspec_strnum_int=\count304
-\l__fontspec_tmp_int=\count305
-\l__fontspec_tmpa_int=\count306
-\l__fontspec_tmpb_int=\count307
-\l__fontspec_tmpc_int=\count308
-\l__fontspec_em_int=\count309
-\l__fontspec_emdef_int=\count310
-\l__fontspec_strong_int=\count311
-\l__fontspec_strongdef_int=\count312
-\l__fontspec_tmpa_dim=\dimen161
-\l__fontspec_tmpb_dim=\dimen162
-\l__fontspec_tmpc_dim=\dimen163
+\l__fontspec_script_int=\count303
+\l__fontspec_language_int=\count304
+\l__fontspec_strnum_int=\count305
+\l__fontspec_tmp_int=\count306
+\l__fontspec_tmpa_int=\count307
+\l__fontspec_tmpb_int=\count308
+\l__fontspec_tmpc_int=\count309
+\l__fontspec_em_int=\count310
+\l__fontspec_emdef_int=\count311
+\l__fontspec_strong_int=\count312
+\l__fontspec_strongdef_int=\count313
+\l__fontspec_tmpa_dim=\dimen163
+\l__fontspec_tmpb_dim=\dimen164
+\l__fontspec_tmpc_dim=\dimen165
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
 ) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
@@ -319,13 +321,13 @@ Package fontspec Info:
 (fontspec)             <->s*[0.8696406259220395]"name:Georgia/BI:mode=node;script=latn;language=dflt;+tlig;"
 
 LaTeX Font Info:    Font shape `TU/Georgia(0)/m/n' will be
-(Font)              scaled to size 10.74261pt on input line 20.
+(Font)              scaled to size 10.74261pt on input line 21.
 
 Package fontspec Info: 
 (fontspec)             Georgia scale = 0.8952155827005614.
 
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/luatex/luatexja/luatexja.sty
-Package: luatexja 2026-01-30 Japanese Typesetting with Lua(La)TeX
+Package: luatexja 2026-05-17 Japanese Typesetting with Lua(La)TeX
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/luatex/luatexja/luatexja-core.sty
 Package: luatexja-core 2023-10-07 Core of LuaTeX-ja
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/generic/infwarerr/infwarerr.sty
@@ -334,7 +336,7 @@ Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 Package: luatexbase 2015/10/04 v1.3 luatexbase interface to LuaTeX 
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/luatex/ctablestack/ctablestack.sty
 Package: ctablestack 2015/10/01 v1.0 Catcode table stable support
-\@catcodetablestackcnt=\count313
+\@catcodetablestackcnt=\count314
 )
 \CatcodeTableOther=\catcodetable14
 \CatcodeTableExpl=\catcodetable15
@@ -353,7 +355,7 @@ Package: xkeyval 2025/11/04 v2.10 package option processing (HA)
 \XKV@tempa@toks=\toks26
 \XKV@tempb@toks=\toks27
 )
-\XKV@depth=\count314
+\XKV@depth=\count315
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 )) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/everyhook/everyhook.sty (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/svn-prov/svn-prov.sty
 Package: svn-prov 2010/04/24 v3.1862 Package Date/Version from SVN Keywords
@@ -366,10 +368,10 @@ Package: everyhook 2014/11/26 v1.2 (SVN Rev: 12)\ Hooks for low level TeX everyX
 \everyvbox=\toks32
 \everycr=\toks33
 )
-\ltjlineendcomment=\count315
-\ltj@dimen@zw=\dimen164
-\ltj@dimen@zh=\dimen165
-\ltj@dimen@jQ=\dimen166
+\ltjlineendcomment=\count316
+\ltj@dimen@zw=\dimen166
+\ltj@dimen@zh=\dimen167
+\ltj@dimen@jQ=\dimen168
 \ltj@icflag=\attribute4
 \ltj@curjfnt=\attribute5
 \ltj@curtfnt=\attribute6
@@ -385,10 +387,10 @@ Package: everyhook 2014/11/26 v1.2 (SVN Rev: 12)\ Hooks for low level TeX everyX
 \ltj@vert@ori=\attribute16
 \ltj@dir=\attribute17
 \ltj@@japanese=\language2
-\ltj@tempcnta=\count316
-\ltj@tempdima=\dimen167
-\ltj@@stack=\count317
-\ltj@@group@level=\count318
+\ltj@tempcnta=\count317
+\ltj@tempdima=\dimen169
+\ltj@@stack=\count318
+\ltj@@group@level=\count319
 \ltj@kcat0=\attribute18
 \ltj@kcat1=\attribute19
 \ltj@kcat2=\attribute20
@@ -484,8 +486,8 @@ Inserting `ltj.main' in `hpack_filter'.
 Inserting `luaotfload.harf.finalize_hlist' in `hpack_filter'.
 Inserting `ltj.create_dir_whatsit' in `hpack_filter'. (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/luatex/luatexja/ltj-base.sty
 Package: ltj-base 2021-03-16
-\ltj@tempcntb=\count319
-\ltj@tempcntc=\count320
+\ltj@tempcntb=\count320
+\ltj@tempcntc=\count321
 \ltj@afbox=\box61
 )
 \ltj@@italic@inner=\luafunction31
@@ -518,10 +520,10 @@ Package: ltj-base 2021-03-16
 \ltj@@lua@uncopycheckdir@inner=\luafunction58
 \ltj@@lua@uncopy@restore@whatsit@inner=\luafunction59
 (load cache: ltj-kinsoku_default.luc) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/luatex/luatexja/ltj-latex.sty
-Package: ltj-latex 2025-06-08 LaTeX support of LuaTeX-ja
+Package: ltj-latex 2026-05-17 LaTeX support of LuaTeX-ja
 Inserting `ltj.direction' in `pre_shipout_filter'. (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/luatex/luatexja/patches/lltjfont.sty
-Package: lltjfont 2025-10-26 Patch to NFSS2 for LuaTeX-ja
-\ltj@@latex@plv=\count321
+Package: lltjfont 2026-03-15 Patch to NFSS2 for LuaTeX-ja
+\ltj@@latex@plv=\count322
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/base/tuenc.def
 File: tuenc.def 2025/07/18 v2.1d Standard LaTeX file
 \@remove@tlig@@@=\luafunction60
@@ -680,17 +682,17 @@ LaTeX Encoding Info:    Redeclaring text command \c (encoding TU) on input line 
 LaTeX Encoding Info:    Redeclaring text command \k (encoding TU) on input line 313.
 LaTeX Encoding Info:    Redeclaring text command \textcommabelow (encoding TU) on input line 314.
 )
-\Cht=\dimen168
-\cht=\dimen169
-\Cdp=\dimen170
-\cdp=\dimen171
-\Cwd=\dimen172
-\cwd=\dimen173
-\Cvs=\dimen174
-\cvs=\dimen175
-\Chs=\dimen176
-\chs=\dimen177
-\cHT=\dimen178
+\Cht=\dimen170
+\cht=\dimen171
+\Cdp=\dimen172
+\cdp=\dimen173
+\Cwd=\dimen174
+\cwd=\dimen175
+\Cvs=\dimen176
+\cvs=\dimen177
+\Chs=\dimen178
+\chs=\dimen179
+\cHT=\dimen180
 \dstrutbox=\box62
 \tstrutbox=\box63
 \zstrutbox=\box64
@@ -729,8 +731,8 @@ LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
 LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
 (Font)                  JY3/mc/m/n --> JY3/gt/m/n on input line 78.
 ) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/luatex/luatexja/patches/lltjcore.sty
-Package: lltjcore 2025-06-12 Patch to LaTeX2e Kernel for LuaTeX-ja (for LaTeX2e >=2025-06-01)
-\@tombowwidth=\dimen179
+Package: lltjcore 2026-05-17 Patch to LaTeX2e Kernel for LuaTeX-ja
+\@tombowwidth=\dimen181
 \@TL=\box65
 \@Tl=\box66
 \@TC=\box67
@@ -745,10 +747,10 @@ Package: lltjcore 2025-06-12 Patch to LaTeX2e Kernel for LuaTeX-ja (for LaTeX2e 
 \@CR=\box76
 (load cache: extra_lmmono9-regular.luc)
 \@bannertoken=\toks34
-\@@paperheight=\dimen180
-\@@paperwidth=\dimen181
-\@@topmargin=\dimen182
-LaTeX Info: Redefining \underline on input line 300.
+\@@paperheight=\dimen182
+\@@paperwidth=\dimen183
+\@@topmargin=\dimen184
+LaTeX Info: Redefining \underline on input line 311.
 ) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/luatex/luatexja/patches/lltjp-atbegshi.sty
 Package: lltjp-atbegshi 2024-05-14 Patching \shipout hooks for LuaTeX-ja
 \l__platex_shipout_dummy_box=\box77
@@ -759,8 +761,8 @@ Package: lltjp-geometry 2024-05-16 Patch to geometry for LuaTeX-ja with vertical
 ) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/luatex/luatexja/luatexja-compat.sty
 Package: luatexja-compat 2025-09-21 Compatibility with pTeX
 (load cache: ltj-jisx0208.luc)
-\hour=\count322
-\minute=\count323
+\hour=\count323
+\minute=\count324
 )) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/luatex/luatexja/addons/luatexja-fontspec.sty
 Package: luatexja-fontspec 2025-09-30 fontspec support of LuaTeX-ja
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
@@ -774,119 +776,130 @@ LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
 (Font)              scaled to size 15.39551pt on input line 16.
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/luatex/luatexja/addons/luatexja-fontspec-29e.sty
 Package: luatexja-fontspec-29e 2025-11-01 fontspec support of LuaTeX-ja
-\g__ltj_fontspec_altnumber_int=\count324
-))(load cache: extra_notosanscjktc-regular.luc)
+\g__ltj_fontspec_altnumber_int=\count325
+))(load cache: extra_notosanstc-regular.luc)
 
 Package fontspec Info: 
-(fontspec)             Noto Sans CJK TC scale = 0.96221923828125.
+(fontspec)             Noto Sans TC Regular scale = 0.96221923828125.
 
+(load cache: extra_notosanstc-bold.luc)
 
 Package fontspec Info: 
-(fontspec)             Could not resolve font "Noto Sans CJK TC/BI" (it
+(fontspec)             Could not resolve font "Noto Sans TC Bold/I" (it
 (fontspec)             probably doesn't exist).
 
 
 Package fontspec Info: 
-(fontspec)             Could not resolve font "Noto Sans CJK TC/B" (it
+(fontspec)             Could not resolve font "Noto Sans TC Regular/BI" (it
 (fontspec)             probably doesn't exist).
 
 
 Package fontspec Info: 
-(fontspec)             Could not resolve font "Noto Sans CJK TC/I" (it
+(fontspec)             Could not resolve font "Noto Sans TC Regular/I" (it
 (fontspec)             probably doesn't exist).
 
 
 Package fontspec Info: 
-(fontspec)             Noto Sans CJK TC scale = 0.96221923828125.
+(fontspec)             Noto Sans TC Regular scale = 0.96221923828125.
 
 LaTeX Font Info:    Font shape `JT3/mc/m/n' will be
-(Font)              scaled to size 11.54663pt on input line 26.
+(Font)              scaled to size 11.54663pt on input line 30.
 LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
-(Font)              scaled to size 11.54663pt on input line 26.
+(Font)              scaled to size 11.54663pt on input line 30.
 
 Package fontspec Info: 
-(fontspec)             Noto Sans CJK TC scale = 0.96221923828125.
+(fontspec)             Noto Sans TC Regular scale = 0.96221923828125.
 
 
 Package fontspec Info: 
-(fontspec)             Font family 'NotoSansCJKTC(0)' created for font 'Noto
-(fontspec)             Sans CJK TC' with options
-(fontspec)             [YokoFeatures={JFM=ujis},TateFeatures={JFM=ujisv},Scale=0.96221923828125,Kerning=Off,Script=CJK].
+(fontspec)             Noto Sans TC Bold scale = 0.96221923828125.
+
+
+Package fontspec Info: 
+(fontspec)             Noto Sans TC Bold scale = 0.96221923828125.
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'NotoSansTC(0)' created for font 'Noto Sans
+(fontspec)             TC' with options
+(fontspec)             [YokoFeatures={JFM=ujis},TateFeatures={JFM=ujisv},Scale=0.96221923828125,Kerning=Off,Script=CJK,UprightFont
+(fontspec)             = {Noto Sans TC Regular},BoldFont = {Noto Sans TC
+(fontspec)             Bold}].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
 
-LaTeX Font Info:    Redeclaring symbol font `mincho' on input line 26.
+LaTeX Font Info:    Redeclaring symbol font `mincho' on input line 30.
 LaTeX Font Info:    Overwriting symbol font `mincho' in version `normal'
-(Font)                  JY3/mc/m/n --> JY3/NotoSansCJKTC(0)/m/n on input line 26.
+(Font)                  JY3/mc/m/n --> JY3/NotoSansTC(0)/m/n on input line 30.
 LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
-(Font)                  JY3/gt/m/n --> JY3/NotoSansCJKTC(0)/m/n on input line 26.
+(Font)                  JY3/gt/m/n --> JY3/NotoSansTC(0)/m/n on input line 30.
 LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
-(Font)                  JY3/NotoSansCJKTC(0)/m/n --> JY3/NotoSansCJKTC(0)/b/n on input line 26.
-LaTeX Font Info:    Font shape `JT3/NotoSansCJKTC(0)/m/n' will be
-(Font)              scaled to size 9.6222pt on input line 26.
-LaTeX Font Info:    Font shape `JY3/NotoSansCJKTC(0)/m/n' will be
-(Font)              scaled to size 9.6222pt on input line 26.
+(Font)                  JY3/NotoSansTC(0)/m/n --> JY3/NotoSansTC(0)/b/n on input line 30.
+LaTeX Font Info:    Font shape `JT3/NotoSansTC(0)/m/n' will be
+(Font)              scaled to size 9.6222pt on input line 30.
+LaTeX Font Info:    Font shape `JY3/NotoSansTC(0)/m/n' will be
+(Font)              scaled to size 9.6222pt on input line 30.
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2026/03/07 v6.0 Page Geometry
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count325
-\Gm@cntv=\count326
-\c@Gm@tempcnt=\count327
-\Gm@bindingoffset=\dimen183
-\Gm@wd@mp=\dimen184
-\Gm@odd@mp=\dimen185
-\Gm@even@mp=\dimen186
-\Gm@layoutwidth=\dimen187
-\Gm@layoutheight=\dimen188
-\Gm@layouthoffset=\dimen189
-\Gm@layoutvoffset=\dimen190
+\Gm@cnth=\count326
+\Gm@cntv=\count327
+\c@Gm@tempcnt=\count328
+\Gm@bindingoffset=\dimen185
+\Gm@wd@mp=\dimen186
+\Gm@odd@mp=\dimen187
+\Gm@even@mp=\dimen188
+\Gm@layoutwidth=\dimen189
+\Gm@layoutheight=\dimen190
+\Gm@layouthoffset=\dimen191
+\Gm@layoutvoffset=\dimen192
 \Gm@dimlist=\toks35
 ) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
-\heavyrulewidth=\dimen191
-\lightrulewidth=\dimen192
-\cmidrulewidth=\dimen193
-\belowrulesep=\dimen194
-\belowbottomsep=\dimen195
-\aboverulesep=\dimen196
-\abovetopsep=\dimen197
-\cmidrulesep=\dimen198
-\cmidrulekern=\dimen199
-\defaultaddspace=\dimen256
-\@cmidla=\count328
-\@cmidlb=\count329
-\@aboverulesep=\dimen257
-\@belowrulesep=\dimen258
-\@thisruleclass=\count330
-\@lastruleclass=\count331
-\@thisrulewidth=\dimen259
+\heavyrulewidth=\dimen193
+\lightrulewidth=\dimen194
+\cmidrulewidth=\dimen195
+\belowrulesep=\dimen196
+\belowbottomsep=\dimen197
+\aboverulesep=\dimen198
+\abovetopsep=\dimen199
+\cmidrulesep=\dimen256
+\cmidrulekern=\dimen257
+\defaultaddspace=\dimen258
+\@cmidla=\count329
+\@cmidlb=\count330
+\@aboverulesep=\dimen259
+\@belowrulesep=\dimen260
+\@thisruleclass=\count331
+\@lastruleclass=\count332
+\@thisrulewidth=\dimen261
 ) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/tools/longtable.sty
-Package: longtable 2025-10-13 v4.24 Multi-page Table package (DPC)
+Package: longtable 2026-01-28 v4.27 Multi-page Table package (DPC)
 \LTleft=\skip68
 \LTright=\skip69
 \LTpre=\skip70
 \LTpost=\skip71
-\LTchunksize=\count332
-\LTcapwidth=\dimen260
+\LTchunksize=\count333
+\LTcapwidth=\dimen262
 \LT@head=\box78
 \LT@firsthead=\box79
 \LT@foot=\box80
 \LT@lastfoot=\box81
 \LT@gbox=\box82
-\LT@cols=\count333
-\LT@rows=\count334
-\c@LT@tables=\count335
-\c@LT@chunks=\count336
+\LT@cols=\count334
+\LT@rows=\count335
+\c@LT@tables=\count336
+\c@LT@chunks=\count337
 \LT@p@ftn=\toks36
 ) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/tools/array.sty
-Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
-\col@sep=\dimen261
+Package: array 2026/02/24 v2.7b Tabular extension package (FMi)
+\col@sep=\dimen263
 \ar@mcellbox=\box83
-\extrarowheight=\dimen262
+\extrarowheight=\dimen264
 \NC@list=\toks37
 \extratabsurround=\skip72
 \backup@length=\skip73
@@ -894,28 +907,28 @@ Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
 ) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/multirow/multirow.sty
 Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
 \multirow@colwidth=\skip74
-\multirow@cntb=\count337
+\multirow@cntb=\count338
 \multirow@dima=\skip75
-\bigstrutjot=\dimen263
+\bigstrutjot=\dimen265
 ) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/wrapfig/wrapfig.sty
-\wrapoverhang=\dimen264
-\WF@size=\dimen265
-\c@WF@wrappedlines=\count338
+\wrapoverhang=\dimen266
+\WF@size=\dimen267
+\c@WF@wrappedlines=\count339
 \WF@box=\box85
 \WF@everypar=\toks38
 Package: wrapfig 2003/01/31  v 3.6
 ) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count339
+\c@float@type=\count340
 \float@exts=\toks39
 \float@box=\box86
 \@float@everytoks=\toks40
 \@floatcapt=\box87
 ) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/colortbl/colortbl.sty
-Package: colortbl 2024/10/29 v1.0k Color table columns (DPC)
-\everycr=\toks41
+Package: colortbl 2026/05/01 v1.0l Color table columns (DPC)
+new hooks used!!
 \minrowclearance=\skip76
-\rownum=\count340
+\rownum=\count341
 ) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/pdflscape/pdflscape.sty
 Package: pdflscape 2025-06-23 v0.14 Display of landscape pages in PDF
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.sty
@@ -929,28 +942,28 @@ Package: tabu 2019/01/11 v2.9 - flexible LaTeX tabulars (FC+tabu-fixed)
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/varwidth/varwidth.sty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \@vwid@box=\box88
-\sift@deathcycles=\count341
-\@vwid@loff=\dimen266
-\@vwid@roff=\dimen267
+\sift@deathcycles=\count342
+\@vwid@loff=\dimen268
+\@vwid@roff=\dimen269
 )
 ==> First Aid for varwidth.sty applied!
-\c@taburow=\count342
-\tabu@nbcols=\count343
-\tabu@cnt=\count344
-\tabu@Xcol=\count345
-\tabu@alloc=\count346
-\tabu@nested=\count347
-\tabu@target=\dimen268
-\tabu@spreadtarget=\dimen269
-\tabu@naturalX=\dimen270
-\tabucolX=\dimen271
-\tabu@Xsum=\dimen272
-\extrarowdepth=\dimen273
-\abovetabulinesep=\dimen274
-\belowtabulinesep=\dimen275
-\tabustrutrule=\dimen276
-\tabu@thebody=\toks42
-\tabu@footnotes=\toks43
+\c@taburow=\count343
+\tabu@nbcols=\count344
+\tabu@cnt=\count345
+\tabu@Xcol=\count346
+\tabu@alloc=\count347
+\tabu@nested=\count348
+\tabu@target=\dimen270
+\tabu@spreadtarget=\dimen271
+\tabu@naturalX=\dimen272
+\tabucolX=\dimen273
+\tabu@Xsum=\dimen274
+\extrarowdepth=\dimen275
+\abovetabulinesep=\dimen276
+\belowtabulinesep=\dimen277
+\tabustrutrule=\dimen278
+\tabu@thebody=\toks41
+\tabu@footnotes=\toks42
 \tabu@box=\box89
 \tabu@arstrutbox=\box90
 \tabu@hleads=\box91
@@ -971,18 +984,18 @@ Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 \UL@box=\box94
 \UL@hyphenbox=\box95
 \UL@skip=\skip79
-\UL@hook=\toks44
-\UL@height=\dimen277
-\UL@pe=\count348
-\UL@pixel=\dimen278
+\UL@hook=\toks43
+\UL@height=\dimen279
+\UL@pe=\count349
+\UL@pixel=\dimen280
 \ULC@box=\box96
 Package: ulem 2019/11/18
-\ULdepth=\dimen279
+\ULdepth=\dimen281
 ) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/makecell/makecell.sty
 Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
-\rotheadsize=\dimen280
-\c@nlinenum=\count349
-\TeXr@lab=\toks45
+\rotheadsize=\dimen282
+\c@nlinenum=\count350
+\TeXr@lab=\toks44
 ) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/sectsty/sectsty.sty
 Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading styles
 
@@ -1004,12 +1017,12 @@ Package: titlesec 2025/01/04 v2.17 Sectioning titles
 \ttl@box=\box97
 \beforetitleunit=\skip80
 \aftertitleunit=\skip81
-\ttl@plus=\dimen281
-\ttl@minus=\dimen282
-\ttl@toksa=\toks46
-\titlewidth=\dimen283
-\titlewidthlast=\dimen284
-\titlewidthfirst=\dimen285
+\ttl@plus=\dimen283
+\ttl@minus=\dimen284
+\ttl@toksa=\toks45
+\titlewidth=\dimen285
+\titlewidthlast=\dimen286
+\titlewidthfirst=\dimen287
 ) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/fontawesome5/fontawesome5.sty
 Package: fontawesome5 2022/05/02 v5.15.4 Font Awesome 5
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/fontawesome5/fontawesome5-utex-helper.sty
@@ -1017,7 +1030,7 @@ Package: fontawesome5-utex-helper 2022/05/02 v5.15.4 uTeX helper for fontawesome
 LaTeX Font Info:    Trying loading font information for TU+fontawesomefree on input line 69.
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/fontawesome5/tufontawesomefree.fd)(load cache: extra_fontawesome5free-solid.luc)
 LaTeX Font Info:    Trying loading font information for TU+fontawesomebrands on input line 70.
-(/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/fontawesome5/tufontawesomebrands.fd)(load cache: extra_fontawesome5brands-regular.luc))) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/generic/academicons/academicons.sty
+(/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/fontawesome5/tufontawesomebrands.fd)(load cache: extra_fontawesome5brands-regular.luc))) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/academicons/academicons.sty
 Package: academicons 2025/09/20 v1.9.6-2 Academicons Icons
 (load cache: extra_academicons.luc)
 
@@ -1028,9 +1041,9 @@ Package fontspec Info:
 Package fontspec Info: 
 (fontspec)             academicons scale = 0.9851353755044104.
 
-LaTeX Font Info:    Font shape `JT3/NotoSansCJKTC(0)/m/n' will be
+LaTeX Font Info:    Font shape `JT3/NotoSansTC(0)/m/n' will be
 (Font)              scaled to size 11.54663pt on input line 36.
-LaTeX Font Info:    Font shape `JY3/NotoSansCJKTC(0)/m/n' will be
+LaTeX Font Info:    Font shape `JY3/NotoSansTC(0)/m/n' will be
 (Font)              scaled to size 11.54663pt on input line 36.
 
 Package fontspec Info: 
@@ -1064,7 +1077,7 @@ Package fontspec Info:
 (fontspec)             - 'bold italic' (b/it) with NFSS spec.:
 (fontspec)             <->s*[0.9851353755044104]"name:academicons:mode=node;language=dflt;+tlig;"
 
-(/Users/Thomas/Library/TinyTeX/texmf-dist/tex/generic/academicons/academicons-xeluatex.tex) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/generic/academicons/academicons-generic.tex)) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/ragged2e/ragged2e.sty
+(/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/academicons/academicons-xeluatex.tex) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/academicons/academicons-generic.tex)) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/ragged2e/ragged2e.sty
 Package: ragged2e 2023/06/22 v3.6 ragged2e Package
 \CenteringLeftskip=\skip82
 \RaggedLeftLeftskip=\skip83
@@ -1082,13 +1095,13 @@ Package: ragged2e 2023/06/22 v3.6 ragged2e Package
 \JustifyingParindent=\skip95
 ) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/tools/tabularx.sty
 Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
-\TX@col@width=\dimen286
-\TX@old@table=\dimen287
-\TX@old@col=\dimen288
-\TX@target=\dimen289
-\TX@delta=\dimen290
-\TX@cols=\count350
-\TX@ftn=\toks47
+\TX@col@width=\dimen288
+\TX@old@table=\dimen289
+\TX@old@col=\dimen290
+\TX@target=\dimen291
+\TX@delta=\dimen292
+\TX@cols=\count351
+\TX@ftn=\toks46
 ) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
 \f@nch@headwidth=\skip96
@@ -1105,17 +1118,17 @@ Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
 \f@nch@widthL=\skip107
 \f@nch@widthC=\skip108
 \f@nch@widthR=\skip109
-\@temptokenb=\toks48
+\@temptokenb=\toks47
 ) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/lastpage/lastpage.sty
 Package: lastpage 2025/08/14 v2.1h lastpage: 2.09 or 2e? (HMM)
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/lastpage/lastpage2e.sty
 Package: lastpage2e 2025/08/14 v2.1h Decide which 2e lastpage version to use (HMM)
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/lastpage/lastpagemodern.sty
 Package: lastpagemodern 2025-08-14 v2.1h Refers to last page's name (HMM; JPG)
-\c@lastpagecount=\count351
+\c@lastpagecount=\count352
 ) 
 )) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2026-01-29 v7.01p Hypertext links for LaTeX
+Package: hyperref 2026-06-17 v7.01r Hypertext links for LaTeX
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 ) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/generic/pdfescape/pdfescape.sty
@@ -1129,60 +1142,60 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count352
+\c@section@level=\count353
 ) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/generic/stringenc/stringenc.sty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
 )
-\@linkdim=\dimen291
-\Hy@linkcounter=\count353
-\Hy@pagecounter=\count354
+\@linkdim=\dimen293
+\Hy@linkcounter=\count354
+\Hy@pagecounter=\count355
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2026-01-29 v7.01p Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2026-06-17 v7.01r Hyperref: PDFDocEncoding definition (HO)
 ) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count355
+\Hy@SavedSpaceFactor=\count356
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2026-01-29 v7.01p Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2026-06-17 v7.01r Hyperref: PDF Unicode definition (HO)
 )
-Package hyperref Info: Hyper figures OFF on input line 4201.
-Package hyperref Info: Link nesting OFF on input line 4206.
-Package hyperref Info: Hyper index ON on input line 4209.
-Package hyperref Info: Plain pages OFF on input line 4216.
-Package hyperref Info: Backreferencing OFF on input line 4221.
+Package hyperref Info: Hyper figures OFF on input line 4199.
+Package hyperref Info: Link nesting OFF on input line 4204.
+Package hyperref Info: Hyper index ON on input line 4207.
+Package hyperref Info: Plain pages OFF on input line 4214.
+Package hyperref Info: Backreferencing OFF on input line 4219.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4468.
-\c@Hy@tempcnt=\count356
+Package hyperref Info: Bookmarks ON on input line 4466.
+\c@Hy@tempcnt=\count357
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip18
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4807.
-\XeTeXLinkMargin=\dimen292
+LaTeX Info: Redefining \url on input line 4805.
+\XeTeXLinkMargin=\dimen294
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
-\Fld@menulength=\count357
-\Field@Width=\dimen293
-\Fld@charsize=\dimen294
-Package hyperref Info: Hyper figures OFF on input line 6084.
-Package hyperref Info: Link nesting OFF on input line 6089.
-Package hyperref Info: Hyper index ON on input line 6092.
-Package hyperref Info: backreferencing OFF on input line 6099.
-Package hyperref Info: Link coloring OFF on input line 6104.
-Package hyperref Info: Link coloring with OCG OFF on input line 6109.
-Package hyperref Info: PDF/A mode OFF on input line 6114.
-\Hy@abspage=\count358
-\c@Item=\count359
-\c@Hfootnote=\count360
+\Fld@menulength=\count358
+\Field@Width=\dimen295
+\Fld@charsize=\dimen296
+Package hyperref Info: Hyper figures OFF on input line 6091.
+Package hyperref Info: Link nesting OFF on input line 6096.
+Package hyperref Info: Hyper index ON on input line 6099.
+Package hyperref Info: backreferencing OFF on input line 6106.
+Package hyperref Info: Link coloring OFF on input line 6111.
+Package hyperref Info: Link coloring with OCG OFF on input line 6116.
+Package hyperref Info: PDF/A mode OFF on input line 6121.
+\Hy@abspage=\count359
+\c@Item=\count360
+\c@Hfootnote=\count361
 )
 Package hyperref Info: Driver (autodetected): hluatex.
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hluatex.def
-File: hluatex.def 2026-01-29 v7.01p Hyperref driver for luaTeX
-\Fld@listcount=\count361
-\c@bookmark@seq@number=\count362
+File: hluatex.def 2026-06-17 v7.01r Hyperref driver for luaTeX
+\Fld@listcount=\count362
+\c@bookmark@seq@number=\count363
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
@@ -1192,55 +1205,56 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 )
 \Hy@SectionHShift=\skip110
 )
-Package hyperref Info: Option `unicode' set `true' on input line 135.
-Package hyperref Info: Option `colorlinks' set `true' on input line 135.
-Package hyperref Info: Option `breaklinks' set `true' on input line 135.
+Package hyperref Info: Option `unicode' set `true' on input line 139.
+Package hyperref Info: Option `colorlinks' set `true' on input line 139.
+Package hyperref Info: Option `breaklinks' set `true' on input line 139.
 
 Package hyperref Warning: Option `bookmarks' has already been used,
-(hyperref)                setting the option has no effect on input line 135.
+(hyperref)                setting the option has no effect on input line 139.
 
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/luatex/luatexja/patches/lltjp-array.sty
-Package: lltjp-array 2024-07-21 Patch to array for LuaTeX-ja
+Package: lltjp-array 2026-05-13 Patch to array for LuaTeX-ja
+lltjp-array: patch FAILED (\@tabular 2)
 ) (./cv_thomas.aux)
 \openout1 = cv_thomas.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 138.
-LaTeX Font Info:    ... okay on input line 138.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 138.
-LaTeX Font Info:    ... okay on input line 138.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 138.
-LaTeX Font Info:    ... okay on input line 138.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 138.
-LaTeX Font Info:    ... okay on input line 138.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 138.
-LaTeX Font Info:    ... okay on input line 138.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 138.
-LaTeX Font Info:    ... okay on input line 138.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 138.
-LaTeX Font Info:    ... okay on input line 138.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 138.
-LaTeX Font Info:    ... okay on input line 138.
-LaTeX Font Info:    Checking defaults for JY3/mc/m/n on input line 138.
-LaTeX Font Info:    ... okay on input line 138.
-LaTeX Font Info:    Checking defaults for JT3/mc/m/n on input line 138.
-LaTeX Font Info:    ... okay on input line 138.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 138.
-LaTeX Font Info:    ... okay on input line 138.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 138.
-LaTeX Font Info:    ... okay on input line 138.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 142.
+LaTeX Font Info:    ... okay on input line 142.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 142.
+LaTeX Font Info:    ... okay on input line 142.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 142.
+LaTeX Font Info:    ... okay on input line 142.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 142.
+LaTeX Font Info:    ... okay on input line 142.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 142.
+LaTeX Font Info:    ... okay on input line 142.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 142.
+LaTeX Font Info:    ... okay on input line 142.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 142.
+LaTeX Font Info:    ... okay on input line 142.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 142.
+LaTeX Font Info:    ... okay on input line 142.
+LaTeX Font Info:    Checking defaults for JY3/mc/m/n on input line 142.
+LaTeX Font Info:    ... okay on input line 142.
+LaTeX Font Info:    Checking defaults for JT3/mc/m/n on input line 142.
+LaTeX Font Info:    ... okay on input line 142.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 142.
+LaTeX Font Info:    ... okay on input line 142.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 142.
+LaTeX Font Info:    ... okay on input line 142.
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count363
-\scratchdimen=\dimen295
+\scratchcounter=\count364
+\scratchdimen=\dimen297
 \scratchbox=\box98
-\nofMPsegments=\count364
-\nofMParguments=\count365
-\everyMPshowfont=\toks49
-\MPscratchCnt=\count366
-\MPscratchDim=\dimen296
-\MPnumerator=\count367
-\makeMPintoPDFobject=\count368
-\everyMPtoPDFconversion=\toks50
+\nofMPsegments=\count365
+\nofMParguments=\count366
+\everyMPshowfont=\toks48
+\MPscratchCnt=\count367
+\MPscratchDim=\dimen298
+\MPnumerator=\count368
+\makeMPintoPDFobject=\count369
+\everyMPtoPDFconversion=\toks49
 ) (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -1281,405 +1295,372 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring ON on input line 138.
+Package hyperref Info: Link coloring ON on input line 142.
 (./cv_thomas.out) (./cv_thomas.out)
 \@outlinefile=\write3
 
 \openout3 = cv_thomas.out
 LaTeX Font Info:    Font shape `TU/Georgia(0)/m/n' will be
-(Font)              scaled to size 22.27303pt on input line 141.
-LaTeX Font Info:    Font shape `JT3/NotoSansCJKTC(0)/m/n' will be
-(Font)              scaled to size 23.94002pt on input line 141.
-LaTeX Font Info:    Font shape `JY3/NotoSansCJKTC(0)/m/n' will be
-(Font)              scaled to size 23.94002pt on input line 141.
+(Font)              scaled to size 22.27303pt on input line 146.
+LaTeX Font Info:    Font shape `JT3/NotoSansTC(0)/m/n' will be
+(Font)              scaled to size 23.94002pt on input line 146.
+LaTeX Font Info:    Font shape `JY3/NotoSansTC(0)/m/n' will be
+(Font)              scaled to size 23.94002pt on input line 146.
 LaTeX Font Info:    Font shape `TU/Georgia(0)/b/n' will be
-(Font)              scaled to size 22.13824pt on input line 141.
-
-LaTeX Font Warning: Font shape `JT3/NotoSansCJKTC(0)/b/n' undefined
-(Font)              using `JT3/NotoSansCJKTC(0)/m/n' instead on input line 141.
-
-LaTeX Font Info:    Font shape `JT3/NotoSansCJKTC(0)/m/n' will be
-(Font)              scaled to size 23.94002pt on input line 141.
-
-LaTeX Font Warning: Font shape `JY3/NotoSansCJKTC(0)/b/n' undefined
-(Font)              using `JY3/NotoSansCJKTC(0)/m/n' instead on input line 141.
-
+(Font)              scaled to size 22.13824pt on input line 146.
+LaTeX Font Info:    Font shape `JT3/NotoSansTC(0)/b/n' will be
+(Font)              scaled to size 23.94002pt on input line 146.
+LaTeX Font Info:    Font shape `JY3/NotoSansTC(0)/b/n' will be
+(Font)              scaled to size 23.94002pt on input line 146.
 (load cache: extra_lmmono12-regular.luc)
-LaTeX Font Info:    Trying loading font information for OT1+lmr on input line 153.
+LaTeX Font Info:    Trying loading font information for OT1+lmr on input line 159.
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying loading font information for OML+lmm on input line 153.
+LaTeX Font Info:    Trying loading font information for OML+lmm on input line 159.
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying loading font information for OMS+lmsy on input line 153.
+LaTeX Font Info:    Trying loading font information for OMS+lmsy on input line 159.
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying loading font information for OMX+lmex on input line 153.
+LaTeX Font Info:    Trying loading font information for OMX+lmex on input line 159.
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 153.
+(Font)              <12> on input line 159.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 153.
+(Font)              <8> on input line 159.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 153.
-LaTeX Font Info:    Trying loading font information for U+msa on input line 153.
+(Font)              <6> on input line 159.
+LaTeX Font Info:    Trying loading font information for U+msa on input line 159.
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying loading font information for U+msb on input line 153.
+LaTeX Font Info:    Trying loading font information for U+msb on input line 159.
 (/Users/Thomas/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Font shape `JY3/NotoSansCJKTC(0)/m/n' will be
-(Font)              scaled to size 7.69775pt on input line 153.
-LaTeX Font Info:    Font shape `JY3/NotoSansCJKTC(0)/m/n' will be
-(Font)              scaled to size 5.77332pt on input line 153.
+LaTeX Font Info:    Font shape `JY3/NotoSansTC(0)/m/n' will be
+(Font)              scaled to size 7.69775pt on input line 159.
+LaTeX Font Info:    Font shape `JY3/NotoSansTC(0)/m/n' will be
+(Font)              scaled to size 5.77332pt on input line 159.
 LaTeX Font Info:    Font shape `TU/Georgia(0)/m/n' will be
-(Font)              scaled to size 12.89113pt on input line 156.
-LaTeX Font Info:    Font shape `JT3/NotoSansCJKTC(0)/m/n' will be
-(Font)              scaled to size 13.85594pt on input line 156.
-LaTeX Font Info:    Font shape `JY3/NotoSansCJKTC(0)/m/n' will be
-(Font)              scaled to size 13.85594pt on input line 156.
+(Font)              scaled to size 12.89113pt on input line 162.
+LaTeX Font Info:    Font shape `JT3/NotoSansTC(0)/m/n' will be
+(Font)              scaled to size 13.85594pt on input line 162.
+LaTeX Font Info:    Font shape `JY3/NotoSansTC(0)/m/n' will be
+(Font)              scaled to size 13.85594pt on input line 162.
 LaTeX Font Info:    Font shape `JT3/gt/m/n' will be
-(Font)              scaled to size 11.54663pt on input line 159.
+(Font)              scaled to size 11.54663pt on input line 165.
 LaTeX Font Info:    Font shape `JY3/gt/m/n' will be
-(Font)              scaled to size 11.54663pt on input line 159.
+(Font)              scaled to size 11.54663pt on input line 165.
 (load cache: extra_haranoajigothic-medium.luc)
 LaTeX Font Info:    Font shape `TU/Georgia(0)/m/it' will be
-(Font)              scaled to size 10.4978pt on input line 159.
+(Font)              scaled to size 10.4978pt on input line 165.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 159.
+(Font)              No change on input line 165.
 
-LaTeX Font Warning: Font shape `JT3/NotoSansCJKTC(0)/solid/n' undefined
-(Font)              using `JT3/NotoSansCJKTC(0)/m/n' instead on input line 164.
+LaTeX Font Warning: Font shape `JT3/NotoSansTC(0)/solid/n' undefined
+(Font)              using `JT3/NotoSansTC(0)/m/n' instead on input line 170.
 
-LaTeX Font Info:    Font shape `JT3/NotoSansCJKTC(0)/m/n' will be
-(Font)              scaled to size 11.54663pt on input line 164.
+LaTeX Font Info:    Font shape `JT3/NotoSansTC(0)/m/n' will be
+(Font)              scaled to size 11.54663pt on input line 170.
 
-LaTeX Font Warning: Font shape `JY3/NotoSansCJKTC(0)/solid/n' undefined
-(Font)              using `JY3/NotoSansCJKTC(0)/m/n' instead on input line 164.
+LaTeX Font Warning: Font shape `JY3/NotoSansTC(0)/solid/n' undefined
+(Font)              using `JY3/NotoSansTC(0)/m/n' instead on input line 170.
 
 
-LaTeX Font Warning: Font shape `JT3/NotoSansCJKTC(0)/regular/n' undefined
-(Font)              using `JT3/NotoSansCJKTC(0)/m/n' instead on input line 164.
+LaTeX Font Warning: Font shape `JT3/NotoSansTC(0)/regular/n' undefined
+(Font)              using `JT3/NotoSansTC(0)/m/n' instead on input line 170.
 
-LaTeX Font Info:    Font shape `JT3/NotoSansCJKTC(0)/m/n' will be
-(Font)              scaled to size 11.54663pt on input line 164.
+LaTeX Font Info:    Font shape `JT3/NotoSansTC(0)/m/n' will be
+(Font)              scaled to size 11.54663pt on input line 170.
 
-LaTeX Font Warning: Font shape `JY3/NotoSansCJKTC(0)/regular/n' undefined
-(Font)              using `JY3/NotoSansCJKTC(0)/m/n' instead on input line 164.
+LaTeX Font Warning: Font shape `JY3/NotoSansTC(0)/regular/n' undefined
+(Font)              using `JY3/NotoSansTC(0)/m/n' instead on input line 170.
 
 LaTeX Font Info:    Font shape `TU/academicons(0)/m/n' will be
-(Font)              scaled to size 11.82166pt on input line 165.
+(Font)              scaled to size 11.82166pt on input line 171.
 
-Overfull \hbox (1.72748pt too wide) in paragraph at lines 152--169
+Overfull \hbox (1.72748pt too wide) in paragraph at lines 158--175
 [][] [] 
  []
 
 LaTeX Font Info:    Font shape `TU/Georgia(0)/m/n' will be
-(Font)              scaled to size 15.46936pt on input line 177.
-LaTeX Font Info:    Font shape `JT3/NotoSansCJKTC(0)/m/n' will be
-(Font)              scaled to size 16.62714pt on input line 177.
-LaTeX Font Info:    Font shape `JY3/NotoSansCJKTC(0)/m/n' will be
-(Font)              scaled to size 16.62714pt on input line 177.
+(Font)              scaled to size 15.46936pt on input line 183.
+LaTeX Font Info:    Font shape `JT3/NotoSansTC(0)/m/n' will be
+(Font)              scaled to size 16.62714pt on input line 183.
+LaTeX Font Info:    Font shape `JY3/NotoSansTC(0)/m/n' will be
+(Font)              scaled to size 16.62714pt on input line 183.
 LaTeX Font Info:    Font shape `TU/Georgia(0)/b/n' will be
-(Font)              scaled to size 15.37575pt on input line 177.
-LaTeX Font Info:    Font shape `JT3/NotoSansCJKTC(0)/b/n' will be
-(Font)              scaled to size 16.62714pt on input line 177.
-LaTeX Font Info:    Font shape `JY3/NotoSansCJKTC(0)/b/n' will be
-(Font)              scaled to size 16.62714pt on input line 177.
+(Font)              scaled to size 15.37575pt on input line 183.
+LaTeX Font Info:    Font shape `JT3/NotoSansTC(0)/b/n' will be
+(Font)              scaled to size 16.62714pt on input line 183.
+LaTeX Font Info:    Font shape `JY3/NotoSansTC(0)/b/n' will be
+(Font)              scaled to size 16.62714pt on input line 183.
 
 LaTeX Font Warning: Font shape `TU/Georgia(0)/b/sc' undefined
-(Font)              using `TU/Georgia(0)/b/n' instead on input line 177.
+(Font)              using `TU/Georgia(0)/b/n' instead on input line 183.
 
-LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/b/sc' undefined
-(Font)              No change on input line 177.
+LaTeX Font Info:    Kanji font shape `JY3/NotoSansTC(0)/b/sc' undefined
+(Font)              No change on input line 183.
 LaTeX Font Info:    Font shape `TU/Georgia(0)/b/n' will be
-(Font)              scaled to size 10.67761pt on input line 179.
-LaTeX Font Info:    Font shape `JT3/NotoSansCJKTC(0)/b/n' will be
-(Font)              scaled to size 11.54663pt on input line 179.
-LaTeX Font Info:    Font shape `JY3/NotoSansCJKTC(0)/b/n' will be
-(Font)              scaled to size 11.54663pt on input line 179.
+(Font)              scaled to size 10.67761pt on input line 185.
+LaTeX Font Info:    Font shape `JT3/NotoSansTC(0)/b/n' will be
+(Font)              scaled to size 11.54663pt on input line 185.
+LaTeX Font Info:    Font shape `JY3/NotoSansTC(0)/b/n' will be
+(Font)              scaled to size 11.54663pt on input line 185.
 LaTeX Font Info:    Font shape `TU/Georgia(0)/b/sc' will be
-(Font)              scaled to size 15.37575pt on input line 196.
-LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/b/sc' undefined
-(Font)              No change on input line 196.
-LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/b/sc' undefined
-(Font)              No change on input line 205.
-LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 207.
-LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 209.
-LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 210.
+(Font)              scaled to size 15.37575pt on input line 202.
+LaTeX Font Info:    Kanji font shape `JY3/NotoSansTC(0)/b/sc' undefined
+(Font)              No change on input line 202.
+LaTeX Font Info:    Kanji font shape `JY3/NotoSansTC(0)/b/sc' undefined
+(Font)              No change on input line 211.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
 (Font)              No change on input line 213.
-LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/b/sc' undefined
-(Font)              No change on input line 217.
-LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/b/sc' undefined
-(Font)              No change on input line 224.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
+(Font)              No change on input line 215.
+LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
+(Font)              No change on input line 216.
+LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
+(Font)              No change on input line 219.
+LaTeX Font Info:    Kanji font shape `JY3/NotoSansTC(0)/b/sc' undefined
+(Font)              No change on input line 223.
+LaTeX Font Info:    Kanji font shape `JY3/NotoSansTC(0)/b/sc' undefined
 (Font)              No change on input line 230.
+LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
+(Font)              No change on input line 236.
 [1
 
 {/Users/Thomas/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/b/sc' undefined
-(Font)              No change on input line 245.
+Missing character: There is no 办 (U+529E) in font "name:Noto Sans TC Regular:mode=node;script=hani;language=dflt;-kern;jfm=ujis"!
+Missing character: There is no 办 (U+529E) in font "name:Noto Sans TC Regular:mode=node;script=hani;language=dflt;-kern;jfm=ujis"!
+LaTeX Font Info:    Kanji font shape `JY3/NotoSansTC(0)/b/sc' undefined
+(Font)              No change on input line 251.
 LaTeX Font Info:    Font shape `TU/Georgia(0)/b/n' will be
-(Font)              scaled to size 12.81313pt on input line 247.
-LaTeX Font Info:    Font shape `JT3/NotoSansCJKTC(0)/b/n' will be
-(Font)              scaled to size 13.85594pt on input line 247.
-LaTeX Font Info:    Font shape `JY3/NotoSansCJKTC(0)/b/n' will be
-(Font)              scaled to size 13.85594pt on input line 247.
+(Font)              scaled to size 12.81313pt on input line 253.
+LaTeX Font Info:    Font shape `JT3/NotoSansTC(0)/b/n' will be
+(Font)              scaled to size 13.85594pt on input line 253.
+LaTeX Font Info:    Font shape `JY3/NotoSansTC(0)/b/n' will be
+(Font)              scaled to size 13.85594pt on input line 253.
 LaTeX Font Info:    Font shape `TU/Georgia(0)/m/sl' in size <14.4> not available
-(Font)              Font shape `TU/Georgia(0)/m/it' tried instead on input line 247.
+(Font)              Font shape `TU/Georgia(0)/m/it' tried instead on input line 253.
 LaTeX Font Info:    Font shape `TU/Georgia(0)/m/it' will be
-(Font)              scaled to size 12.59735pt on input line 247.
-LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/sl' undefined
-(Font)              No change on input line 247.
-LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/sl' undefined
-(Font)              No change on input line 303.
+(Font)              scaled to size 12.59735pt on input line 253.
+LaTeX Font Info:    Kanji font shape `JY3/NotoSansTC(0)/m/sl' undefined
+(Font)              No change on input line 253.
+LaTeX Font Info:    Kanji font shape `JY3/NotoSansTC(0)/m/sl' undefined
+(Font)              No change on input line 309.
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 317--318
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 323--324
 [][] 
  []
 
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 324.
+(Font)              No change on input line 330.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 332.
-LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 339.
+(Font)              No change on input line 338.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
 (Font)              No change on input line 345.
-LaTeX Font Info:    Font shape `TU/Georgia(0)/m/n' will be
-(Font)              scaled to size 7.16174pt on input line 350.
-LaTeX Font Info:    Font shape `JT3/NotoSansCJKTC(0)/m/n' will be
-(Font)              scaled to size 7.69775pt on input line 350.
-[2]
-LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 353.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
 (Font)              No change on input line 359.
+LaTeX Font Info:    Font shape `TU/Georgia(0)/m/n' will be
+(Font)              scaled to size 7.16174pt on input line 363.
+LaTeX Font Info:    Font shape `JT3/NotoSansTC(0)/m/n' will be
+(Font)              scaled to size 7.69775pt on input line 363.
+[2
+Missing character: There is no 办 (U+529E) in font "name:Noto Sans TC Regular:mode=node;script=hani;language=dflt;-kern;jfm=ujis"!
+]
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 367.
+(Font)              No change on input line 372.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 379.
+(Font)              No change on input line 378.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
 (Font)              No change on input line 386.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 393.
-LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 400.
+(Font)              No change on input line 398.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
 (Font)              No change on input line 405.
-LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 406.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
 (Font)              No change on input line 412.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
 (Font)              No change on input line 419.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 426.
-LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/sl' undefined
+(Font)              No change on input line 424.
+LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
+(Font)              No change on input line 425.
+LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
 (Font)              No change on input line 431.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
 (Font)              No change on input line 438.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 441.
+(Font)              No change on input line 445.
+LaTeX Font Info:    Kanji font shape `JY3/NotoSansTC(0)/m/sl' undefined
+(Font)              No change on input line 450.
+LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
+(Font)              No change on input line 456.
+LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
+(Font)              No change on input line 457.
 [3]
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 459.
-LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/sl' undefined
-(Font)              No change on input line 466.
+(Font)              No change on input line 461.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 478.
-LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/sl' undefined
-(Font)              No change on input line 487.
-LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/sl' undefined
-(Font)              No change on input line 503.
+(Font)              No change on input line 464.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 511.
+(Font)              No change on input line 482.
+LaTeX Font Info:    Kanji font shape `JY3/NotoSansTC(0)/m/sl' undefined
+(Font)              No change on input line 489.
+LaTeX Font Info:    Kanji font shape `JY3/NotoSansTC(0)/m/sl' undefined
+(Font)              No change on input line 515.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 517.
-LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 526.
-LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
+(Font)              No change on input line 523.
+LaTeX Font Info:    Kanji font shape `JY3/NotoSansTC(0)/m/sl' undefined
 (Font)              No change on input line 527.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 528.
-LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/sl' undefined
-(Font)              No change on input line 531.
+(Font)              No change on input line 535.
+LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
+(Font)              No change on input line 541.
 [4]
-LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/b/sc' undefined
-(Font)              No change on input line 547.
-LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/sl' undefined
-(Font)              No change on input line 549.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
+(Font)              No change on input line 550.
+LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
+(Font)              No change on input line 551.
+LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
+(Font)              No change on input line 552.
+LaTeX Font Info:    Kanji font shape `JY3/NotoSansTC(0)/m/sl' undefined
+(Font)              No change on input line 555.
+LaTeX Font Info:    Kanji font shape `JY3/NotoSansTC(0)/b/sc' undefined
 (Font)              No change on input line 571.
+LaTeX Font Info:    Kanji font shape `JY3/NotoSansTC(0)/m/sl' undefined
+(Font)              No change on input line 573.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 579.
-LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/sl' undefined
-(Font)              No change on input line 596.
+(Font)              No change on input line 595.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 604.
-LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/sl' undefined
-(Font)              No change on input line 609.
+(Font)              No change on input line 603.
+LaTeX Font Info:    Kanji font shape `JY3/NotoSansTC(0)/m/sl' undefined
+(Font)              No change on input line 620.
+LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
+(Font)              No change on input line 628.
+LaTeX Font Info:    Kanji font shape `JY3/NotoSansTC(0)/m/sl' undefined
+(Font)              No change on input line 633.
 [5] [6]
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 741.
-LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 745.
-LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 749.
+(Font)              No change on input line 765.
 [7]
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 781.
-LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/sl' undefined
-(Font)              No change on input line 799.
+(Font)              No change on input line 769.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 812.
+(Font)              No change on input line 773.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 813.
+(Font)              No change on input line 805.
+LaTeX Font Info:    Kanji font shape `JY3/NotoSansTC(0)/m/sl' undefined
+(Font)              No change on input line 823.
+LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
+(Font)              No change on input line 836.
+LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
+(Font)              No change on input line 837.
 [8]
-LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/sl' undefined
-(Font)              No change on input line 833.
-LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/sl' undefined
-(Font)              No change on input line 847.
-LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/sl' undefined
-(Font)              No change on input line 866.
-LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/sl' undefined
-(Font)              No change on input line 883.
-LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 896.
-LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/sl' undefined
-(Font)              No change on input line 906.
+LaTeX Font Info:    Kanji font shape `JY3/NotoSansTC(0)/m/sl' undefined
+(Font)              No change on input line 857.
+LaTeX Font Info:    Kanji font shape `JY3/NotoSansTC(0)/m/sl' undefined
+(Font)              No change on input line 875.
+LaTeX Font Info:    Kanji font shape `JY3/NotoSansTC(0)/m/sl' undefined
+(Font)              No change on input line 894.
+LaTeX Font Info:    Kanji font shape `JY3/NotoSansTC(0)/m/sl' undefined
+(Font)              No change on input line 911.
 [9]
-LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/b/sc' undefined
-(Font)              No change on input line 923.
-LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/sl' undefined
-(Font)              No change on input line 925.
-LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/sl' undefined
-(Font)              No change on input line 933.
-
-Overfull \hbox (2.17525pt too wide) in paragraph at lines 940--940
-[]|\TU/Georgia(0)/m/n/12 MOST| 
- []
-
-
-Overfull \hbox (2.17525pt too wide) in paragraph at lines 941--941
-[]|\TU/Georgia(0)/m/n/12 MOST| 
- []
-
-
-Overfull \hbox (2.17525pt too wide) in paragraph at lines 942--942
-[]|\TU/Georgia(0)/m/n/12 MOST| 
- []
-
-
-Overfull \hbox (2.17525pt too wide) in paragraph at lines 944--944
-[]|\TU/Georgia(0)/m/n/12 MOST| 
- []
-
-LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/b/sc' undefined
-(Font)              No change on input line 947.
-LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/b/sc' undefined
+LaTeX Font Info:    Kanji font shape `JY3/NotoSansTC(0)/m/sl' undefined
+(Font)              No change on input line 934.
+LaTeX Font Info:    Kanji font shape `JY3/NotoSansTC(0)/b/sc' undefined
+(Font)              No change on input line 951.
+LaTeX Font Info:    Kanji font shape `JY3/NotoSansTC(0)/m/sl' undefined
+(Font)              No change on input line 954.
+LaTeX Font Info:    Kanji font shape `JY3/NotoSansTC(0)/m/sl' undefined
 (Font)              No change on input line 962.
+LaTeX Font Info:    Kanji font shape `JY3/NotoSansTC(0)/m/sl' undefined
+(Font)              No change on input line 970.
+
+Overfull \hbox (2.17525pt too wide) in paragraph at lines 977--977
+[]|\TU/Georgia(0)/m/n/12 MOST| 
+ []
+
+
+Overfull \hbox (2.17525pt too wide) in paragraph at lines 978--978
+[]|\TU/Georgia(0)/m/n/12 MOST| 
+ []
+
+
+Overfull \hbox (2.17525pt too wide) in paragraph at lines 979--979
+[]|\TU/Georgia(0)/m/n/12 MOST| 
+ []
+
+
+Overfull \hbox (2.17525pt too wide) in paragraph at lines 981--981
+[]|\TU/Georgia(0)/m/n/12 MOST| 
+ []
+
+LaTeX Font Info:    Kanji font shape `JY3/NotoSansTC(0)/b/sc' undefined
+(Font)              No change on input line 984.
 [10]
-LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/b/sc' undefined
-(Font)              No change on input line 972.
-LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/it' undefined
-(Font)              No change on input line 986.
-LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/b/sc' undefined
-(Font)              No change on input line 988.
-LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/it' undefined
-(Font)              No change on input line 1009.
-LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/it' undefined
-(Font)              No change on input line 1009.
-LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/it' undefined
-(Font)              No change on input line 1009.
-LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/it' undefined
-(Font)              No change on input line 1009.
-LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/it' undefined
-(Font)              No change on input line 1009.
-LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/it' undefined
-(Font)              No change on input line 1009.
-LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/sc' undefined
-(Font)              No change on input line 1009.
-LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/sc' undefined
-(Font)              No change on input line 1009.
-LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/sc' undefined
-(Font)              No change on input line 1009.
-LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/it' undefined
-(Font)              No change on input line 1009.
-[11] [12]
-LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/b/sc' undefined
-(Font)              No change on input line 1013.
-LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/sl' undefined
-(Font)              No change on input line 1016.
-LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 1022.
-LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 1025.
-LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 1028.
-LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
+LaTeX Font Info:    Kanji font shape `JY3/NotoSansTC(0)/b/sc' undefined
+(Font)              No change on input line 999.
+LaTeX Font Info:    Kanji font shape `JY3/NotoSansTC(0)/b/sc' undefined
+(Font)              No change on input line 1012.
+LaTeX Font Info:    Kanji font shape `JY3/NotoSansTC(0)/m/it' undefined
+(Font)              No change on input line 1021.
+[11]
+LaTeX Font Info:    Kanji font shape `JY3/NotoSansTC(0)/b/sc' undefined
 (Font)              No change on input line 1030.
-LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/sl' undefined
-(Font)              No change on input line 1035.
-LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/sl' undefined
-(Font)              No change on input line 1045.
-LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 1053.
-LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 1055.
-LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 1057.
-LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 1059.
-LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 1061.
+LaTeX Font Info:    Kanji font shape `JY3/NotoSansTC(0)/m/it' undefined
+(Font)              No change on input line 1040.
+LaTeX Font Info:    Kanji font shape `JY3/NotoSansTC(0)/m/it' undefined
+(Font)              No change on input line 1040.
+LaTeX Font Info:    Kanji font shape `JY3/NotoSansTC(0)/m/it' undefined
+(Font)              No change on input line 1043.
+LaTeX Font Info:    Kanji font shape `JY3/NotoSansTC(0)/m/it' undefined
+(Font)              No change on input line 1043.
+LaTeX Font Info:    Kanji font shape `JY3/NotoSansTC(0)/m/it' undefined
+(Font)              No change on input line 1043.
+LaTeX Font Info:    Kanji font shape `JY3/NotoSansTC(0)/m/it' undefined
+(Font)              No change on input line 1046.
+
+LaTeX Font Warning: Font shape `TU/Georgia(0)/m/sc' undefined
+(Font)              using `TU/Georgia(0)/m/n' instead on input line 1047.
+
+LaTeX Font Info:    Kanji font shape `JY3/NotoSansTC(0)/m/sc' undefined
+(Font)              No change on input line 1047.
+LaTeX Font Info:    Font shape `TU/Georgia(0)/m/sc' will be
+(Font)              scaled to size 10.74261pt on input line 1047.
+LaTeX Font Info:    Kanji font shape `JY3/NotoSansTC(0)/m/sc' undefined
+(Font)              No change on input line 1047.
+LaTeX Font Info:    Kanji font shape `JY3/NotoSansTC(0)/m/sc' undefined
+(Font)              No change on input line 1047.
+LaTeX Font Info:    Kanji font shape `JY3/NotoSansTC(0)/m/it' undefined
+(Font)              No change on input line 1047.
+[12]
+LaTeX Font Info:    Kanji font shape `JY3/NotoSansTC(0)/b/sc' undefined
+(Font)              No change on input line 1056.
+LaTeX Font Info:    Kanji font shape `JY3/NotoSansTC(0)/m/sl' undefined
+(Font)              No change on input line 1058.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
 (Font)              No change on input line 1063.
-LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 1065.
-LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 1067.
-LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 1069.
-LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
+LaTeX Font Info:    Kanji font shape `JY3/NotoSansTC(0)/m/sl' undefined
 (Font)              No change on input line 1071.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 1079.
+(Font)              No change on input line 1077.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 1081.
+(Font)              No change on input line 1080.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
 (Font)              No change on input line 1083.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 1086.
-LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 1088.
-LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
+(Font)              No change on input line 1085.
+LaTeX Font Info:    Kanji font shape `JY3/NotoSansTC(0)/m/sl' undefined
 (Font)              No change on input line 1090.
-LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 1092.
-LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 1094.
-LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 1097.
-LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
+LaTeX Font Info:    Kanji font shape `JY3/NotoSansTC(0)/m/sl' undefined
 (Font)              No change on input line 1100.
-LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 1102.
-LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 1104.
-LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 1106.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
 (Font)              No change on input line 1108.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
@@ -1688,7 +1669,6 @@ LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
 (Font)              No change on input line 1112.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
 (Font)              No change on input line 1114.
-[13]
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
 (Font)              No change on input line 1116.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
@@ -1697,69 +1677,123 @@ LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
 (Font)              No change on input line 1120.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
 (Font)              No change on input line 1122.
-LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/sl' undefined
+LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
+(Font)              No change on input line 1124.
+LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
 (Font)              No change on input line 1126.
-LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/sl' undefined
+LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
 (Font)              No change on input line 1134.
-LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/sl' undefined
+LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
+(Font)              No change on input line 1136.
+LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
+(Font)              No change on input line 1138.
+LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
+(Font)              No change on input line 1141.
+[13]
+LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
+(Font)              No change on input line 1143.
+LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
+(Font)              No change on input line 1145.
+LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
+(Font)              No change on input line 1147.
+LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
+(Font)              No change on input line 1149.
+LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
+(Font)              No change on input line 1152.
+LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
+(Font)              No change on input line 1155.
+LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
 (Font)              No change on input line 1157.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 1161.
+(Font)              No change on input line 1159.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
 (Font)              No change on input line 1161.
-LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/m/sl' undefined
+LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
+(Font)              No change on input line 1163.
+LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
+(Font)              No change on input line 1165.
+LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
 (Font)              No change on input line 1167.
-LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/b/sc' undefined
-(Font)              No change on input line 1196.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 1199.
-LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/b/sc' undefined
-(Font)              No change on input line 1202.
+(Font)              No change on input line 1169.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 1207.
+(Font)              No change on input line 1171.
+LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
+(Font)              No change on input line 1173.
+LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
+(Font)              No change on input line 1175.
+LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
+(Font)              No change on input line 1177.
+LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
+(Font)              No change on input line 1179.
+LaTeX Font Info:    Kanji font shape `JY3/NotoSansTC(0)/m/sl' undefined
+(Font)              No change on input line 1183.
+LaTeX Font Info:    Kanji font shape `JY3/NotoSansTC(0)/m/sl' undefined
+(Font)              No change on input line 1191.
+LaTeX Font Info:    Kanji font shape `JY3/NotoSansTC(0)/m/sl' undefined
+(Font)              No change on input line 1217.
+LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
+(Font)              No change on input line 1221.
+LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
+(Font)              No change on input line 1226.
 [14]
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 1210.
+(Font)              No change on input line 1232.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 1214.
+(Font)              No change on input line 1232.
+LaTeX Font Info:    Kanji font shape `JY3/NotoSansTC(0)/m/sl' undefined
+(Font)              No change on input line 1237.
+LaTeX Font Info:    Kanji font shape `JY3/NotoSansTC(0)/b/sc' undefined
+(Font)              No change on input line 1266.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 1223.
-LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/b/sc' undefined
-(Font)              No change on input line 1234.
-LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/b/sc' undefined
-(Font)              No change on input line 1243.
-LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/b/sc' undefined
 (Font)              No change on input line 1269.
-LaTeX Font Info:    Kanji font shape `JY3/NotoSansCJKTC(0)/b/sc' undefined
+LaTeX Font Info:    Kanji font shape `JY3/NotoSansTC(0)/b/sc' undefined
+(Font)              No change on input line 1272.
+LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
+(Font)              No change on input line 1277.
+LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
+(Font)              No change on input line 1280.
+LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
 (Font)              No change on input line 1284.
-[15] [16] 
+LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
+(Font)              No change on input line 1293.
+LaTeX Font Info:    Kanji font shape `JY3/NotoSansTC(0)/b/sc' undefined
+(Font)              No change on input line 1304.
+[15]
+LaTeX Font Info:    Kanji font shape `JY3/NotoSansTC(0)/b/sc' undefined
+(Font)              No change on input line 1313.
+LaTeX Font Info:    Kanji font shape `JY3/NotoSansTC(0)/b/sc' undefined
+(Font)              No change on input line 1339.
+LaTeX Font Info:    Kanji font shape `JY3/NotoSansTC(0)/b/sc' undefined
+(Font)              No change on input line 1354.
+[16] 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
 (./cv_thomas.aux)
  ***********
-LaTeX2e <2025-11-01>
-L3 programming layer <2026-01-19>
+LaTeX2e <2026-06-01>
+L3 programming layer <2026-06-18>
  ***********
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `cv_thomas.out' has not changed.
-(rerunfilecheck)             Checksum: 128FC018C2C3030AF68030569045EEC7;6877.
+(rerunfilecheck)             Checksum: D9B76ECCFB5D79173641B3F4FACE0039;7226.
 )
 
 Here is how much of LuaTeX's memory you used:
- 22069 strings out of 476076
- 195698,953878 words of node,token memory allocated
- 1443 words of node memory still in use:
-   11 hlist, 2 vlist, 6 rule, 2 glue, 4 kern, 1 glyph, 290 attribute, 80 glue_spec, 38 attribute_list, 1 write, 13 user_defined, 9 pdf_action nodes
-   avail lists: 1:32,2:55767,3:526,4:658,5:128,6:193,7:7588,8:50,9:1418,10:10,11:572
- 43824 multiletter control sequences out of 65536+600000
- 81 fonts using 138457551 bytes
- 92i,13n,125p,2044b,1132s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</Users/Thomas/Library/Fonts/academicons.ttf></Users/Thomas/Library/TinyTeX/texmf-dist/fonts/opentype/public/fontawesome5/FontAwesome5Brands-Regular-400.otf></System/Library/Fonts/Supplemental/Georgia Italic.ttf></Users/Thomas/Library/TinyTeX/texmf-dist/fonts/opentype/public/lm/lmmono12-regular.otf></Users/Thomas/Library/TinyTeX/texmf-dist/fonts/opentype/public/fontawesome5/FontAwesome5Free-Solid-900.otf></System/Library/Fonts/Supplemental/Georgia.ttf></Users/Thomas/Library/Fonts/NotoSansCJKtc-Regular.otf></System/Library/Fonts/Supplemental/Georgia Bold.ttf>
-Output written on cv_thomas.pdf (16 pages, 147884 bytes).
+ 22160 strings out of 475704
+ 195703,1144653 words of node,token memory allocated
+ 1397 words of node memory still in use:
+   10 hlist, 2 vlist, 5 rule, 2 glue, 4 kern, 1 glyph, 277 attribute, 80 glue_spec, 36 attribute_list, 1 write, 12 user_defined, 10 pdf_action nodes
+   avail lists: 1:36,2:47566,3:501,4:613,5:125,6:174,7:7437,8:50,9:1292,10:10,11:563
+ 44264 multiletter control sequences out of 65536+600000
+ 87 fonts using 80114943 bytes
+ 91i,12n,125p,2069b,1132s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</Users/Thomas/Library/Fonts/NotoSansTC-Regular.ttf></Users/Thomas/Library/Fonts/academicons.ttf></Users/Thomas/Library/TinyTeX/texmf-dist/fonts/opentype/public/fontawesome5/FontAwesome5Brands-Regular-400.otf></System/Library/Fonts/Supplemental/Georgia Italic.ttf></Users/Thomas/Library/TinyTeX/texmf-dist/fonts/opentype/public/lm/lmmono12-regular.otf></Users/Thomas/Library/TinyTeX/texmf-dist/fonts/opentype/public/fontawesome5/FontAwesome5Free-Solid-900.otf></System/Library/Fonts/Supplemental/Georgia.ttf></Users/Thomas/Library/Fonts/NotoSansTC-Bold.ttf></System/Library/Fonts/Supplemental/Georgia Bold.ttf>
+Output written on cv_thomas.pdf (16 pages, 274567 bytes).
 
-PDF statistics: 502 PDF objects out of 1000 (max. 8388607)
- 455 compressed objects within 5 object streams
- 147 named destinations out of 1000 (max. 1048576)
- 369 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 523 PDF objects out of 1000 (max. 8388607)
+ 473 compressed objects within 5 object streams
+ 155 named destinations out of 1000 (max. 1048576)
+ 385 words of extra memory for PDF output out of 10000 (max. 100000000)
 
