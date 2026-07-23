@@ -20,7 +20,7 @@ fontawesome: true
 academicons: true
 email: thomas_van_hoey@outlook.com
 email2: thomas.vanhoey@kuleuven.be
-github: github.com/simazhi
+github: simazhi
 phone: +32 472 32 43 00
 web: thomasvanhoey.com
 orcid: 0000-0002-5226-9752
@@ -36,6 +36,7 @@ header-includes:
   - \newcommand{\iconspace}{\quad}
   - \NewDocumentCommand{\iconset}{>{\SplitList{,}}m}{\textcolor[gray]{0.4}{\footnotesize\ProcessList{#1}{\iconitem}}}
   - \newcommand{\iconitem}[1]{#1\iconspace}
+keep-tex: true
 ---
 
 <!-- # Biography 
@@ -175,7 +176,7 @@ Choice and complexity: In naturally occurring data, absolute complexity does not
 
 (@)
 **Van Hoey, Thomas**\*, Arthur Lewis Thompson\*, Aaron Wing Cheung Chik & Youngah Do. 
-2025 (online).
+2025.
 Iconic hand gestures from ideophones exhibit stability and emergent phonological properties: An iterated learning study.
 *Cognitive Linguistics*  36(2). 227-259.
 [doi:10.1515/cog-2024-0033](https://doi.org/10.1515/cog-2024-0033)
@@ -248,6 +249,13 @@ Thompson, Arthur Lewis, **Thomas Van Hoey** & Youngah Do. 2021. Articulatory fea
 ## Book chapters
 
 (@)
+**Van Hoey, Thomas**. 
+*accepted*.
+Sound and lexical semantics. 
+*Cambridge handbook of lexical semantics* (eds. Dirk Geeraerts & Dylan Glynn)
+\iconset{   \faUserCheck \, \faAt }
+
+(@)
 Szmrecsanyi, Benedikt, Matt Hunt Gardner, Ruiming Ma & **Thomas Van Hoey**. 
 *accepted*.
 Empirical accountability meets theorizing about language variation. in Cukor-Avila, Patrica, Sali A. Tagliamonte & Guy Bailey (eds.) *Empirical accountability in variation linguistics: Taking the next step*. Cambridge University Press. 
@@ -275,9 +283,18 @@ Yu, Xiaoyu, Bingzi Yu, **Thomas Van Hoey**, Samuel Sui Lung Sze, Frank Lihui Tan
 \iconset{   \faChartLine \,  \faPenNib }
 
 
+(@) 
+**Van Hoey, Thomas**, Ruiming Ma, Matt. H. Gardner & Benedikt Szmrecsanyi.
+You know, like, op- optionality: Grammatical optionality does not trigger discourse markers nor repairs.
+<!-- Language Variation and Change. -->
+\iconset{ \faLightbulb \,   \faChartLine \,  \faPenNib \,   \faAt }
+
 (@)
-**Van Hoey, Thomas**. Sound and lexical semantics. *Cambridge handbook of lexical semantics* (eds. Dirk Geeraerts & Dylan Glynn)
+**Van Hoey, Thomas**.
+Lexicological salience in ideophone semantics: Toward an onomasiological turn.
+<!-- Cognitive Semantics -->
 \iconset{   \faUserCheck \, \faAt }
+
 
 (@)
 **Van Hoey, Thomas**, Dan Dewey, Youngah Do. fNIR study on ideophone usage in Mandarin speakers.
@@ -286,16 +303,16 @@ Yu, Xiaoyu, Bingzi Yu, **Thomas Van Hoey**, Samuel Sui Lung Sze, Frank Lihui Tan
 
 ## Publications in preparation
 
-(@) 
-**Van Hoey, Thomas**, Ruiming Ma, Matt. H. Gardner & Benedikt Szmrecsanyi.
-You know, like, op- optionality: Grammatical optionality does not trigger discourse markers nor repairs
-<!-- Language Variation and Change. -->
-\iconset{ \faLightbulb \,   \faChartLine \,  \faPenNib \,   \faAt }
+
+
+
 
 
 (@)
 **Van Hoey, Thomas**.
-The lexical aspect of ideophones: A typological art as well as a Talmyan Croft
+The semantics of depictive lexicons.
+*Elements in Cognitive Linguistics*.
+Cambridge: Cambridge University Presss.
 \iconset{   \faUserCheck \, \faAt }
 
 
@@ -512,9 +529,13 @@ Yu, Xiaoyu, Samuel Sui Lung Sze, **Thomas Van Hoey**, Bingzi Yu, Frank Lihui Tan
 **Van Hoey, Thomas**. 2016. Ideophones in Premodern Chinese: Revisiting Dingemanse’s implicational hierarchy (poster). Mimetics in Japanese and other languages in the world (日本語と世界諸言語のオノマトペ). Tachikawa: NINJAL. 17-18 December 2016. Funding: MOST-105-2922-I-002-682. [doi:10.6084/m9.figshare.12652514](https://doi.org/10.6084/m9.figshare.12652514)
 
 
+<!-- ## Conference panels -->
 
 ## Theme sessions 
-<!-- ## Conference panels -->
+
+(@)
+Körtvélyessy, Lívia & **Thomas Van Hoey**. When sounds speak: Towards a typology of sound symbolism and iconicity. SLE 59 [59th Annual Meeting of the Societas Linguistica Europaea]. Osnabrück: Osnabrück University. 26-29 August 2026.
+
 
 (@)
 Dingemanse, Mark, Arie Verhagen, Jonas Nölle & **Thomas Van Hoey**. 2019. Integrating iconicity: Recent work and future directions. ICLC 15 [International Cognitive Linguistics Conference], Nishinomiya: Kwansei Gakuin University. 6-11 August 2019. https://iclc2019.site/. 
@@ -543,7 +564,7 @@ Van de Velde, Freek & Dirk Pijpops, in collaboration with Mathias De Backer, Wen
 
 
 (@)
-**Van Hoey, Thomas**. 2021. R Tutorial for Linguistics Pioneering Initiative. National Taiwan University. 6 lectures during November 2021. *(soon to be released on YouTube)*
+**Van Hoey, Thomas**. 2021. R Tutorial for Linguistics Pioneering Initiative. National Taiwan University. 6 lectures during November 2021.
 
 (@)
 **Van Hoey, Thomas**. 2019. R bootcamp for lexical semanticists. Introduction to wrangling raw data to formats useable for further analysis using R. Seminar on Language and Culture 語言與文化專題研究.Taipei: National Taiwan University. 5 lectures during November 2019. [blogpost](https://www.thomasvanhoey.com/post/rbootcamp-2019/)
@@ -558,6 +579,14 @@ Van de Velde, Freek & Dirk Pijpops, in collaboration with Mathias De Backer, Wen
 
 
 # Funding
+
+## Competitive grant applications
+
+\begin{tabular}{p{1.9cm}p{9cm}p{1cm}p{2.7cm}}
+2026 &  European Research Council Starting Grant  & ERC & \RaggedLeft{} \\
+%     &  Iconventional \\
+     &  Invited to Stage 2 interview \\
+\end{tabular}
 
 ## Fellowships
 
@@ -606,20 +635,22 @@ Van de Velde, Freek & Dirk Pijpops, in collaboration with Mathias De Backer, Wen
 ```{r, echo=FALSE}
 phd_supervision_table <-
   tribble(~ year, ~ name, ~ title, ~ university,
-          "2024-2028",   "Ma, Ruiming", "Does grammatical optionality complicate speech production and comprehension? The case of Mandarin Chinese (3H240027)", "KU Leuven"
+          "2024-2028",   "Ma, Ruiming", "Does grammatical optionality complicate speech production and comprehension? \\newline The case of Mandarin Chinese (3H240027)", "KU Leuven",
+          "2026-2030", "Van Ranst, \\newline Jan Jao", "BUG-OR-FEATURE: Variation, optionality, \\newline and dysfluencies (3H250606)", "KU Leuven"
           
           )
 
 phd_supervision_table %>% 
-  kbl(booktabs = TRUE, linesep = "", align = c("rllr"),
-      escape = FALSE) %>% 
-  kable_styling(full_width = TRUE) %>% 
+  kbl(format = "latex",
+      booktabs = TRUE, longtable = TRUE, linesep = "",
+      align = c("r", "l", "l", "r"), escape = FALSE) %>% 
+  kable_styling(full_width = FALSE) %>% 
   column_spec(1, width = "1.9 cm") %>% 
   column_spec(2, width = "2.55 cm") %>% 
   column_spec(3, width = "8 cm")  
 ```
 
-
+\FloatBarrier
 
 # PhD Committee
 
@@ -637,9 +668,10 @@ phd_committee_table <-
           )
 
 phd_committee_table %>% 
-  kbl(booktabs = TRUE, linesep = "", align = c("rllr"),
-      escape = FALSE) %>% 
-  kable_styling(full_width = TRUE) %>% 
+  kbl(format = "latex",
+      booktabs = TRUE, longtable = TRUE, linesep = "",
+      align = c("r", "l", "l", "r"), escape = FALSE) %>% 
+  kable_styling(full_width = FALSE) %>% 
   column_spec(1, width = "1.9 cm") %>% 
   column_spec(2, width = "2.55 cm") %>% 
   column_spec(3, width = "8 cm")  
@@ -664,6 +696,7 @@ phd_committee_table %>%
 <!-- ``` -->
 
 
+\FloatBarrier
 
 
 # MA Thesis supervision 
@@ -673,6 +706,7 @@ phd_committee_table %>%
 ```{r, echo=FALSE}
 supervision_table <-
   tribble(~ year, ~ name, ~ title, ~ university,
+          "2026",   "Van Ranst, Jan Jao", '"CP值": Creative loans in Taiwan Mandarin: Synchronic and diachronic typologies of pseudo-anglicisms in Taiwanese Mandarin', "KU Leuven",
           "2025",   "Liu, Ya-Ping", "Reevaluating Mandarin tone arbitrariness: Insights from Chinese polyphones and audio analysis", "KU Leuven",
           "2024",   "Liu, Yixi", "Do variation contexts attract disfluencies? The case of discourse markers", "KU Leuven",
           "2024",   "Gerets, Nan", "Exploring language and identity in the Chinese lesbian and non-binary digital sphere", "KU Leuven",
@@ -692,9 +726,10 @@ supervision_table <-
           )
 
 supervision_table %>% 
-  kbl(booktabs = TRUE, linesep = "", align = c("rllr"),
-      escape = FALSE) %>% 
-  kable_styling(full_width = TRUE) %>% 
+  kbl(format = "latex",
+      booktabs = TRUE, longtable = TRUE, linesep = "",
+      align = c("r", "l", "l", "r"), escape = FALSE) %>% 
+  kable_styling(full_width = FALSE) %>% 
   column_spec(1, width = "1 cm") %>% 
   column_spec(2, width = "3.6 cm") %>% 
   column_spec(3, width = "8 cm") #%>%
@@ -731,10 +766,18 @@ supervision_table %>%
 <!--   # kable_paper(full_width = F) -->
 <!-- ``` -->
 
-\pagebreak
+\FloatBarrier
+
+
 
 # Service 
 <!-- Administration, leadership, management -->
+
+## Editorial work
+
+- General editor \hfill 2026-*ongoing*  
+\qquad Royal South Netherlandic Society for Language, Literature and History   
+\qquad (Koninklijke Zuid-Nederlands Maatschappij voor Taal- en Letterkunde en Geschiedenis) 
 
 ## Institutional responsibilities
 
@@ -787,6 +830,7 @@ president (since 2023)
 * *PLoS*
 * *Quarterly Journal of Experimental Psychology*
 * *SKASE Journal of Theoretical Linguistics*
+* *Semantic Fieldwork Methods*
 * *Studies in Language*
 * *Typology at the Crossroads*
 
@@ -796,6 +840,7 @@ president (since 2023)
 
 ## Conferences
 
+* CogLing Days (Conference of the Cognitive Linguistics Association of Belgium and the Netherlands) 2026
 * SLE 59 (Societas Linguistica Europaea) 2026
 * IcoSem 4 (Iconicity Seminar) & ILL 15 (Iconicity in Language and Literature) 2026
 * SLE 58 (Societas Linguistica Europaea) 2025
@@ -807,10 +852,24 @@ president (since 2023)
 
 ## Conference organisation
 
+
+isLE9 \hfill 2027  
+*9th conference of the International Society for the Linguistics of English*
+https://isle9conference.com/  \newline
+Role: website, co-organizer
+
+
+CogLing Days \hfill 2026  
+*Conference of the Cognitive Linguistics Association of Belgium and the Netherlands (BeNeCLA)*  
+https://www.linkedin.com/groups/17511038/ \newline
+Role: co-organizer
+
+
+
 ICPEAL 17 - CLDC 9 \hfill 2018  
-*International Conference for the Processing of East Asian Languages* and *Conference on Language, Discourse, and Cognition*
+*International Conference for the Processing of East Asian Languages* and *Conference on Language, Discourse, and Cognition*  
 http://homepage.ntu.edu.tw/~gilntu/icpeal2018cldc/ \newline
-Role: coordinator of the student committee responsible for organizing the joint conference
+Role: student committee coordinator
 
 
 <!-- ## Student representation -->
