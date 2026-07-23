@@ -47,7 +47,10 @@ $if(luatexja)$
     % \setCJKmainfont[$for(CJKoptions)$$CJKoptions$$sep$,$endfor$]{$CJKmainfont$}
   \usepackage{luatexja}
   \usepackage{luatexja-fontspec}
-  \setmainjfont{Noto Sans CJK TC}
+  \setmainjfont[
+  UprightFont = {Noto Sans TC Regular},
+  BoldFont    = {Noto Sans TC Bold}
+]{Noto Sans TC}
 $endif$
 \fi
 % use upquote if available, for straight quotes in verbatim environments
@@ -247,7 +250,9 @@ $endif$
 \begin{document}
 
 
-\centerline{\huge \bf $author$}
+\begin{center}
+  {\huge\bfseries $author$\par}
+\end{center}
 
 \vspace{2 mm}
 
